@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T10:26:13.038Z",
+  "generated_at": "2026-04-23T12:03:46.165Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1245,
+      "count": 1246,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2106,
+      "count": 2107,
       "error": null
     },
     "Hyperliquid": {
@@ -54869,6 +54869,17 @@
         ]
       }
     },
+    "STAY": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "STAY-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "STBL": {
       "listings": {
         "Bitget": [
@@ -60582,6 +60593,17 @@
             "symbol": "UMAUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "UMXM": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "UMXMUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

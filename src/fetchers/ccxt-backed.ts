@@ -6,6 +6,8 @@ export interface CcxtExchangeSpec {
   name: string
   /** CCXT exchange id(s). A single brand may span multiple ids (e.g. kucoin + kucoinfutures). */
   ccxtIds: string[]
+  /** Per-exchange CCXT constructor options (e.g. hostname overrides). */
+  options?: Record<string, unknown>
 }
 
 const ALLOWED_QUOTES = new Set(['USDT', 'USDC'])
@@ -28,12 +30,18 @@ function normalizeType(type: string | undefined): MarketType {
   }
 }
 
-async function loadMarketsForId(ccxtId: string): Promise<any[]> {
+async function loadMarketsForId(
+  ccxtId: string,
+  extraOptions?: Record<string, unknown>
+): Promise<any[]> {
   const ExchangeClass = (ccxt as any)[ccxtId]
   if (!ExchangeClass) {
     throw new Error(`ccxt: no exchange class for id "${ccxtId}"`)
   }
-  const ex: Exchange = new ExchangeClass({ enableRateLimit: true })
+  const ex: Exchange = new ExchangeClass({
+    enableRateLimit: true,
+    ...extraOptions,
+  })
   const markets = await ex.loadMarkets()
   return Object.values(markets)
 }
@@ -46,7 +54,7 @@ export async function fetchCcxtExchange(
   try {
     const allMarkets: any[] = []
     for (const ccxtId of spec.ccxtIds) {
-      const markets = await loadMarketsForId(ccxtId)
+      const markets = await loadMarketsForId(ccxtId, spec.options)
       allMarkets.push(...markets)
     }
 

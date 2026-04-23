@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T14:05:50.378Z",
+  "generated_at": "2026-04-23T16:02:40.782Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 518,
+      "count": 517,
       "error": null
     },
     "OKX": {
@@ -57889,13 +57889,6 @@
     },
     "TIME": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TIMEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "TIME-USDT",

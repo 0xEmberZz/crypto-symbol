@@ -2,17 +2,15 @@ import { writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
 import { fetchCcxtExchange, type CcxtExchangeSpec } from './fetchers/ccxt-backed.ts'
 import { fetchBinance } from './fetchers/binance.ts'
+import { fetchBybit } from './fetchers/bybit.ts'
 import { fetchAster } from './fetchers/aster.ts'
 import { fetchLighter } from './fetchers/lighter.ts'
 import type { FetchResult, SymbolIndex } from './types.ts'
 
-// Binance runs direct via its vision data mirror (api.binance.com 451-blocks
-// GitHub Actions runners). See src/fetchers/binance.ts.
+// Binance and Bybit have dedicated fetchers (see src/fetchers/) because both
+// exchanges 403/451-block GitHub Actions runner IPs on their public APIs.
 const CCXT_EXCHANGES: CcxtExchangeSpec[] = [
   { name: 'OKX', ccxtIds: ['okx'] },
-  // api.bybit.com 403-blocks GitHub Actions runners; bytick.com is Bybit's
-  // alternate DNS without the same geo filter.
-  { name: 'Bybit', ccxtIds: ['bybit'], options: { hostname: 'bytick.com' } },
   { name: 'Bitget', ccxtIds: ['bitget'] },
   { name: 'Gate', ccxtIds: ['gate'] },
   // kucoin = spot only; kucoinfutures covers USDT-M perps.
@@ -25,6 +23,7 @@ const OUTPUT_FILE = resolve(process.cwd(), 'supported-symbols.json')
 async function runAllFetchers(): Promise<FetchResult[]> {
   const tasks: Promise<FetchResult>[] = [
     fetchBinance(),
+    fetchBybit(),
     ...CCXT_EXCHANGES.map((spec) => fetchCcxtExchange(spec)),
     fetchAster(),
     fetchLighter(),

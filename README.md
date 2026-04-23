@@ -47,8 +47,9 @@ Partial failure is tolerated — if Binance is down but the other 8 exchanges re
 
 ## Sources
 
-- 6 exchanges via [CCXT](https://github.com/ccxt/ccxt): OKX, Bybit (via `bytick.com` alternate DNS to bypass Azure-IP geoblock), Bitget, Gate, KuCoin, Hyperliquid
+- 5 exchanges via [CCXT](https://github.com/ccxt/ccxt): OKX, Bitget, Gate, KuCoin, Hyperliquid
 - Binance: direct `data-api.binance.vision/api/v3/exchangeInfo` (spot only — the main host 451-blocks GitHub Actions runners)
+- Bybit: via CoinPaprika `/v1/exchanges/bybit-spot/markets` (Bybit's own API IP-blocks GitHub runners on both `api.bybit.com` and `api.bytick.com`; CoinPaprika has full spot coverage). Bybit perps intentionally absent — no freely-accessible source
 - Aster: direct `fapi.asterdex.com/fapi/v1/exchangeInfo` (Binance-compatible shape)
 - Lighter: direct `mainnet.zklighter.elliot.ai/api/v1/orderBooks` (perp DEX, USDC-margined)
 

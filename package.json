@@ -1,0 +1,22 @@
+{
+  "name": "crypto-symbol",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hourly-refreshed, normalized trading-pair index across the exchanges supported by vergex. Consumed by the vergex-web TokenScope search via jsDelivr CDN.",
+  "type": "module",
+  "scripts": {
+    "build": "tsx src/build.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "ccxt": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

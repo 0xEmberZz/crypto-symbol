@@ -1,0 +1,54 @@
+name: Refresh symbol index
+
+on:
+  schedule:
+    # Every hour at :07 — offset from round-hour to avoid CCXT cron collisions on exchange side.
+    - cron: '7 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.github/workflows/refresh.yml'
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Build symbol index
+        run: pnpm build
+
+      - name: Commit updated index
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add supported-symbols.json
+          if git diff --cached --quiet -- supported-symbols.json; then
+            echo 'No changes to supported-symbols.json'
+            exit 0
+          fi
+          git commit -m "chore(data): refresh symbol index $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

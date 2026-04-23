@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T12:03:46.165Z",
+  "generated_at": "2026-04-23T14:05:50.378Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 356,
+      "count": 360,
       "error": null
     },
     "Lighter": {
@@ -8601,6 +8601,13 @@
           },
           {
             "symbol": "BBUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BBUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -36701,6 +36708,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "MERLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -56936,6 +56950,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "TACUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -62302,6 +62323,13 @@
           },
           {
             "symbol": "VELVETUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "VELVETUSDT",
             "quote": "USDT",
             "type": "swap"
           }

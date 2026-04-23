@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:52:13.260Z",
+  "generated_at": "2026-04-23T10:26:13.038Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 835,
+      "count": 836,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2102,
+      "count": 2106,
       "error": null
     },
     "Hyperliquid": {
@@ -3646,6 +3646,18 @@
         "Gate": [
           {
             "symbol": "AMD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AMDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "AMDUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -15704,6 +15716,18 @@
         "OKX": [
           {
             "symbol": "CRWV-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "CRWVUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "CRWVUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42429,6 +42453,13 @@
             "type": "spot"
           }
         ],
+        "OKX": [
+          {
+            "symbol": "OPG-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "OPGUSDT",
@@ -46782,13 +46813,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

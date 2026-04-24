@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:55:37.315Z",
+  "generated_at": "2026-04-24T15:15:23.576Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 838,
+      "count": 839,
       "error": null
     },
     "Bitget": {
@@ -13907,6 +13907,11 @@
           {
             "symbol": "CHIP-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "CHIP-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {

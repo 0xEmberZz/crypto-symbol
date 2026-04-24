@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T06:16:05.226Z",
+  "generated_at": "2026-04-24T09:05:24.197Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 836,
+      "count": 837,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2830,
+      "count": 2827,
       "error": null
     },
     "KuCoin": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 360,
+      "count": 361,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 169,
+      "count": 164,
       "error": null
     }
   },
@@ -13868,6 +13868,11 @@
         ],
         "OKX": [
           {
+            "symbol": "CHIP-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "CHIP-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -26258,17 +26263,6 @@
         ]
       }
     },
-    "HANMI": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "HANMI",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "HAPPY": {
       "listings": {
         "Hyperliquid": [
@@ -26833,11 +26827,6 @@
             "symbol": "HIPPO_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "HIPPO_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -27443,11 +27432,6 @@
             "symbol": "HOOK_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "HOOK_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -27856,6 +27840,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "HUMAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -28107,17 +28098,6 @@
           {
             "symbol": "HYPERUSDT",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "HYUNDAI": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "HYUNDAI",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -32211,17 +32191,6 @@
             "symbol": "KPOL-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "KRCOMP": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "KRCOMP",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }
@@ -37857,17 +37826,6 @@
         ]
       }
     },
-    "MOBILE": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "MOBILE_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MOCA": {
       "listings": {
         "Bybit": [
@@ -41158,11 +41116,6 @@
             "symbol": "NTRN_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "NTRN_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -50762,17 +50715,6 @@
         ]
       }
     },
-    "SAMSUNG": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "SAMSUNG",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "SAMSUNGUSD": {
       "listings": {
         "Lighter": [
@@ -52496,17 +52438,6 @@
             "symbol": "SKEY-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "SKHYNIX": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "SKHYNIX",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }
@@ -57967,17 +57898,6 @@
         ]
       }
     },
-    "TIMECHRONO": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "TIMECHRONO_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "TITN": {
       "listings": {
         "Gate": [
@@ -60483,6 +60403,28 @@
             "symbol": "UBUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "UB3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UB3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "UB3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UB3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

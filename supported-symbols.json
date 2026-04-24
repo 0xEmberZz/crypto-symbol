@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:54:50.863Z",
+  "generated_at": "2026-04-24T03:35:07.633Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1246,
+      "count": 1245,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2822,
+      "count": 2830,
       "error": null
     },
     "KuCoin": {
@@ -4707,17 +4707,6 @@
         ]
       }
     },
-    "AQT": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "AQTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "AR": {
       "listings": {
         "Binance": [
@@ -8924,6 +8913,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "BE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -12220,6 +12216,17 @@
         ]
       }
     },
+    "BWXT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BWXT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BXC": {
       "listings": {
         "Gate": [
@@ -12641,6 +12648,17 @@
         ]
       }
     },
+    "CARR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CARR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CARV": {
       "listings": {
         "Bybit": [
@@ -13037,6 +13055,17 @@
         ]
       }
     },
+    "CCJ": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CCJ_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CDL": {
       "listings": {
         "Gate": [
@@ -13044,6 +13073,17 @@
             "symbol": "CDL_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CEG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CEG_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -23258,6 +23298,17 @@
             "symbol": "@91",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "FSLR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FSLR_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -41386,6 +41437,17 @@
             "symbol": "NXRA-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NXT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NXT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -63788,6 +63850,17 @@
           {
             "symbol": "190",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "WDC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WDC_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T12:01:42.192Z",
+  "generated_at": "2026-04-24T13:55:37.315Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,17 +9,17 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 517,
+      "count": 518,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 837,
+      "count": 838,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1242,
+      "count": 1243,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2107,
+      "count": 2108,
       "error": null
     },
     "Hyperliquid": {
@@ -9941,6 +9941,31 @@
         "Gate": [
           {
             "symbol": "BLD_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BLEND": {
+      "listings": {
+        "Bybit": [
+          {
+            "symbol": "BLENDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "BLENDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "BLEND-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -25474,6 +25499,11 @@
           }
         ],
         "OKX": [
+          {
+            "symbol": "GRASS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "GRASS-USDT-SWAP",
             "quote": "USDT",

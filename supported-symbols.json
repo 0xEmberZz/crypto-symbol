@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T07:40:01.709Z",
+  "generated_at": "2026-04-25T09:03:14.284Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 518,
+      "count": 517,
       "error": null
     },
     "OKX": {
@@ -16658,17 +16658,6 @@
         "KuCoin": [
           {
             "symbol": "DAG-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "DAI": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "DAIUSDT",
             "quote": "USDT",
             "type": "spot"
           }

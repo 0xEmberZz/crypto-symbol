@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T17:49:16.565Z",
+  "generated_at": "2026-04-26T19:06:23.956Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 516,
+      "count": 517,
       "error": null
     },
     "OKX": {
@@ -46793,6 +46793,13 @@
     },
     "PUFF": {
       "listings": {
+        "Bybit": [
+          {
+            "symbol": "PUFFUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PUFF_USDT",

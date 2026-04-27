@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T23:49:52.952Z",
+  "generated_at": "2026-04-27T03:47:27.121Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2828,
+      "count": 2836,
       "error": null
     },
     "KuCoin": {
@@ -1278,6 +1278,17 @@
             "symbol": "AB_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ABBV": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ABBV_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -27682,6 +27693,17 @@
         ]
       }
     },
+    "HSBC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HSBC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HSCHKD": {
       "listings": {
         "Gate": [
@@ -30234,6 +30256,17 @@
         ]
       }
     },
+    "JCI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "JCI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "JCT": {
       "listings": {
         "Bitget": [
@@ -30408,6 +30441,17 @@
             "symbol": "JITOSOL-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "JNJ": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "JNJ_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -40266,6 +40310,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "NFLX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "NFLXUSDTM",
@@ -46866,13 +46917,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -61932,6 +61983,17 @@
         ]
       }
     },
+    "V": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "V_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "VADER": {
       "listings": {
         "Gate": [
@@ -62988,6 +63050,17 @@
             "symbol": "VRA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "VRT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VRT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -66324,6 +66397,13 @@
         "Bitget": [
           {
             "symbol": "XOMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "XOM_USDT",
             "quote": "USDT",
             "type": "swap"
           }

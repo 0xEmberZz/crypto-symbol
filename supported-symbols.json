@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T06:35:35.029Z",
+  "generated_at": "2026-04-27T09:25:54.671Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2108,
+      "count": 2099,
       "error": null
     },
     "Hyperliquid": {
@@ -23770,18 +23770,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "GAIBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "GAIBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -41205,16 +41193,6 @@
             "symbol": "NTRN-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "NTRNUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "NTRNUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -48434,16 +48412,6 @@
             "symbol": "RDNT-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "RDNTUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "RDNTUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -57961,13 +57929,6 @@
     },
     "TIME": {
       "listings": {
-        "KuCoin": [
-          {
-            "symbol": "TIME-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Hyperliquid": [
           {
             "symbol": "@138",
@@ -62966,16 +62927,6 @@
             "symbol": "VOOI-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VOOIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "VOOIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T20:13:56.300Z",
+  "generated_at": "2026-04-27T22:00:32.926Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 366,
+      "count": 368,
       "error": null
     },
     "Lighter": {
@@ -34816,6 +34816,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "LUMIAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -46934,13 +46941,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -56822,6 +56829,13 @@
           {
             "symbol": "199",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "SYRUPUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],

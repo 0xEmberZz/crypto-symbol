@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T11:51:26.410Z",
+  "generated_at": "2026-04-27T14:14:01.203Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 839,
+      "count": 840,
       "error": null
     },
     "Bitget": {
@@ -61194,6 +61194,17 @@
             "symbol": "US303S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "USAR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "USAR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

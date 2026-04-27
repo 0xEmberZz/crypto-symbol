@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T09:25:54.671Z",
+  "generated_at": "2026-04-27T11:51:26.410Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1243,
+      "count": 1241,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 362,
+      "count": 366,
       "error": null
     },
     "Lighter": {
@@ -7917,6 +7917,13 @@
           },
           {
             "symbol": "BANUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BANUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -17186,13 +17193,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "DENTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DENT_USDT",
@@ -20012,6 +20012,13 @@
           {
             "symbol": "101",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ENSUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -50859,6 +50866,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "SANDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -59110,13 +59124,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "TRUUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TRU_USDT",
@@ -65646,6 +65653,13 @@
             "symbol": "XCN-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "XCNUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

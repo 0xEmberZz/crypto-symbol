@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T14:14:01.203Z",
+  "generated_at": "2026-04-27T16:47:58.143Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 840,
+      "count": 844,
       "error": null
     },
     "Bitget": {
@@ -10291,6 +10291,13 @@
     },
     "BMNR": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "BMNR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "BMNR_USDT",
@@ -15118,6 +15125,13 @@
     },
     "COST": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "COST-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "COSTUSDT",
@@ -26840,6 +26854,17 @@
         ]
       }
     },
+    "HIMS": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "HIMS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HINT": {
       "listings": {
         "Gate": [
@@ -33880,6 +33905,13 @@
     },
     "LLY": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "LLY-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "LLYUSDT",
@@ -46902,13 +46934,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

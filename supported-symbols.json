@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T06:36:13.054Z",
+  "generated_at": "2026-04-28T09:29:54.317Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1233,
+      "count": 1239,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2099,
+      "count": 2089,
       "error": null
     },
     "Hyperliquid": {
@@ -2497,18 +2497,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "AIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "AIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -4454,6 +4442,17 @@
           },
           {
             "symbol": "API3USDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "APLD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "APLDUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -7552,16 +7551,6 @@
             "symbol": "B3-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "B3USDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "B3USDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -10766,22 +10755,6 @@
             "symbol": "BOBA-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "BOBBOB": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "BOBBOBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "BOBBOBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -15426,6 +15399,17 @@
         ]
       }
     },
+    "CRDO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "CRDOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CRE": {
       "listings": {
         "Gate": [
@@ -15856,6 +15840,13 @@
         "OKX": [
           {
             "symbol": "CRWV-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "CRWVUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -17127,16 +17118,6 @@
             "symbol": "DEGEN-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "DEGENUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "DEGENUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -31960,6 +31941,17 @@
         ]
       }
     },
+    "KLAC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KLACUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KLINK": {
       "listings": {
         "Gate": [
@@ -38673,6 +38665,13 @@
     },
     "MP": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MP_USDT",
@@ -41879,6 +41878,17 @@
         "Aster": [
           {
             "symbol": "OKBUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "OKLO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "OKLOUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -46956,13 +46966,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -62689,16 +62699,6 @@
             "symbol": "VINE-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VINEUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "VINEUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Hyperliquid": [

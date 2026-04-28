@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T03:52:19.292Z",
+  "generated_at": "2026-04-28T06:36:13.054Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1241,
+      "count": 1233,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 368,
+      "count": 365,
       "error": null
     },
     "Lighter": {
@@ -2484,11 +2484,6 @@
             "symbol": "AIUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "AIUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -7540,13 +7535,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "B3USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "B3_USDT",
@@ -10736,13 +10724,6 @@
     },
     "BOB": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "BOBUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "BOB_USDT",
@@ -10760,13 +10741,6 @@
             "symbol": "BOB-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "BOBUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -16749,13 +16723,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "DAMUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -17181,11 +17148,6 @@
             "symbol": "DEGENUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "DEGENUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -27195,11 +27157,6 @@
             "symbol": "HNTUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "HNTUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -29914,11 +29871,6 @@
             "symbol": "IRUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "IRUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -47004,13 +46956,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -62718,11 +62670,6 @@
             "symbol": "VINEUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VINEUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -62758,13 +62705,6 @@
           {
             "symbol": "177",
             "quote": "USDC",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "VINEUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -69509,11 +69449,6 @@
             "symbol": "ZKJUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ZKJUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [

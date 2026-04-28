@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:52:27.301Z",
+  "generated_at": "2026-04-28T14:32:16.571Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 844,
+      "count": 846,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1239,
+      "count": 1240,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2095,
+      "count": 2098,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 367,
+      "count": 368,
       "error": null
     },
     "Lighter": {
@@ -46715,11 +46715,49 @@
     },
     "PROS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "PROS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "PROSUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PROS_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "PROS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "PROSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "PROSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "PROSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -60534,6 +60572,13 @@
     },
     "UB": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "UB-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "UBUSDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:29:54.317Z",
+  "generated_at": "2026-04-28T11:52:27.301Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2089,
+      "count": 2095,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 365,
+      "count": 367,
       "error": null
     },
     "Lighter": {
@@ -5409,6 +5409,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "ARKMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -10304,6 +10311,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "BMNRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BMNRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "BMNR",
@@ -15122,6 +15141,18 @@
         "Gate": [
           {
             "symbol": "COST_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "COSTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "COSTUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -33929,6 +33960,18 @@
         "Gate": [
           {
             "symbol": "LLY_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "LLYUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "LLYUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -57041,6 +57084,13 @@
           },
           {
             "symbol": "TAUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "TAUSDT",
             "quote": "USDT",
             "type": "swap"
           }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-27T23:58:59.097Z",
+  "generated_at": "2026-04-28T03:52:19.292Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 722,
+      "count": 719,
       "error": null
     },
     "Bybit": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2836,
+      "count": 2844,
       "error": null
     },
     "KuCoin": {
@@ -3020,6 +3020,17 @@
         ]
       }
     },
+    "ALB": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ALB_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ALCH": {
       "listings": {
         "Bitget": [
@@ -4364,6 +4375,17 @@
           {
             "symbol": "APEX",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "APH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "APH_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -14524,6 +14546,17 @@
         ]
       }
     },
+    "CMI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CMI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "COAI": {
       "listings": {
         "OKX": [
@@ -17159,13 +17192,6 @@
     },
     "DEGO": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "DEGOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DEGO_USDT",
@@ -17198,15 +17224,19 @@
         ]
       }
     },
+    "DELL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DELL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "DENT": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "DENTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DENT_USDT",
@@ -22904,6 +22934,17 @@
         ]
       }
     },
+    "FN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "FOGO": {
       "listings": {
         "Binance": [
@@ -24685,6 +24726,17 @@
             "symbol": "GLQ-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "GLW": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GLW_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -27636,6 +27688,17 @@
             "symbol": "HP_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HPE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HPE_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -53075,6 +53138,17 @@
         ]
       }
     },
+    "SMCI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SMCI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SMTX": {
       "listings": {
         "Gate": [
@@ -59163,13 +59237,6 @@
     },
     "TRU": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "TRUUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TRU_USDT",

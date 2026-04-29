@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T11:45:31.107Z",
+  "generated_at": "2026-04-29T14:21:20.816Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 849,
+      "count": 851,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1242,
+      "count": 1243,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2855,
+      "count": 2856,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2087,
+      "count": 2090,
       "error": null
     },
     "Hyperliquid": {
@@ -2504,6 +2504,13 @@
             "type": "spot"
           }
         ],
+        "OKX": [
+          {
+            "symbol": "AI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AIUSDT",
@@ -2624,6 +2631,25 @@
             "symbol": "AIGENSYNUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "AIGENSYN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AIGENSYNUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "AIGENSYNUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -46825,6 +46851,11 @@
             "symbol": "PROSUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "PROSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Gate": [
@@ -49738,6 +49769,13 @@
         "Binance": [
           {
             "symbol": "RLUSDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "OKX": [
+          {
+            "symbol": "RLUSD-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -54354,6 +54392,17 @@
         "Gate": [
           {
             "symbol": "SPARKLET_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPC": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "SPC-USDT",
             "quote": "USDT",
             "type": "spot"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T06:30:09.368Z",
+  "generated_at": "2026-04-29T09:18:47.546Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 517,
+      "count": 515,
       "error": null
     },
     "OKX": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2852,
+      "count": 2855,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2097,
+      "count": 2084,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 368,
+      "count": 370,
       "error": null
     },
     "Lighter": {
@@ -1527,6 +1527,24 @@
             "symbol": "ACN_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ACN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "ACN1": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ACN1_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -6478,16 +6496,6 @@
             "symbol": "AUDIO-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "AUDIOUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "AUDIOUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -10019,11 +10027,30 @@
             "type": "spot"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "BLEND_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "BLEND_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "BLEND-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BLENDUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -16768,18 +16795,6 @@
         "Gate": [
           {
             "symbol": "DAM_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "DAMUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "DAMUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -29951,16 +29966,6 @@
             "symbol": "IR-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "IRUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "IRUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Aster": [
@@ -30228,13 +30233,6 @@
     },
     "IZI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "IZIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "IZI_USDT",
@@ -41410,16 +41408,6 @@
             "symbol": "NUMI-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "NUMIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "NUMIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -46477,16 +46465,6 @@
             "symbol": "PRCL-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "PRCLUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "PRCLUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -47282,6 +47260,13 @@
             "symbol": "PUNDIAI-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "PUNDIAIUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -56395,16 +56380,6 @@
             "symbol": "SUPRA-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "SUPRAUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "SUPRAUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -62198,13 +62173,6 @@
     },
     "UXLINK": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "UXLINKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "UXLINK_USDT",
@@ -69652,16 +69620,6 @@
             "symbol": "ZKJ-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ZKJUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "ZKJUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

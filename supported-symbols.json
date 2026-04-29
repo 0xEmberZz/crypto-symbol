@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T03:54:05.087Z",
+  "generated_at": "2026-04-29T06:30:09.368Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 846,
+      "count": 848,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2098,
+      "count": 2097,
       "error": null
     },
     "Hyperliquid": {
@@ -5432,6 +5432,13 @@
     },
     "ARM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ARM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "ARMUSDT",
@@ -6889,6 +6896,13 @@
     },
     "AVGO": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "AVGO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AVGOUSDT",
@@ -11657,11 +11671,6 @@
           }
         ],
         "KuCoin": [
-          {
-            "symbol": "BSU-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "BSUUSDTM",
             "quote": "USDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T00:02:54.751Z",
+  "generated_at": "2026-04-29T03:54:05.087Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2844,
+      "count": 2852,
       "error": null
     },
     "KuCoin": {
@@ -3880,6 +3880,17 @@
             "symbol": "ANDYETH_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ANET": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ANET_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -14490,6 +14501,17 @@
         ]
       }
     },
+    "CLS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CLS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CMCSAX": {
       "listings": {
         "Gate": [
@@ -15882,6 +15904,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "CRWV_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "CRWVUSDTM",
@@ -16989,6 +17018,17 @@
             "symbol": "DCR-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "DDOG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DDOG_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -29923,6 +29963,17 @@
         ]
       }
     },
+    "IREN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IREN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "IRIS": {
       "listings": {
         "Gate": [
@@ -36371,6 +36422,17 @@
         ]
       }
     },
+    "MDB": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MDB_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MDF": {
       "listings": {
         "Gate": [
@@ -39689,6 +39751,13 @@
         "Bitget": [
           {
             "symbol": "NBISUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "NBIS_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -53319,6 +53388,17 @@
             "symbol": "SNFT1_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SNOW": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SNOW_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

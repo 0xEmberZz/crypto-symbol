@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T14:21:20.816Z",
+  "generated_at": "2026-04-29T16:47:46.309Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1243,
+      "count": 1244,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2090,
+      "count": 2089,
       "error": null
     },
     "Hyperliquid": {
@@ -2631,6 +2631,11 @@
             "symbol": "AIGENSYNUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "AIGENSYNUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Gate": [
@@ -56771,13 +56776,6 @@
         "Gate": [
           {
             "symbol": "SWEAT_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "SWEAT-USDT",
             "quote": "USDT",
             "type": "spot"
           }

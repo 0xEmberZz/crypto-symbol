@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T09:18:47.546Z",
+  "generated_at": "2026-04-29T11:45:31.107Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,17 +9,17 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 515,
+      "count": 516,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 848,
+      "count": 849,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1240,
+      "count": 1242,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2084,
+      "count": 2087,
       "error": null
     },
     "Hyperliquid": {
@@ -1522,6 +1522,13 @@
     },
     "ACN": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "ACNUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ACN_USDT",
@@ -2515,6 +2522,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AI-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -2597,6 +2611,17 @@
         "Gate": [
           {
             "symbol": "AIDOGE_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AIGENSYN": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "AIGENSYNUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -10020,6 +10045,13 @@
             "type": "spot"
           }
         ],
+        "OKX": [
+          {
+            "symbol": "BLEND-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "BLENDUSDT",
@@ -10044,6 +10076,16 @@
             "symbol": "BLEND-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "BLENDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BLENDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -61850,6 +61892,13 @@
     "USDS": {
       "listings": {
         "Binance": [
+          {
+            "symbol": "USDSUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Bybit": [
           {
             "symbol": "USDSUSDT",
             "quote": "USDT",

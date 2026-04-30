@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T11:45:02.571Z",
+  "generated_at": "2026-04-30T14:14:45.916Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 852,
+      "count": 854,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1225,
+      "count": 1226,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2845,
+      "count": 2846,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2087,
+      "count": 2088,
       "error": null
     },
     "Hyperliquid": {
@@ -24329,6 +24329,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "GENIUS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "GENIUSUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -27729,6 +27734,24 @@
         "KuCoin": [
           {
             "symbol": "HPOS10I-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "HPP": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "HPPUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "HPP_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -36528,6 +36551,16 @@
             "symbol": "MEGA-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "MEGA-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
+            "symbol": "MEGA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Bitget": [

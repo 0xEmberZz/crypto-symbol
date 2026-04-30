@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:26:06.713Z",
+  "generated_at": "2026-04-30T18:16:30.379Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 371,
+      "count": 374,
       "error": null
     },
     "Lighter": {
@@ -4511,6 +4511,13 @@
           },
           {
             "symbol": "API3USDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "API3USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31248,6 +31255,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "KAITOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "KAITO",
@@ -38593,6 +38607,13 @@
           {
             "symbol": "173",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "MORPHOUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],

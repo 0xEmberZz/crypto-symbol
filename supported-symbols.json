@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T14:14:45.916Z",
+  "generated_at": "2026-04-30T16:26:06.713Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 517,
+      "count": 518,
       "error": null
     },
     "OKX": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2088,
+      "count": 2089,
       "error": null
     },
     "Hyperliquid": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 164,
+      "count": 167,
       "error": null
     }
   },
@@ -5809,6 +5809,17 @@
             "symbol": "ASRUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ASSET": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "ASSET-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -21349,6 +21360,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "EWY",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -36546,6 +36564,13 @@
             "type": "spot"
           }
         ],
+        "Bybit": [
+          {
+            "symbol": "MEGAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "OKX": [
           {
             "symbol": "MEGA-USDT",
@@ -39195,6 +39220,13 @@
           {
             "symbol": "MUUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MU",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -43022,6 +43054,13 @@
           {
             "symbol": "ORCLUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ORCL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

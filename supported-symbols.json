@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T06:33:40.111Z",
+  "generated_at": "2026-04-30T09:21:40.212Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,27 +9,27 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 516,
+      "count": 517,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 850,
+      "count": 851,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1244,
+      "count": 1245,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2841,
+      "count": 2844,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2089,
+      "count": 2088,
       "error": null
     },
     "Hyperliquid": {
@@ -12408,6 +12408,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "BZ_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "BZUSDTM",
@@ -14411,6 +14418,13 @@
         "Bitget": [
           {
             "symbol": "CLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CL_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -25645,6 +25659,11 @@
             "type": "spot"
           },
           {
+            "symbol": "GRASS-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "GRASS-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -36599,6 +36618,13 @@
         "Bitget": [
           {
             "symbol": "MEGAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "MEGA_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -49687,6 +49713,13 @@
             "type": "spot"
           }
         ],
+        "Bybit": [
+          {
+            "symbol": "RLUSDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "OKX": [
           {
             "symbol": "RLUSD-USDT",
@@ -52985,6 +53018,11 @@
     "SKYAI": {
       "listings": {
         "Bitget": [
+          {
+            "symbol": "SKYAIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "SKYAIUSDT",
             "quote": "USDT",
@@ -59308,13 +59346,6 @@
             "symbol": "TRU_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "TRU-USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }

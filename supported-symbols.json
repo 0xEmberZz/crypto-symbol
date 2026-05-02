@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T03:34:48.749Z",
+  "generated_at": "2026-05-02T06:15:27.768Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1226,
+      "count": 1225,
       "error": null
     },
     "Gate": {
@@ -2080,13 +2080,6 @@
             "symbol": "AERGO-USDC",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "AERGOUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [

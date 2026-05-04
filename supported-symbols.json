@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T14:20:48.666Z",
+  "generated_at": "2026-05-04T16:54:22.832Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 526,
+      "count": 528,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 374,
+      "count": 377,
       "error": null
     },
     "Lighter": {
@@ -7829,6 +7829,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "BABYUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -12787,6 +12794,17 @@
             "symbol": "CARAT_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CARDS": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "CARDSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -57993,6 +58011,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "THETAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -67819,6 +67844,17 @@
         ]
       }
     },
+    "XYZ-DRAM": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110065",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-EUR": {
       "listings": {
         "Hyperliquid": [
@@ -67989,6 +68025,17 @@
         "Hyperliquid": [
           {
             "symbol": "110008",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-MRVL": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110061",
             "quote": "USDC",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T20:22:23.104Z",
+  "generated_at": "2026-05-04T22:09:40.655Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 530,
+      "count": 531,
       "error": null
     },
     "Aster": {
@@ -47179,13 +47179,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -67893,6 +67893,17 @@
         "Hyperliquid": [
           {
             "symbol": "110047",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-EWZ": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110067",
             "quote": "USDC",
             "type": "swap"
           }

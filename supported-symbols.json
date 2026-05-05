@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:12:35.901Z",
+  "generated_at": "2026-05-05T11:21:39.155Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,12 +29,12 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2094,
+      "count": 2095,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 531,
+      "count": 523,
       "error": null
     },
     "Aster": {
@@ -36166,13 +36166,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "97",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -36211,13 +36204,6 @@
           {
             "symbol": "MAVIAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "110",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -37470,13 +37456,6 @@
           {
             "symbol": "MEWUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "139",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -46814,13 +46793,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "188",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PROMPTUSDT",
@@ -51645,13 +51617,6 @@
           {
             "symbol": "SCRUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "146",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -57324,6 +57289,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "TAC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "TACUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -62176,13 +62146,6 @@
           {
             "symbol": "USTCUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "88",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -68703,13 +68666,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "202",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -69222,13 +69178,6 @@
           {
             "symbol": "ZEREBROUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "168",
-            "quote": "USDC",
             "type": "swap"
           }
         ],

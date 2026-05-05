@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T11:21:39.155Z",
+  "generated_at": "2026-05-05T14:13:55.604Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 379,
+      "count": 380,
       "error": null
     },
     "Lighter": {
@@ -4958,13 +4958,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ARBUSDT",
-            "quote": "USDT",
+            "symbol": "ARBUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "ARBUSDC",
-            "quote": "USDC",
+            "symbol": "ARBUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -18577,6 +18577,17 @@
             "symbol": "DPR-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "DRAM": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "DRAMUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

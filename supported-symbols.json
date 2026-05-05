@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T20:13:22.893Z",
+  "generated_at": "2026-05-05T22:06:53.245Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -55938,13 +55938,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "STXUSDC",
-            "quote": "USDC",
+            "symbol": "STXUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "STXUSDT",
-            "quote": "USDT",
+            "symbol": "STXUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

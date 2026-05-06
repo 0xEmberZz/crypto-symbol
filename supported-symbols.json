@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T16:48:34.324Z",
+  "generated_at": "2026-05-06T18:24:06.661Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 166,
+      "count": 169,
       "error": null
     }
   },
@@ -4936,13 +4936,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ARBUSDC",
-            "quote": "USDC",
+            "symbol": "ARBUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "ARBUSDT",
-            "quote": "USDT",
+            "symbol": "ARBUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -16011,6 +16011,13 @@
           {
             "symbol": "CRWVUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CRWV",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -47019,13 +47026,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -54056,6 +54063,17 @@
         ]
       }
     },
+    "SOXX": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "SOXX",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SPA": {
       "listings": {
         "Gate": [
@@ -58255,13 +58273,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
+            "symbol": "TONUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "TONUSDC",
-            "quote": "USDC",
+            "symbol": "TONUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -59789,6 +59807,13 @@
           {
             "symbol": "TSMUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TSM",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

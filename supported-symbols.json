@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:31:25.006Z",
+  "generated_at": "2026-05-06T11:55:16.143Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 855,
+      "count": 857,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2069,
+      "count": 2070,
       "error": null
     },
     "Hyperliquid": {
@@ -19130,6 +19130,16 @@
         ],
         "OKX": [
           {
+            "symbol": "EDGE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "EDGE-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "EDGE-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -37078,6 +37088,17 @@
         "Gate": [
           {
             "symbol": "META3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "METADAO": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "METADAO-USDT",
             "quote": "USDT",
             "type": "spot"
           }

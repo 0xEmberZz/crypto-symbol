@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T14:33:23.347Z",
+  "generated_at": "2026-05-06T16:48:34.324Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -4936,13 +4936,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ARBUSDT",
-            "quote": "USDT",
+            "symbol": "ARBUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "ARBUSDC",
-            "quote": "USDC",
+            "symbol": "ARBUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

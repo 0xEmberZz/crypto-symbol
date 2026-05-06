@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T11:55:16.143Z",
+  "generated_at": "2026-05-06T14:33:23.347Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1227,
+      "count": 1228,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2833,
+      "count": 2834,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2070,
+      "count": 2071,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 380,
+      "count": 383,
       "error": null
     },
     "Lighter": {
@@ -4936,13 +4936,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ARBUSDC",
-            "quote": "USDC",
+            "symbol": "ARBUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "ARBUSDT",
-            "quote": "USDT",
+            "symbol": "ARBUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -13701,6 +13701,13 @@
           {
             "symbol": "21",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "CFXUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -29567,6 +29574,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "IOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -31110,6 +31124,31 @@
         "Gate": [
           {
             "symbol": "KAIA3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "KAIO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KAIOUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "KAIO_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "KAIO-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -55100,6 +55139,13 @@
           },
           {
             "symbol": "STEEMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "STEEMUSDT",
             "quote": "USDT",
             "type": "swap"
           }

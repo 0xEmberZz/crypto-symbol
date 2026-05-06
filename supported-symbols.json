@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T23:58:41.371Z",
+  "generated_at": "2026-05-06T03:51:06.878Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2848,
+      "count": 2833,
       "error": null
     },
     "KuCoin": {
@@ -2438,17 +2438,6 @@
         ]
       }
     },
-    "AGRI": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "AGRI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "AGT": {
       "listings": {
         "Gate": [
@@ -2560,17 +2549,6 @@
         "Bitget": [
           {
             "symbol": "AIAVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "AIBOT": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "AIBOT_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -21565,17 +21543,6 @@
         ]
       }
     },
-    "F3": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "F3_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "FAI": {
       "listings": {
         "Gate": [
@@ -25561,17 +25528,6 @@
         ]
       }
     },
-    "GOVI": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "GOVI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "GOZ": {
       "listings": {
         "Gate": [
@@ -28860,17 +28816,6 @@
         ]
       }
     },
-    "IDOODLES": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "IDOODLES_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "IDOS": {
       "listings": {
         "Gate": [
@@ -30601,17 +30546,6 @@
             "symbol": "JELLYJELLYUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "JENSOL": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "JENSOL_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -37791,17 +37725,6 @@
         ]
       }
     },
-    "MISSION": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "MISSION_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MITO": {
       "listings": {
         "Binance": [
@@ -42951,17 +42874,6 @@
         ]
       }
     },
-    "OPTIMUS": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "OPTIMUS_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ORA": {
       "listings": {
         "Hyperliquid": [
@@ -43443,17 +43355,6 @@
           {
             "symbol": "@179",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "OVER": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "OVER_USDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -47188,13 +47089,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -48092,17 +47993,6 @@
         ]
       }
     },
-    "QSP": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "QSP_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "QTC": {
       "listings": {
         "Gate": [
@@ -48939,13 +48829,6 @@
     },
     "REI": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "REI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Hyperliquid": [
           {
             "symbol": "@216",
@@ -52949,17 +52832,6 @@
         ]
       }
     },
-    "SKX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "SKX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SKY": {
       "listings": {
         "Binance": [
@@ -56844,13 +56716,6 @@
     },
     "SWTCH": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "SWTCH_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "SWTCH-USDT",
@@ -62255,17 +62120,6 @@
         ]
       }
     },
-    "VADER": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "VADER_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "VAIOT": {
       "listings": {
         "Gate": [
@@ -66144,17 +65998,6 @@
         "KuCoin": [
           {
             "symbol": "XEN-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "XETA": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XETA_USDT",
             "quote": "USDT",
             "type": "spot"
           }

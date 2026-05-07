@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T06:44:44.601Z",
+  "generated_at": "2026-05-07T09:41:25.665Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 857,
+      "count": 860,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2834,
+      "count": 2835,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 387,
+      "count": 388,
       "error": null
     },
     "Lighter": {
@@ -2463,6 +2463,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "AGTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -4182,6 +4189,13 @@
     },
     "ANTHROPIC": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ANTHROPIC-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ANTHROPIC_USDT",
@@ -9774,6 +9788,13 @@
           },
           {
             "symbol": "BILLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "BILL_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42705,6 +42726,13 @@
     },
     "OPENAI": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "OPENAI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "OPENAI_USDT",
@@ -54188,6 +54216,13 @@
     },
     "SPACEX": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SPACEX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SPACEX_USDT",
@@ -58310,13 +58345,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
+            "symbol": "TONUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "TONUSDC",
-            "quote": "USDC",
+            "symbol": "TONUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -62736,13 +62771,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
+            "symbol": "VIRTUALUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
+            "symbol": "VIRTUALUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

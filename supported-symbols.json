@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T09:41:25.665Z",
+  "generated_at": "2026-05-07T11:54:54.680Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 388,
+      "count": 390,
       "error": null
     },
     "Lighter": {
@@ -9812,6 +9812,13 @@
           },
           {
             "symbol": "BILLUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BILLUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -41288,6 +41295,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "NOTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -47072,13 +47086,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -58345,13 +58359,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "TONUSDC",
-            "quote": "USDC",
+            "symbol": "TONUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
+            "symbol": "TONUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -62771,13 +62785,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
+            "symbol": "VIRTUALUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
+            "symbol": "VIRTUALUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

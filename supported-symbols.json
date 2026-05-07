@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T14:35:20.271Z",
+  "generated_at": "2026-05-07T16:58:37.926Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 390,
+      "count": 391,
       "error": null
     },
     "Lighter": {
@@ -54116,6 +54116,13 @@
     "SOXL": {
       "listings": {
         "Bitget": [
+          {
+            "symbol": "SOXLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
           {
             "symbol": "SOXLUSDT",
             "quote": "USDT",

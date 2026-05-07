@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T23:57:09.511Z",
+  "generated_at": "2026-05-07T03:49:39.914Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2071,
+      "count": 2073,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 383,
+      "count": 387,
       "error": null
     },
     "Lighter": {
@@ -37623,6 +37623,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "MINIMAXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -46076,6 +46083,17 @@
         ]
       }
     },
+    "POPMART": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "POPMARTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "POR": {
       "listings": {
         "OKX": [
@@ -47652,6 +47670,18 @@
         "Gate": [
           {
             "symbol": "QCOM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "QCOMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "QCOMUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -57562,6 +57592,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "TENCENTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -65907,6 +65944,13 @@
         "Gate": [
           {
             "symbol": "XIAOMI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "XIAOMIUSDT",
             "quote": "USDT",
             "type": "swap"
           }

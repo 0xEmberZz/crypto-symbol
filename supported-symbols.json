@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:53:06.368Z",
+  "generated_at": "2026-05-08T09:46:46.742Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 860,
+      "count": 863,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2073,
+      "count": 2075,
       "error": null
     },
     "Hyperliquid": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 169,
+      "count": 170,
       "error": null
     }
   },
@@ -18614,6 +18614,13 @@
     },
     "DRAM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "DRAM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "DRAMUSDT",
@@ -24876,6 +24883,13 @@
     },
     "GME": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "GME-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "GMEUSDT",
@@ -34002,6 +34016,13 @@
     },
     "LITE": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "LITE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "LITEUSDT",
@@ -34012,6 +34033,18 @@
         "Gate": [
           {
             "symbol": "LITE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "LITEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "LITEUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -58412,13 +58445,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
+            "symbol": "TONUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "TONUSDC",
-            "quote": "USDC",
+            "symbol": "TONUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -64164,6 +64197,17 @@
           {
             "symbol": "WETUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "WHEAT": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "WHEAT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

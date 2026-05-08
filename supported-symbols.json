@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-08T00:00:13.003Z",
+  "generated_at": "2026-05-08T03:40:29.337Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 721,
+      "count": 720,
       "error": null
     },
     "Bybit": {
@@ -47260,11 +47260,6 @@
           {
             "symbol": "PUNDIXUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "PUNDIXUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],

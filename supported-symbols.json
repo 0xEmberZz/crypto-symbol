@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T06:04:06.885Z",
+  "generated_at": "2026-05-08T07:53:06.368Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -12447,6 +12447,28 @@
         ]
       }
     },
+    "BZ3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BZ3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BZ3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BZ3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "BZEC": {
       "listings": {
         "Hyperliquid": [
@@ -14482,6 +14504,28 @@
             "symbol": "CLUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "CL3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CL3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "CL3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CL3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -65666,28 +65710,6 @@
         ]
       }
     },
-    "XBR3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XBR3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "XBR3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XBR3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "XCH": {
       "listings": {
         "OKX": [
@@ -67223,28 +67245,6 @@
             "symbol": "XTI_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "XTI3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XTI3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "XTI3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XTI3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }

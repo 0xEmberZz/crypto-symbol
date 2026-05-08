@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T09:46:46.742Z",
+  "generated_at": "2026-05-08T11:24:47.230Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1228,
+      "count": 1224,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2075,
+      "count": 2076,
       "error": null
     },
     "Hyperliquid": {
@@ -22574,13 +22574,6 @@
     },
     "FLK": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "FLKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "FLK_USDT",
@@ -29034,13 +29027,6 @@
     "IMU": {
       "listings": {
         "Bybit": [
-          {
-            "symbol": "IMUUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
           {
             "symbol": "IMUUSDT",
             "quote": "USDT",
@@ -46467,13 +46453,6 @@
     },
     "PRAI": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "PRAIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PRAI_USDT",
@@ -52126,6 +52105,17 @@
         "Gate": [
           {
             "symbol": "SGR_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SHARE": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "SHARE-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -57824,11 +57814,6 @@
           {
             "symbol": "THEUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "THEUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -58445,13 +58430,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "TONUSDC",
-            "quote": "USDC",
+            "symbol": "TONUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
+            "symbol": "TONUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T06:22:44.712Z",
+  "generated_at": "2026-05-09T08:46:19.984Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2834,
+      "count": 2836,
       "error": null
     },
     "KuCoin": {
@@ -46831,6 +46831,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "PROS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "PROS-USDT",
@@ -46853,6 +46860,17 @@
             "symbol": "PROSUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "PROSPER": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PROSPER_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

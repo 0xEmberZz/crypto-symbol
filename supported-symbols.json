@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T04:09:35.070Z",
+  "generated_at": "2026-05-11T08:29:18.479Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 863,
+      "count": 865,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1224,
+      "count": 1230,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2076,
+      "count": 2075,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 392,
+      "count": 393,
       "error": null
     },
     "Lighter": {
@@ -7378,6 +7378,17 @@
         ]
       }
     },
+    "AXTI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "AXTIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "AZERO": {
       "listings": {
         "KuCoin": [
@@ -12249,6 +12260,13 @@
             "symbol": "BTWUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BTWUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -18617,6 +18635,13 @@
         "OKX": [
           {
             "symbol": "DRAM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "DRAMUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31544,6 +31569,11 @@
             "type": "spot"
           },
           {
+            "symbol": "KAT-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "KAT-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -32420,6 +32450,17 @@
             "symbol": "KOON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "KOPN": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KOPNUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -35232,6 +35273,17 @@
             "symbol": "LVVA-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "LWLG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "LWLGUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -40969,6 +41021,17 @@
         ]
       }
     },
+    "NIO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "NIOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "NIZA": {
       "listings": {
         "Gate": [
@@ -42070,6 +42133,11 @@
           {
             "symbol": "OKB-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "OKB-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -47160,13 +47228,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -54351,17 +54419,6 @@
         ]
       }
     },
-    "SPC": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "SPC-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SPCX": {
       "listings": {
         "Gate": [
@@ -61396,6 +61453,13 @@
         "OKX": [
           {
             "symbol": "USAR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "USARUSDT",
             "quote": "USDT",
             "type": "swap"
           }

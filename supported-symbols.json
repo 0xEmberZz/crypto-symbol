@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T08:29:18.479Z",
+  "generated_at": "2026-05-11T12:18:31.612Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 865,
+      "count": 867,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2075,
+      "count": 2079,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 393,
+      "count": 397,
       "error": null
     },
     "Lighter": {
@@ -18646,6 +18646,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "DRAMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "DRAMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "DRAMUSDT",
@@ -27051,6 +27063,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "HIMSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "HIMSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -33132,6 +33156,13 @@
           {
             "symbol": "182",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "LAYERUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -45620,6 +45651,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "PLUMEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -55660,6 +55698,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "STORJUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -59351,6 +59396,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "TROLLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -62070,6 +62122,17 @@
             "symbol": "@171",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "USO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "USO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -66219,6 +66282,17 @@
             "symbol": "XLAB-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "XLE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XLE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

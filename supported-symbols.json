@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T19:02:25.391Z",
+  "generated_at": "2026-05-11T20:49:37.254Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 171,
+      "count": 175,
       "error": null
     }
   },
@@ -357,6 +357,17 @@
           {
             "symbol": "1000LUNCUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "1000NOT": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "1000NOT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -9958,6 +9969,13 @@
           {
             "symbol": "BIOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BIO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -24933,6 +24951,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GME",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -39034,6 +39059,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MRVL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -47259,13 +47291,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

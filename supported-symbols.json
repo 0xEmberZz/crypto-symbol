@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T12:02:03.929Z",
+  "generated_at": "2026-05-12T14:41:01.847Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 526,
+      "count": 528,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 397,
+      "count": 400,
       "error": null
     },
     "Lighter": {
@@ -3295,6 +3295,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "ALGOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -3355,6 +3362,13 @@
           },
           {
             "symbol": "ALICEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ALICEUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -6982,6 +6996,13 @@
             "symbol": "AVGOUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "Hyperliquid": [
+          {
+            "symbol": "@332",
+            "quote": "USDC",
+            "type": "spot"
           }
         ]
       }
@@ -39453,6 +39474,13 @@
             "type": "swap"
           }
         ],
+        "Hyperliquid": [
+          {
+            "symbol": "@333",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "MUUSDT",
@@ -47347,13 +47375,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -64629,6 +64657,13 @@
           {
             "symbol": "98",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "WIFUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],

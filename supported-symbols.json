@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T04:00:05.930Z",
+  "generated_at": "2026-05-12T06:42:15.079Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1230,
+      "count": 1231,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2836,
+      "count": 2838,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 397,
+      "count": 396,
       "error": null
     },
     "Lighter": {
@@ -13165,6 +13165,17 @@
             "symbol": "CBK_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CBRS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "CBRSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -33183,13 +33194,6 @@
             "quote": "USDC",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "LAYERUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -47143,6 +47147,11 @@
             "symbol": "PSG_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "PSG_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -59072,6 +59081,17 @@
         "Aster": [
           {
             "symbol": "TRADOORUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "TRAHK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TRAHK_USDT",
             "quote": "USDT",
             "type": "swap"
           }

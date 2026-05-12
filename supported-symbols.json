@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T06:42:15.079Z",
+  "generated_at": "2026-05-12T09:45:59.437Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 519,
+      "count": 518,
       "error": null
     },
     "OKX": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 525,
+      "count": 526,
       "error": null
     },
     "Aster": {
@@ -43280,6 +43280,13 @@
             "type": "swap"
           }
         ],
+        "Hyperliquid": [
+          {
+            "symbol": "@331",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "ORCL",
@@ -56841,13 +56848,6 @@
     },
     "SWEAT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SWEATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SWEATUSDT",

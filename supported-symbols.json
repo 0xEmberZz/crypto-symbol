@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T09:49:20.877Z",
+  "generated_at": "2026-05-13T12:10:39.317Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 872,
+      "count": 874,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2086,
+      "count": 2088,
       "error": null
     },
     "Hyperliquid": {
@@ -14894,6 +14894,13 @@
     },
     "COHR": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "COHR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "COHRUSDT",
@@ -14904,6 +14911,18 @@
         "Gate": [
           {
             "symbol": "COHR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "COHRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "COHRUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -47045,6 +47064,11 @@
           {
             "symbol": "PROS-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "PROS-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {

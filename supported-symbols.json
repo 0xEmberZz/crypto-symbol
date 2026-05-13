@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T06:52:54.026Z",
+  "generated_at": "2026-05-13T09:49:20.877Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,22 +9,22 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 518,
+      "count": 512,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 871,
+      "count": 872,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1231,
+      "count": 1234,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2838,
+      "count": 2846,
       "error": null
     },
     "KuCoin": {
@@ -14230,6 +14230,28 @@
         ]
       }
     },
+    "CHIP3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CHIP3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "CHIP3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CHIP3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "CHIRP": {
       "listings": {
         "Gate": [
@@ -17589,13 +17611,6 @@
     "DGB": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "DGBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "DGBUSDT",
             "quote": "USDT",
@@ -21265,6 +21280,13 @@
     },
     "ETN": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "ETNUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ETN_USDT",
@@ -27759,13 +27781,6 @@
     },
     "HOOK": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HOOKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "HOOK_USDT",
@@ -29311,6 +29326,17 @@
         "Bitget": [
           {
             "symbol": "INDAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "INFQ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "INFQUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -46519,13 +46545,6 @@
     },
     "PORTALS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PORTALSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PORTALS_USDT",
@@ -47023,6 +47042,11 @@
     "PROS": {
       "listings": {
         "OKX": [
+          {
+            "symbol": "PROS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "PROS-USDT-SWAP",
             "quote": "USDT",
@@ -48737,6 +48761,28 @@
         ]
       }
     },
+    "RAVE3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "RAVE3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RAVE3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "RAVE3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RAY": {
       "listings": {
         "Binance": [
@@ -48868,13 +48914,6 @@
     },
     "RDNT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "RDNTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "RDNT_USDT",
@@ -53301,6 +53340,28 @@
         ]
       }
     },
+    "SKYAI3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKYAI3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKYAI3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKYAI3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SLAY": {
       "listings": {
         "Hyperliquid": [
@@ -53355,13 +53416,6 @@
     "SLP": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "SLPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SLPUSDT",
             "quote": "USDT",
@@ -61875,13 +61929,6 @@
     },
     "USDD": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "USDDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "USDD_USDT",
@@ -63453,6 +63500,13 @@
     },
     "VRT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "VRTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "VRT_USDT",
@@ -63666,6 +63720,28 @@
             "symbol": "VVV",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "VVV3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VVV3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "VVV3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VVV3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T11:57:32.112Z",
+  "generated_at": "2026-05-14T14:31:05.509Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1234,
+      "count": 1235,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2854,
+      "count": 2855,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 400,
+      "count": 402,
       "error": null
     },
     "Lighter": {
@@ -2605,6 +2605,11 @@
           }
         ],
         "Gate": [
+          {
+            "symbol": "AIGENSYN_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "AIGENSYN_USDT",
             "quote": "USDT",
@@ -7934,6 +7939,13 @@
     },
     "BABYSHARK": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "BABYSHARKUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "BABYSHARK_USDT",
@@ -46499,6 +46511,17 @@
         ]
       }
     },
+    "POPMART": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "POPMARTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "POR": {
       "listings": {
         "OKX": [
@@ -47461,13 +47484,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -58110,6 +58133,13 @@
         "Gate": [
           {
             "symbol": "TENCENT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "TENCENTUSDT",
             "quote": "USDT",
             "type": "swap"
           }

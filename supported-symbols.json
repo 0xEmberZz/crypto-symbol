@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-14T14:31:05.509Z",
+  "generated_at": "2026-05-14T17:05:09.881Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 720,
+      "count": 722,
       "error": null
     },
     "Bybit": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 402,
+      "count": 403,
       "error": null
     },
     "Lighter": {
@@ -2592,6 +2592,18 @@
     },
     "AIGENSYN": {
       "listings": {
+        "Binance": [
+          {
+            "symbol": "AIGENSYNUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "AIGENSYNUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AIGENSYNUSDT",
@@ -13236,6 +13248,13 @@
     "CBRS": {
       "listings": {
         "Bitget": [
+          {
+            "symbol": "CBRSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
           {
             "symbol": "CBRSUSDT",
             "quote": "USDT",

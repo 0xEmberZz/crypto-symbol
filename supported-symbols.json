@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T06:50:22.787Z",
+  "generated_at": "2026-05-14T09:38:26.101Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 874,
+      "count": 875,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2851,
+      "count": 2852,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 402,
+      "count": 401,
       "error": null
     },
     "Lighter": {
@@ -2094,11 +2094,6 @@
           }
         ],
         "KuCoin": [
-          {
-            "symbol": "AERGO-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "AERGOUSDTM",
             "quote": "USDT",
@@ -7931,6 +7926,24 @@
         "KuCoin": [
           {
             "symbol": "BABYDOGE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BABYSHARK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BABYSHARK_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "BABYSHARK-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -45099,6 +45112,17 @@
         ]
       }
     },
+    "PHAROS": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "PHAROSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PHB": {
       "listings": {
         "Binance": [
@@ -46471,17 +46495,6 @@
             "symbol": "POPCAT3S_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "POPMART": {
-      "listings": {
-        "Aster": [
-          {
-            "symbol": "POPMARTUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -58093,13 +58106,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "TENCENTUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -58110,6 +58116,17 @@
             "symbol": "@48",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TESTPRE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "TESTPRE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T09:38:26.101Z",
+  "generated_at": "2026-05-14T11:57:32.112Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2852,
+      "count": 2854,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 401,
+      "count": 400,
       "error": null
     },
     "Lighter": {
@@ -11650,6 +11650,17 @@
             "symbol": "BRISE-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BRKB": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BRKB_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -45112,17 +45123,6 @@
         ]
       }
     },
-    "PHAROS": {
-      "listings": {
-        "Aster": [
-          {
-            "symbol": "PHAROSUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "PHB": {
       "listings": {
         "Binance": [
@@ -47461,13 +47461,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -54573,6 +54573,13 @@
         "Bitget": [
           {
             "symbol": "SOXLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SOXL_USDT",
             "quote": "USDT",
             "type": "swap"
           }

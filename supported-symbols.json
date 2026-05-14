@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T04:00:39.429Z",
+  "generated_at": "2026-05-14T06:50:22.787Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2847,
+      "count": 2851,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 400,
+      "count": 402,
       "error": null
     },
     "Lighter": {
@@ -3683,6 +3683,13 @@
         "Bitget": [
           {
             "symbol": "AMATUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "AMAT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -17821,6 +17828,17 @@
         ]
       }
     },
+    "DIS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DIS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "DIVER": {
       "listings": {
         "Gate": [
@@ -26136,6 +26154,13 @@
           },
           {
             "symbol": "GTCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "GTCUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -49950,6 +49975,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "RKLB_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "RKLBUSDTM",
@@ -51190,6 +51222,13 @@
           {
             "symbol": "125",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "SAGAUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -55487,6 +55526,13 @@
     },
     "STAR": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "STAR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "@134",

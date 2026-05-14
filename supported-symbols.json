@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:12:11.935Z",
+  "generated_at": "2026-05-14T04:00:39.429Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2848,
+      "count": 2847,
       "error": null
     },
     "KuCoin": {
@@ -17815,17 +17815,6 @@
         "Gate": [
           {
             "symbol": "DIO_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "DIS": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "DIS_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -47434,13 +47423,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

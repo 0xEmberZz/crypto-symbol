@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T04:05:44.643Z",
+  "generated_at": "2026-05-15T07:31:22.671Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 874,
+      "count": 875,
       "error": null
     },
     "Bitget": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2855,
+      "count": 2856,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2088,
+      "count": 2090,
       "error": null
     },
     "Hyperliquid": {
@@ -13247,9 +13247,35 @@
     },
     "CBRS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CBRS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CBRSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CBRS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "CBRSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "CBRSUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

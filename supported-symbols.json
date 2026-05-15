@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T12:59:43.614Z",
+  "generated_at": "2026-05-15T15:21:32.673Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1237,
+      "count": 1238,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2091,
+      "count": 2101,
       "error": null
     },
     "Hyperliquid": {
@@ -16325,6 +16325,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "CSCOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "CSCOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17921,6 +17933,18 @@
         "Gate": [
           {
             "symbol": "DIS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "DISUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "DISUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -26915,6 +26939,18 @@
         "Gate": [
           {
             "symbol": "HD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "HDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "HDUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -46914,6 +46950,17 @@
         ]
       }
     },
+    "PREOPAI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "PREOPAIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "PRESPAX": {
       "listings": {
         "Bitget": [
@@ -54695,6 +54742,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "SOXLUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SOXLUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "SOXLUSDT",
@@ -61199,6 +61258,18 @@
         "Gate": [
           {
             "symbol": "UBER_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "UBERUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "UBERUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

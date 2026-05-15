@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T22:16:08.374Z",
+  "generated_at": "2026-05-15T00:02:29.000Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 875,
+      "count": 874,
       "error": null
     },
     "Bitget": {
@@ -58179,17 +58179,6 @@
             "symbol": "@48",
             "quote": "USDC",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "TESTPRE": {
-      "listings": {
-        "OKX": [
-          {
-            "symbol": "TESTPRE-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

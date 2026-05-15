@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:31:22.671Z",
+  "generated_at": "2026-05-15T10:33:43.764Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1235,
+      "count": 1236,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2856,
+      "count": 2855,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2090,
+      "count": 2091,
       "error": null
     },
     "Hyperliquid": {
@@ -27916,6 +27916,31 @@
         "Gate": [
           {
             "symbol": "HOOK_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "HOOLI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "HOOLIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "HOOLI_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "HOOLI-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -66294,17 +66319,6 @@
         ]
       }
     },
-    "XBR": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XBR_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "XCH": {
       "listings": {
         "OKX": [
@@ -67840,17 +67854,6 @@
             "symbol": "XTER-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "XTI": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XTI_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

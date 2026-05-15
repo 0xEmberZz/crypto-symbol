@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:33:43.764Z",
+  "generated_at": "2026-05-15T12:59:43.614Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1236,
+      "count": 1237,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 403,
+      "count": 404,
       "error": null
     },
     "Lighter": {
@@ -29280,6 +29280,17 @@
         ]
       }
     },
+    "ILY": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "ILYUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "IMPT": {
       "listings": {
         "Gate": [
@@ -47561,13 +47572,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -55658,6 +55669,13 @@
             "symbol": "@134",
             "quote": "USDC",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "STARUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

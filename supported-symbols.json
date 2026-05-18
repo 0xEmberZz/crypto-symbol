@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T04:23:50.687Z",
+  "generated_at": "2026-05-18T08:49:19.004Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2855,
+      "count": 2860,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 404,
+      "count": 405,
       "error": null
     },
     "Lighter": {
@@ -18849,6 +18849,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "DRAM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "DRAMUSDTM",
@@ -22844,6 +22851,17 @@
             "symbol": "FLM_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "FLNC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FLNC_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -27311,6 +27329,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "HIMS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "HIMSUSDTM",
@@ -30606,6 +30631,13 @@
         "OKX": [
           {
             "symbol": "IWM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "IWM_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -52919,6 +52951,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "SHLD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -54910,6 +54949,13 @@
             "symbol": "SPCX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "SPCXUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

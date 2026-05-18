@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T08:49:19.004Z",
+  "generated_at": "2026-05-18T12:40:40.726Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 875,
+      "count": 876,
       "error": null
     },
     "Bitget": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2860,
+      "count": 2861,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2101,
+      "count": 2110,
       "error": null
     },
     "Hyperliquid": {
@@ -961,6 +961,18 @@
         "Bitget": [
           {
             "symbol": "AAOIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AAOIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "AAOIUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -6450,6 +6462,17 @@
         "Gate": [
           {
             "symbol": "ATS_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "ATWO": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "ATWO-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -25119,9 +25142,28 @@
     },
     "GLW": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "GLW-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "GLW_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "GLWUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "GLWUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -36800,6 +36842,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "MCDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "MCDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -47651,13 +47705,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -59416,6 +59470,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TQQQUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "TQQQUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -64377,6 +64443,13 @@
         "Bitget": [
           {
             "symbol": "WARDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "WARD_USDT",
             "quote": "USDT",
             "type": "spot"
           }

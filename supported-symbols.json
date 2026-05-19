@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:17:11.102Z",
+  "generated_at": "2026-05-19T16:27:58.094Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2860,
+      "count": 2861,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2124,
+      "count": 2125,
       "error": null
     },
     "Hyperliquid": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 406,
+      "count": 407,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 176,
+      "count": 178,
       "error": null
     }
   },
@@ -47802,13 +47802,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -62229,6 +62229,17 @@
         ]
       }
     },
+    "US100": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "US100",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "US2000": {
       "listings": {
         "Gate": [
@@ -62269,6 +62280,17 @@
             "symbol": "US303S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "US500": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "US500",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -70100,6 +70122,31 @@
             "symbol": "ZERO_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ZEST": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZEST_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ZEST-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ZESTUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

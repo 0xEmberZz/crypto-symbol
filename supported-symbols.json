@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T00:14:33.654Z",
+  "generated_at": "2026-05-19T05:07:13.450Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1238,
+      "count": 1236,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 405,
+      "count": 406,
       "error": null
     },
     "Lighter": {
@@ -6151,13 +6151,6 @@
             "symbol": "ATAUSDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "ATAUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -22518,6 +22511,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "FIDAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -38427,13 +38427,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "MLNUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MLN_USDT",
@@ -47752,13 +47745,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

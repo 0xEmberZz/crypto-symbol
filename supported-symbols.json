@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T08:37:01.821Z",
+  "generated_at": "2026-05-19T12:17:11.102Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 876,
+      "count": 880,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1246,
+      "count": 1247,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2116,
+      "count": 2124,
       "error": null
     },
     "Hyperliquid": {
@@ -16358,6 +16358,13 @@
     },
     "CSCO": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CSCO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CSCOUSDT",
@@ -40389,6 +40396,13 @@
     },
     "NBIS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "NBIS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "NBISUSDT",
@@ -40399,6 +40413,18 @@
         "Gate": [
           {
             "symbol": "NBIS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "NBISUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "NBISUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -48394,6 +48420,13 @@
     },
     "QCOM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "QCOM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "QCOMUSDT",
@@ -54917,6 +54950,13 @@
     },
     "SOXL": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SOXL-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SOXLUSDT",
@@ -54957,6 +54997,18 @@
         "Bitget": [
           {
             "symbol": "SOXSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SOXSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SOXSUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -55676,6 +55728,18 @@
         "Bitget": [
           {
             "symbol": "SQQQUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SQQQUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SQQQUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -62016,6 +62080,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "UPUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "UP_USDT",
@@ -67433,6 +67504,18 @@
         "Gate": [
           {
             "symbol": "XOM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "XOMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "XOMUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

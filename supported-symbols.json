@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T08:32:02.440Z",
+  "generated_at": "2026-05-20T11:53:52.279Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2839,
+      "count": 2840,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2125,
+      "count": 2132,
       "error": null
     },
     "Hyperliquid": {
@@ -3027,6 +3027,17 @@
         ]
       }
     },
+    "AKITA": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "AKITA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "AKT": {
       "listings": {
         "Bitget": [
@@ -5744,6 +5755,18 @@
         "Gate": [
           {
             "symbol": "ASML_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ASMLUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ASMLUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42519,6 +42542,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "OKLOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "OKLOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -49107,6 +49142,18 @@
         "Bitget": [
           {
             "symbol": "RDDTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "RDDTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "RDDTUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -69881,6 +69928,11 @@
             "symbol": "ZEST_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "ZEST_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "KuCoin": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T04:14:18.323Z",
+  "generated_at": "2026-05-20T08:32:02.440Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 513,
+      "count": 509,
       "error": null
     },
     "OKX": {
@@ -9421,11 +9421,6 @@
             "symbol": "BERAUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "BERAUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "OKX": [
@@ -14860,17 +14855,6 @@
         "Gate": [
           {
             "symbol": "CMCSAX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "CMETH": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "CMETHUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -42280,13 +42264,6 @@
     },
     "OBOL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "OBOLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "OBOL_USDT",
@@ -47627,13 +47604,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -48411,13 +48388,6 @@
     },
     "QORPO": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "QORPOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "QORPO_USDT",

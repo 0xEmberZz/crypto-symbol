@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:53:52.279Z",
+  "generated_at": "2026-05-20T15:42:19.328Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1247,
+      "count": 1248,
       "error": null
     },
     "Gate": {
@@ -29,22 +29,22 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2132,
+      "count": 2133,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 532,
+      "count": 533,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 407,
+      "count": 412,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 178,
+      "count": 181,
       "error": null
     }
   },
@@ -3766,6 +3766,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "AMDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "AMD",
@@ -7051,6 +7058,13 @@
             "quote": "USDC",
             "type": "spot"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "AVGOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -7789,6 +7803,13 @@
           {
             "symbol": "BABAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BABA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -15043,6 +15064,13 @@
           },
           {
             "symbol": "COINUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "COINUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -32718,6 +32746,17 @@
         ]
       }
     },
+    "KNTQ": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "@334",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "KO": {
       "listings": {
         "Gate": [
@@ -34417,6 +34456,13 @@
           {
             "symbol": "LITEUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LITE",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -40925,6 +40971,24 @@
         ]
       }
     },
+    "NEX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "NEXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "NEX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "NEXI": {
       "listings": {
         "Gate": [
@@ -44443,6 +44507,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "PAYPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -45902,6 +45973,13 @@
           },
           {
             "symbol": "PLTRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "PLTRUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -60754,6 +60832,17 @@
             "symbol": "TTD-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TTWO": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "TTWO",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }

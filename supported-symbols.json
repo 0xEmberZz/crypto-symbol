@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T12:49:47.298Z",
+  "generated_at": "2026-05-21T16:20:42.744Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 534,
+      "count": 536,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 414,
+      "count": 419,
       "error": null
     },
     "Lighter": {
@@ -12602,6 +12602,13 @@
           },
           {
             "symbol": "BZUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BZUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -34532,6 +34539,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "LITEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "LITE",
@@ -39464,6 +39478,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "MRVLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "MRVL",
@@ -44356,6 +44377,17 @@
             "symbol": "PAPARAZZI_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PARA-AVGO": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180004",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -61595,6 +61627,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "UBERUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -62380,6 +62419,13 @@
           },
           {
             "symbol": "USARUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "USARUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -68642,6 +68688,17 @@
         "Hyperliquid": [
           {
             "symbol": "110013",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-ARM": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110073",
             "quote": "USDC",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T00:13:56.825Z",
+  "generated_at": "2026-05-21T05:13:44.953Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2133,
+      "count": 2135,
       "error": null
     },
     "Hyperliquid": {
@@ -40985,6 +40985,16 @@
             "symbol": "NEX-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "NEXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "NEXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -47717,13 +47727,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

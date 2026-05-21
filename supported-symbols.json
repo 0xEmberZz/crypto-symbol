@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:56:22.672Z",
+  "generated_at": "2026-05-21T12:49:47.298Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1249,
+      "count": 1250,
       "error": null
     },
     "Gate": {
@@ -211,6 +211,17 @@
           },
           {
             "symbol": "10000CATUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "10000NEX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "10000NEXUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -47818,13 +47829,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

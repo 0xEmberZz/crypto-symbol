@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T00:11:18.949Z",
+  "generated_at": "2026-05-22T05:07:28.128Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2846,
+      "count": 2845,
       "error": null
     },
     "KuCoin": {
@@ -55226,13 +55226,6 @@
             "symbol": "SPCXUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Gate": [
-          {
-            "symbol": "SPCX_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ],
         "Aster": [

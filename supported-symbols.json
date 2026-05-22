@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T05:07:28.128Z",
+  "generated_at": "2026-05-22T09:41:38.435Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 882,
+      "count": 883,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1250,
+      "count": 1252,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2845,
+      "count": 2846,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2136,
+      "count": 2143,
       "error": null
     },
     "Hyperliquid": {
@@ -2524,6 +2524,11 @@
         ],
         "OKX": [
           {
+            "symbol": "AI-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "AI-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -4602,6 +4607,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "APLDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "APLDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -5389,17 +5406,6 @@
         ]
       }
     },
-    "ARIO": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ARIO_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ARK": {
       "listings": {
         "Binance": [
@@ -6118,6 +6124,18 @@
         "Bitget": [
           {
             "symbol": "ASTSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ASTSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ASTSUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -9189,6 +9207,18 @@
         "Gate": [
           {
             "symbol": "BE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "BEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BEUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -40556,6 +40586,17 @@
         ]
       }
     },
+    "NDX100": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "NDX100USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "NEAR": {
       "listings": {
         "Binance": [
@@ -47868,13 +47909,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52500,17 +52541,6 @@
         ]
       }
     },
-    "SEEK": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "SEEK-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SEI": {
       "listings": {
         "Binance": [
@@ -55101,6 +55131,17 @@
         ]
       }
     },
+    "SP500": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SP500USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SPA": {
       "listings": {
         "Gate": [
@@ -55224,6 +55265,18 @@
         "Bitget": [
           {
             "symbol": "SPCXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SPCX_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "SPCX_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -64220,6 +64273,18 @@
         "Gate": [
           {
             "symbol": "VRT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "VRTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "VRTUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

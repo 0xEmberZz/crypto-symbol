@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T21:59:29.790Z",
+  "generated_at": "2026-05-23T22:58:38.017Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 181,
+      "count": 182,
       "error": null
     }
   },
@@ -26711,6 +26711,17 @@
           {
             "symbol": "HUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "H100": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "H100",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

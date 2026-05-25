@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T10:23:27.900Z",
+  "generated_at": "2026-05-25T14:13:56.679Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1253,
+      "count": 1254,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2846,
+      "count": 2847,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 423,
+      "count": 426,
       "error": null
     },
     "Lighter": {
@@ -16363,6 +16363,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "CRWVUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "CRWV",
@@ -16414,6 +16421,13 @@
           },
           {
             "symbol": "CSCOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "CSCOUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -18007,6 +18021,13 @@
           },
           {
             "symbol": "DISUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "DISUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -54111,6 +54132,24 @@
             "symbol": "SLVON_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SLX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SLXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SLX_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

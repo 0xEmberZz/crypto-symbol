@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T05:25:20.785Z",
+  "generated_at": "2026-05-25T10:23:27.900Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1251,
+      "count": 1253,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 537,
+      "count": 533,
       "error": null
     },
     "Aster": {
@@ -10274,13 +10274,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "137",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -14289,13 +14282,6 @@
           {
             "symbol": "CHILLGUYUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "155",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -23955,13 +23941,6 @@
           {
             "symbol": "FTTUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "51",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -61041,13 +61020,6 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "181",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "TSTUSDT",
@@ -61549,6 +61521,18 @@
           }
         ],
         "Bybit": [
+          {
+            "symbol": "UUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "UUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
           {
             "symbol": "UUSDT",
             "quote": "USDT",

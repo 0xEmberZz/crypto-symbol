@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T21:17:20.197Z",
+  "generated_at": "2026-05-25T23:13:41.567Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 182,
+      "count": 184,
       "error": null
     }
   },
@@ -16614,6 +16614,17 @@
             "symbol": "CTP_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CTR": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "CTR",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -49099,6 +49110,17 @@
             "symbol": "@49",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "RAIL": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "RAIL",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }

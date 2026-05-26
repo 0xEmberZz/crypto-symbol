@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T04:13:46.508Z",
+  "generated_at": "2026-05-26T08:37:39.308Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2848,
+      "count": 2849,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2144,
+      "count": 2146,
       "error": null
     },
     "Hyperliquid": {
@@ -16620,6 +16620,13 @@
     },
     "CTR": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "CTR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "CTR",
@@ -70421,6 +70428,16 @@
             "symbol": "ZEST-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "ZESTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ZESTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [

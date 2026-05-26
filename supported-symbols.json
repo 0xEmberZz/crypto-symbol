@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T23:13:41.567Z",
+  "generated_at": "2026-05-26T04:13:46.508Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2847,
+      "count": 2848,
       "error": null
     },
     "KuCoin": {
@@ -54172,6 +54172,11 @@
             "symbol": "SLX_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "SLX_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

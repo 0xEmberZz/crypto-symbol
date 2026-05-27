@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T12:27:07.099Z",
+  "generated_at": "2026-05-27T16:41:52.574Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2152,
+      "count": 2153,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 435,
+      "count": 439,
       "error": null
     },
     "Lighter": {
@@ -5605,6 +5605,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "ARMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -9235,6 +9242,13 @@
           },
           {
             "symbol": "BEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BEUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -15098,6 +15112,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "COHRUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17785,6 +17806,17 @@
         "Gate": [
           {
             "symbol": "DESO_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DEUS": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "DEUS-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -40608,6 +40640,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "NBISUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -48051,13 +48090,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

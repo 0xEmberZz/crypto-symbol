@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T08:42:55.439Z",
+  "generated_at": "2026-05-27T12:27:07.099Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 887,
+      "count": 893,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2149,
+      "count": 2152,
       "error": null
     },
     "Hyperliquid": {
@@ -9206,6 +9206,13 @@
     },
     "BE": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "BE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "BEUSDT",
@@ -28983,6 +28990,13 @@
     },
     "IBM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "IBM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "IBM_USDT",
@@ -30666,6 +30680,23 @@
     },
     "IRYS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "IRYS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "IRYS-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
+            "symbol": "IRYS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "IRYSUSDT",
@@ -41911,6 +41942,17 @@
             "symbol": "NODL_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NOK": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "NOK-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -56277,6 +56319,23 @@
         "Gate": [
           {
             "symbol": "STAR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "STAR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "STARUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "STARUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

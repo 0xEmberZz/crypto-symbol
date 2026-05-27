@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T04:26:41.405Z",
+  "generated_at": "2026-05-27T08:42:55.439Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2838,
+      "count": 2839,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2147,
+      "count": 2149,
       "error": null
     },
     "Hyperliquid": {
@@ -30682,6 +30682,11 @@
           {
             "symbol": "IRYS_USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "IRYS_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -55430,6 +55435,18 @@
           },
           {
             "symbol": "SPCX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SPCXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SPCXUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

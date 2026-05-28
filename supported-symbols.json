@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T16:59:23.071Z",
+  "generated_at": "2026-05-28T19:39:44.495Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 534,
+      "count": 535,
       "error": null
     },
     "Aster": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 184,
+      "count": 186,
       "error": null
     }
   },
@@ -11435,6 +11435,17 @@
             "symbol": "BOSON-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BOT": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "BOT",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -48232,13 +48243,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -50898,6 +50909,13 @@
           {
             "symbol": "RKLBUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "RKLB",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -69730,6 +69748,17 @@
         "Hyperliquid": [
           {
             "symbol": "110060",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-QNT": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110081",
             "quote": "USDC",
             "type": "swap"
           }

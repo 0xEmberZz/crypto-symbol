@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:37:00.501Z",
+  "generated_at": "2026-05-28T16:59:23.071Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2843,
+      "count": 2844,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 439,
+      "count": 440,
       "error": null
     },
     "Lighter": {
@@ -16702,6 +16702,13 @@
           },
           {
             "symbol": "CTRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "CTRUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -48815,6 +48822,17 @@
             "symbol": "QUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "QAIT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "QAIT_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

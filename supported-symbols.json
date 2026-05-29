@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T04:19:09.900Z",
+  "generated_at": "2026-05-29T08:47:22.461Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 509,
+      "count": 503,
       "error": null
     },
     "OKX": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1260,
+      "count": 1262,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 440,
+      "count": 442,
       "error": null
     },
     "Lighter": {
@@ -3851,17 +3851,6 @@
         "Gate": [
           {
             "symbol": "AMDON_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "AMI": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "AMIUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -9195,13 +9184,6 @@
     },
     "BDXN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BDXNUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BDXNUSDT",
@@ -17792,6 +17774,13 @@
         "OKX": [
           {
             "symbol": "DELL-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "DELLUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -30112,13 +30101,6 @@
     },
     "INSP": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "INSPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "INSP_USDT",
@@ -43383,13 +43365,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ONEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ONE-USDT",
@@ -48238,13 +48213,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -49025,6 +49000,17 @@
           },
           {
             "symbol": "QNTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "QNTSTOCK": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "QNTSTOCKUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -52263,6 +52249,17 @@
         ]
       }
     },
+    "SAMSUNG": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "SAMSUNGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SAMSUNGUSD": {
       "listings": {
         "Lighter": [
@@ -53902,13 +53899,6 @@
     },
     "SIS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SISUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SIS_USDT",
@@ -53961,6 +53951,17 @@
             "symbol": "SKEY-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHYNIX": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "SKHYNIXUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -67627,13 +67628,6 @@
     },
     "XEM": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "XEMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "XEM_USDT",

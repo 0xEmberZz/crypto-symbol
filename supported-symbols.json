@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-28T23:23:13.816Z",
+  "generated_at": "2026-05-29T04:19:09.900Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 721,
+      "count": 720,
       "error": null
     },
     "Bybit": {
@@ -36953,11 +36953,6 @@
           {
             "symbol": "MAVUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MAVUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],

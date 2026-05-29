@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T16:50:07.623Z",
+  "generated_at": "2026-05-29T19:35:59.788Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 186,
+      "count": 187,
       "error": null
     }
   },
@@ -17769,6 +17769,13 @@
           {
             "symbol": "DELLUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DELL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -43158,13 +43165,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ONDOUSDT",
-            "quote": "USDT",
+            "symbol": "ONDOUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "ONDOUSDC",
-            "quote": "USDC",
+            "symbol": "ONDOUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -48137,13 +48144,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

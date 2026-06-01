@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T05:01:04.516Z",
+  "generated_at": "2026-06-01T10:27:50.083Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 896,
+      "count": 900,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1238,
+      "count": 1241,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2176,
+      "count": 2180,
       "error": null
     },
     "Hyperliquid": {
@@ -8847,6 +8847,13 @@
             "type": "spot"
           }
         ],
+        "OKX": [
+          {
+            "symbol": "BB-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "BBUSDT",
@@ -8925,6 +8932,22 @@
             "symbol": "BBT_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BBX": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "BBXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BBXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -18317,18 +18340,6 @@
           },
           {
             "symbol": "DOG_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "DOGUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "DOGUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -35995,6 +36006,29 @@
         ]
       }
     },
+    "LUNR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "LUNR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "LUNRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "LUNRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "LVLY": {
       "listings": {
         "Gate": [
@@ -49841,6 +49875,13 @@
     },
     "RDW": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "RDW-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "RDWUSDT",
@@ -51050,6 +51091,17 @@
             "symbol": "RNBWUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "RNVDA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RNVDAUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -54468,11 +54520,23 @@
     },
     "SLX": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SLX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SLXUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "SLXUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Gate": [
@@ -54483,6 +54547,18 @@
           },
           {
             "symbol": "SLX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SLXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SLXUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -62606,6 +62682,17 @@
         "Gate": [
           {
             "symbol": "UNIT0_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "UNITAS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "UNITASUSDT",
             "quote": "USDT",
             "type": "spot"
           }

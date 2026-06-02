@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T00:22:25.198Z",
+  "generated_at": "2026-06-02T05:55:02.028Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2851,
+      "count": 2854,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2180,
+      "count": 2182,
       "error": null
     },
     "Hyperliquid": {
@@ -29039,6 +29039,17 @@
         ]
       }
     },
+    "HYUNDAI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HYUNDAI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HYUNDAIUSD": {
       "listings": {
         "Lighter": [
@@ -42709,6 +42720,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "NVOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "NVOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -52808,6 +52831,13 @@
     },
     "SAMSUNG": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "SAMSUNG_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "SAMSUNGUSDT",
@@ -54502,6 +54532,13 @@
     },
     "SKHYNIX": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYNIX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "SKHYNIXUSDT",
@@ -64998,13 +65035,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
+            "symbol": "VIRTUALUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
+            "symbol": "VIRTUALUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

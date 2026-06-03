@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T04:57:34.983Z",
+  "generated_at": "2026-06-03T09:59:57.101Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 903,
+      "count": 905,
       "error": null
     },
     "Bitget": {
@@ -2060,6 +2060,17 @@
             "symbol": "ADAPAD_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ADBE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "ADBE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -5836,6 +5847,13 @@
     },
     "ASML": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ASML-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "ASMLUSDT",
@@ -48383,13 +48401,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

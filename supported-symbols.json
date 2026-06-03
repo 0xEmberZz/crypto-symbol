@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T18:52:09.621Z",
+  "generated_at": "2026-06-03T21:55:34.359Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -42730,13 +42730,6 @@
             "type": "swap"
           }
         ],
-        "Aster": [
-          {
-            "symbol": "NVDAUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Lighter": [
           {
             "symbol": "NVDA",
@@ -48472,13 +48465,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -59474,6 +59467,13 @@
           {
             "symbol": "82",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "SUSHIUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]

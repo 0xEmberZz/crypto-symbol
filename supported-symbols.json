@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:53:54.141Z",
+  "generated_at": "2026-06-03T04:57:34.983Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2854,
+      "count": 2843,
       "error": null
     },
     "KuCoin": {
@@ -6389,17 +6389,6 @@
         ]
       }
     },
-    "ATLAS": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ATLAS_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ATM": {
       "listings": {
         "Binance": [
@@ -10481,17 +10470,6 @@
             "symbol": "BLESSUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BLOCKST": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BLOCKST_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -17586,13 +17564,6 @@
     },
     "DCK": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "DCK_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "DCK-USDT",
@@ -17686,17 +17657,6 @@
             "symbol": "DEEPUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "DEEPLINK": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "DEEPLINK_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -22185,17 +22145,6 @@
         "Gate": [
           {
             "symbol": "FAI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FAIR3": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "FAIR3_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -35347,17 +35296,6 @@
         "Gate": [
           {
             "symbol": "LONG_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LOOKS": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "LOOKS_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -53094,17 +53032,6 @@
         ]
       }
     },
-    "RUNWAGO": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "RUNWAGO_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RUSO": {
       "listings": {
         "Bitget": [
@@ -54406,17 +54333,6 @@
         "Gate": [
           {
             "symbol": "SDEX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "SDM": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "SDM_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -59836,13 +59752,6 @@
             "type": "spot"
           }
         ],
-        "Gate": [
-          {
-            "symbol": "SYND_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "SYND-USDT",
@@ -60320,17 +60229,6 @@
             "symbol": "TAKEUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "TAKER": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "TAKER_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -69159,13 +69057,6 @@
     },
     "XEN": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "XEN_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "XEN-USDT",

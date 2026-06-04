@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:50:29.748Z",
+  "generated_at": "2026-06-04T08:55:34.620Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1368,
+      "count": 1371,
       "error": null
     },
     "Gate": {
@@ -8990,6 +8990,17 @@
             "symbol": "BBSOLUSDC",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BBSTOCK": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "BBSTOCKUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -55490,6 +55501,17 @@
         ]
       }
     },
+    "SITM": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SITMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SIX": {
       "listings": {
         "Gate": [
@@ -56170,6 +56192,17 @@
         "Gate": [
           {
             "symbol": "SMCI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SMR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SMRUSDT",
             "quote": "USDT",
             "type": "swap"
           }

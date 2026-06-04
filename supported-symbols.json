@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:51:34.056Z",
+  "generated_at": "2026-06-04T04:50:29.748Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,22 +24,22 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2843,
+      "count": 2852,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2194,
+      "count": 2201,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 539,
+      "count": 540,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 449,
+      "count": 450,
       "error": null
     },
     "Lighter": {
@@ -2069,6 +2069,13 @@
         "OKX": [
           {
             "symbol": "ADBE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ADBE_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -14117,6 +14124,17 @@
         ]
       }
     },
+    "CFX0": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "@370",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "CFX3L": {
       "listings": {
         "Gate": [
@@ -16067,6 +16085,13 @@
     },
     "CRM": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "CRM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "CRMUSDTM",
@@ -29117,6 +29142,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "HYUNDAIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "HYUNDAIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -36184,6 +36221,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "LUNR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "LUNRUSDTM",
@@ -42523,6 +42567,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "NOW_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "NOWUSDTM",
@@ -42726,6 +42777,13 @@
           },
           {
             "symbol": "NVDAUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "NVDAUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -43607,6 +43665,13 @@
         "Bitget": [
           {
             "symbol": "ONDSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ONDS_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -50504,6 +50569,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "RDW_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "RDWUSDTM",
@@ -53772,6 +53844,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "SAMSUNGUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SAMSUNGUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "SAMSUNGUSDT",
@@ -55465,6 +55549,18 @@
         "Gate": [
           {
             "symbol": "SKHYNIX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SKHYNIXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SKHYNIXUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -60589,6 +60685,24 @@
         ]
       }
     },
+    "TEA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TEA_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TEA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "TEAFI": {
       "listings": {
         "KuCoin": [
@@ -64315,6 +64429,13 @@
         "OKX": [
           {
             "symbol": "URNM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "URNM_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -69308,6 +69429,13 @@
         "OKX": [
           {
             "symbol": "XLE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "XLE_USDT",
             "quote": "USDT",
             "type": "swap"
           }

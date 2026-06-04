@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T16:25:30.618Z",
+  "generated_at": "2026-06-04T19:27:46.606Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 450,
+      "count": 455,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 190,
+      "count": 191,
       "error": null
     }
   },
@@ -4352,6 +4352,13 @@
           },
           {
             "symbol": "ANTHROPICUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ANTHROPICUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -17920,6 +17927,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "DELLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "DELL",
@@ -29177,6 +29191,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "HYUNDAIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -29287,6 +29308,13 @@
           },
           {
             "symbol": "IBMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "IBMUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42613,6 +42641,20 @@
           {
             "symbol": "NOWUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "NOWUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NOW",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

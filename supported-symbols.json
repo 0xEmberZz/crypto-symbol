@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:16:26.356Z",
+  "generated_at": "2026-06-06T04:07:45.366Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2850,
+      "count": 2851,
       "error": null
     },
     "KuCoin": {
@@ -6989,13 +6989,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "AVAXUSDC",
-            "quote": "USDC",
+            "symbol": "AVAXUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "AVAXUSDT",
-            "quote": "USDT",
+            "symbol": "AVAXUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -67396,6 +67396,17 @@
             "symbol": "VOLT-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "VOLX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VOLX_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

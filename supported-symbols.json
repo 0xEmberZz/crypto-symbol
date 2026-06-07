@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:27:21.117Z",
+  "generated_at": "2026-06-07T11:54:43.035Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 192,
+      "count": 193,
       "error": null
     }
   },
@@ -4357,6 +4357,13 @@
           {
             "symbol": "ANTHROPICUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ANTHROPIC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

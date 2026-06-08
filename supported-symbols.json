@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:08:32.346Z",
+  "generated_at": "2026-06-08T19:26:37.021Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 452,
+      "count": 457,
       "error": null
     },
     "Lighter": {
@@ -27035,13 +27035,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "HUSDT",
-            "quote": "USDT",
+            "symbol": "HUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "HUSDC",
-            "quote": "USDC",
+            "symbol": "HUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -31105,6 +31105,13 @@
           },
           {
             "symbol": "IRENUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "IRENUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -35344,6 +35351,13 @@
           },
           {
             "symbol": "LLYUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "LLYUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -43127,6 +43141,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "NVOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -43931,6 +43952,13 @@
           },
           {
             "symbol": "ONDSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ONDSUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -67758,13 +67786,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
+            "symbol": "VIRTUALUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
+            "symbol": "VIRTUALUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -68987,6 +69015,13 @@
           },
           {
             "symbol": "WDCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "WDCUSDT",
             "quote": "USDT",
             "type": "swap"
           }

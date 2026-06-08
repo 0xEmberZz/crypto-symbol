@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:17:10.386Z",
+  "generated_at": "2026-06-08T05:58:50.401Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1468,
+      "count": 1467,
       "error": null
     },
     "Gate": {
@@ -2700,11 +2700,6 @@
             "symbol": "AIGENSYNUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "AIGENSYNUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [

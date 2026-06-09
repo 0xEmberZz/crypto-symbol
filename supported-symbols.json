@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:16:57.137Z",
+  "generated_at": "2026-06-09T04:11:30.299Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -67786,13 +67786,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
+            "symbol": "VIRTUALUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
+            "symbol": "VIRTUALUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

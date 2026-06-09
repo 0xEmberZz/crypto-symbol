@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:11:09.049Z",
+  "generated_at": "2026-06-09T16:09:01.704Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1512,
+      "count": 1516,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 541,
+      "count": 542,
       "error": null
     },
     "Aster": {
@@ -50933,6 +50933,17 @@
         ]
       }
     },
+    "RCLOI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RCLOIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RCLW": {
       "listings": {
         "Bitget": [
@@ -50971,6 +50982,17 @@
         "Bitget": [
           {
             "symbol": "RCOINUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RCOP": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RCOPUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -51176,6 +51198,17 @@
         ]
       }
     },
+    "RDGRW": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RDGRWUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RDIS": {
       "listings": {
         "Bitget": [
@@ -51192,6 +51225,17 @@
         "Bitget": [
           {
             "symbol": "RDKNGUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RDLLL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RDLLLUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -73069,6 +73113,17 @@
         "Hyperliquid": [
           {
             "symbol": "110031",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-NBIS": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110086",
             "quote": "USDC",
             "type": "swap"
           }

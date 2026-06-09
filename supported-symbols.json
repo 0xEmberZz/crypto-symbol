@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T08:36:03.792Z",
+  "generated_at": "2026-06-09T12:11:09.049Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2200,
+      "count": 2201,
       "error": null
     },
     "Hyperliquid": {
@@ -33572,6 +33572,13 @@
         "Gate": [
           {
             "symbol": "KONET_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "KONET-USDT",
             "quote": "USDT",
             "type": "spot"
           }

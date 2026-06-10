@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T23:22:09.294Z",
+  "generated_at": "2026-06-10T04:22:58.970Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1547,
+      "count": 1544,
       "error": null
     },
     "Gate": {
@@ -27035,13 +27035,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "HUSDT",
-            "quote": "USDT",
+            "symbol": "HUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "HUSDC",
-            "quote": "USDC",
+            "symbol": "HUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -33250,17 +33250,6 @@
             "symbol": "@202",
             "quote": "USDC",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "KLAC": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "KLACUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -48844,13 +48833,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -51087,17 +51076,6 @@
         ]
       }
     },
-    "RCRWD": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RCRWDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RCRWV": {
       "listings": {
         "Bitget": [
@@ -51225,17 +51203,6 @@
         "Bitget": [
           {
             "symbol": "RDKNGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RDLLL": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RDLLLUSDT",
             "quote": "USDT",
             "type": "spot"
           }

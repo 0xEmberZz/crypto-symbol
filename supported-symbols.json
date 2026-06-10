@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T16:40:09.080Z",
+  "generated_at": "2026-06-10T19:41:02.629Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 457,
+      "count": 461,
       "error": null
     },
     "Lighter": {
@@ -991,6 +991,13 @@
           },
           {
             "symbol": "AAOIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "AAOIUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -16143,6 +16150,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "CRDOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -27526,6 +27540,13 @@
           },
           {
             "symbol": "HDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "HDUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -49555,6 +49576,13 @@
           },
           {
             "symbol": "QCOMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "QCOMUSDT",
             "quote": "USDT",
             "type": "swap"
           }

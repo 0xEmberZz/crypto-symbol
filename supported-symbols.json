@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:27:18.140Z",
+  "generated_at": "2026-06-12T16:24:34.150Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1790,
+      "count": 1791,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 188,
+      "count": 189,
       "error": null
     }
   },
@@ -56934,6 +56934,17 @@
         ]
       }
     },
+    "RSPCX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSPCXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSPG": {
       "listings": {
         "Bitget": [
@@ -62278,6 +62289,13 @@
           {
             "symbol": "SPCXUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SPCX",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

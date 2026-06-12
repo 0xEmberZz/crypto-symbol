@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-12T16:24:34.150Z",
+  "generated_at": "2026-06-12T19:12:35.814Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 723,
+      "count": 724,
       "error": null
     },
     "Bybit": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 467,
+      "count": 472,
       "error": null
     },
     "Lighter": {
@@ -15888,6 +15888,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "COSTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -16296,6 +16303,13 @@
           },
           {
             "symbol": "CRMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "CRMUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -25807,6 +25821,13 @@
           },
           {
             "symbol": "GMEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "GMEUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42031,6 +42052,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "NFLXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -54318,6 +54346,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "RIVNUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -62317,6 +62352,17 @@
         "Gate": [
           {
             "symbol": "SPCX3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPCXB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SPCXBUSDT",
             "quote": "USDT",
             "type": "spot"
           }

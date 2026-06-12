@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-11T23:43:22.682Z",
+  "generated_at": "2026-06-12T04:47:44.831Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 724,
+      "count": 723,
       "error": null
     },
     "Bybit": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2843,
+      "count": 2847,
       "error": null
     },
     "KuCoin": {
@@ -14873,6 +14873,13 @@
         "Bitget": [
           {
             "symbol": "CIENUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CIEN_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31394,6 +31401,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "ISRG_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -36037,11 +36051,6 @@
           {
             "symbol": "LSKUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LSKUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -45468,6 +45477,13 @@
         "Bitget": [
           {
             "symbol": "PANWUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "PANW_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -69446,6 +69462,13 @@
     },
     "UVXY": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "UVXY_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "UVXYUSDTM",

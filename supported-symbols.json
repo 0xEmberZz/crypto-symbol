@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T04:26:21.625Z",
+  "generated_at": "2026-06-13T08:27:34.142Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2848,
+      "count": 2849,
       "error": null
     },
     "KuCoin": {
@@ -27167,13 +27167,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "HUSDT",
-            "quote": "USDT",
+            "symbol": "HUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "HUSDC",
-            "quote": "USDC",
+            "symbol": "HUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -62352,6 +62352,17 @@
         "Binance": [
           {
             "symbol": "SPCXBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPCXON": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPCXON_USDT",
             "quote": "USDT",
             "type": "spot"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:24:54.802Z",
+  "generated_at": "2026-06-13T04:26:21.625Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -16763,17 +16763,6 @@
         ]
       }
     },
-    "CRYPTOBURG": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "CRYPTOBURG_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CSCO": {
       "listings": {
         "OKX": [
@@ -27178,13 +27167,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "HUSDC",
-            "quote": "USDC",
+            "symbol": "HUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "HUSDT",
-            "quote": "USDT",
+            "symbol": "HUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -62363,6 +62352,17 @@
         "Binance": [
           {
             "symbol": "SPCXBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPCXX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPCXX_USDT",
             "quote": "USDT",
             "type": "spot"
           }

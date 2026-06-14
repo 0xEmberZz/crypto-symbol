@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T09:48:52.113Z",
+  "generated_at": "2026-06-14T12:04:12.927Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2213,
+      "count": 2210,
       "error": null
     },
     "Hyperliquid": {
@@ -32921,17 +32921,6 @@
             "symbol": "KAVAUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "KBEAT": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "KBEAT-USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -66554,16 +66543,6 @@
           }
         ],
         "KuCoin": [
-          {
-            "symbol": "TON-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TON-USDC",
-            "quote": "USDC",
-            "type": "spot"
-          },
           {
             "symbol": "TONUSDTM",
             "quote": "USDT",

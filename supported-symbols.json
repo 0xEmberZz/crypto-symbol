@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T00:19:38.026Z",
+  "generated_at": "2026-06-15T06:31:07.714Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1791,
+      "count": 1789,
       "error": null
     },
     "Gate": {
@@ -66518,16 +66518,6 @@
             "symbol": "TONUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "TONPERP",
-            "quote": "USDC",
-            "type": "swap"
           }
         ],
         "Gate": [

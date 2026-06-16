@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T05:13:40.139Z",
+  "generated_at": "2026-06-16T11:26:00.480Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 918,
+      "count": 920,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2210,
+      "count": 2218,
       "error": null
     },
     "Hyperliquid": {
@@ -3186,6 +3186,29 @@
             "symbol": "ALA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ALAB": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "ALAB-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ALABUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ALABUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -7675,6 +7698,13 @@
     },
     "AXTI": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "AXTI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AXTIUSDT",
@@ -9516,6 +9546,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "BEAT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "BEATUSDTM",
             "quote": "USDT",
@@ -44166,6 +44201,13 @@
     },
     "ONDS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ONDS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "ONDSUSDT",
@@ -47627,9 +47669,28 @@
     },
     "POET": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "POET-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "POETUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "POETUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "POETUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -62813,13 +62874,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SPXUSDC",
-            "quote": "USDC",
+            "symbol": "SPXUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SPXUSDT",
-            "quote": "USDT",
+            "symbol": "SPXUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -65954,6 +66015,29 @@
         ]
       }
     },
+    "TER": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "TER-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TERUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "TERUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TEST": {
       "listings": {
         "Hyperliquid": [
@@ -66671,23 +66755,6 @@
             "symbol": "TONUSDC",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "OKX": [
-          {
-            "symbol": "TON-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TON-USDC",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "TON-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Aster": [
@@ -68696,6 +68763,13 @@
         "Gate": [
           {
             "symbol": "U_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "U-USDT",
             "quote": "USDT",
             "type": "spot"
           }

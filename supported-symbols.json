@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T23:52:20.105Z",
+  "generated_at": "2026-06-16T05:13:40.139Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2845,
+      "count": 2852,
       "error": null
     },
     "KuCoin": {
@@ -14314,6 +14314,13 @@
         "OKX": [
           {
             "symbol": "CGNX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CGNX_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31549,6 +31556,17 @@
             "symbol": "IVPAY_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "IVV": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IVV_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -55796,6 +55814,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "ROK_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -61228,6 +61253,17 @@
         ]
       }
     },
+    "SMH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SMH_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SMR": {
       "listings": {
         "Bitget": [
@@ -62272,6 +62308,17 @@
         ]
       }
     },
+    "SOXX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SP500": {
       "listings": {
         "Bitget": [
@@ -62766,13 +62813,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SPXUSDT",
-            "quote": "USDT",
+            "symbol": "SPXUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SPXUSDC",
-            "quote": "USDC",
+            "symbol": "SPXUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -62971,6 +63018,17 @@
             "symbol": "SPY3S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPYM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPYM_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -66632,13 +66690,6 @@
             "type": "swap"
           }
         ],
-        "Gate": [
-          {
-            "symbol": "TON_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "TONUSDT",
@@ -68508,6 +68559,13 @@
         "Bitget": [
           {
             "symbol": "TWLOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "TWLO_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -71352,6 +71410,17 @@
             "symbol": "VON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "VOO": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VOO_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

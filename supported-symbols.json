@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:40:28.837Z",
+  "generated_at": "2026-06-17T04:55:57.223Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2858,
+      "count": 2866,
       "error": null
     },
     "KuCoin": {
@@ -20267,6 +20267,17 @@
         ]
       }
     },
+    "EEM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EEM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "EGAME": {
       "listings": {
         "Gate": [
@@ -25508,6 +25519,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "GEV_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -25702,6 +25720,13 @@
     },
     "GLD": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "GLD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "@276",
@@ -36118,6 +36143,17 @@
             "symbol": "LPT3S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "LQD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LQD_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -62485,6 +62521,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "SOXS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "SOXSUSDTM",
@@ -63004,13 +63047,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SPXUSDT",
-            "quote": "USDT",
+            "symbol": "SPXUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SPXUSDC",
-            "quote": "USDC",
+            "symbol": "SPXUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -63324,6 +63367,13 @@
         "Bitget": [
           {
             "symbol": "SQQQUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SQQQ_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -74767,11 +74817,29 @@
         ]
       }
     },
+    "XLF": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "XLF_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XLK": {
       "listings": {
         "Bitget": [
           {
             "symbol": "XLKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "XLK_USDT",
             "quote": "USDT",
             "type": "swap"
           }

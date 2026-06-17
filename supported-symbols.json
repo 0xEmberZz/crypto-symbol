@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:56:43.005Z",
+  "generated_at": "2026-06-17T13:48:27.728Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 921,
+      "count": 924,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2218,
+      "count": 2221,
       "error": null
     },
     "Hyperliquid": {
@@ -26721,6 +26721,16 @@
             "symbol": "GRAM-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "GRAM-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
+            "symbol": "GRAM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Bitget": [
@@ -26767,6 +26777,16 @@
             "symbol": "GRAM-USDC",
             "quote": "USDC",
             "type": "spot"
+          },
+          {
+            "symbol": "GRAMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "GRAMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Lighter": [
@@ -30323,6 +30343,13 @@
         "Bitget": [
           {
             "symbol": "ILYUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ILY-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -52564,6 +52591,17 @@
           },
           {
             "symbol": "RDWUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "RE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "RE-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
           }

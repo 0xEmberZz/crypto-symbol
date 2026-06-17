@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T04:55:57.223Z",
+  "generated_at": "2026-06-17T09:56:43.005Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,12 +9,12 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 501,
+      "count": 497,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 920,
+      "count": 921,
       "error": null
     },
     "Bitget": {
@@ -26716,15 +26716,10 @@
     },
     "GRAM": {
       "listings": {
-        "Bybit": [
+        "OKX": [
           {
-            "symbol": "GRAMUSDT",
+            "symbol": "GRAM-USDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "GRAMUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -27414,11 +27409,6 @@
     "H": {
       "listings": {
         "Bybit": [
-          {
-            "symbol": "HUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          },
           {
             "symbol": "HUSDT",
             "quote": "USDT",
@@ -29810,11 +29800,6 @@
           {
             "symbol": "ICNTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ICNTUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -49241,13 +49226,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

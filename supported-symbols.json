@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-18T10:41:12.618Z",
+  "generated_at": "2026-06-18T14:15:28.750Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 724,
+      "count": 726,
       "error": null
     },
     "Bybit": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 930,
+      "count": 931,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1807,
+      "count": 1819,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2875,
+      "count": 2877,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2212,
+      "count": 2215,
       "error": null
     },
     "Hyperliquid": {
@@ -3184,6 +3184,13 @@
         "OKX": [
           {
             "symbol": "ALAB-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "ALABUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -36334,6 +36341,17 @@
         ]
       }
     },
+    "LRCX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "LRCXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "LRDS": {
       "listings": {
         "Gate": [
@@ -41119,6 +41137,17 @@
             "symbol": "MUSE_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MUU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MUUUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -50733,6 +50762,17 @@
         ]
       }
     },
+    "RAIPO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RAIPOUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RAIREFLEXINDEX": {
       "listings": {
         "Gate": [
@@ -52635,11 +52675,80 @@
         ]
       }
     },
+    "RDXYZ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RDXYZUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RE": {
       "listings": {
+        "Binance": [
+          {
+            "symbol": "REUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "REUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "OKX": [
           {
+            "symbol": "RE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "RE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "REUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "REUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "RE_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "RE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "RE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "REUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "REUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -57019,6 +57128,17 @@
         ]
       }
     },
+    "RRXT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RRXTUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSAP": {
       "listings": {
         "Bitget": [
@@ -57239,6 +57359,17 @@
         ]
       }
     },
+    "RSMTC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSMTCUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSNAP": {
       "listings": {
         "Bitget": [
@@ -57398,6 +57529,17 @@
         "Bitget": [
           {
             "symbol": "RSPGUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RSPMO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSPMOUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -66265,6 +66407,13 @@
         "OKX": [
           {
             "symbol": "TER-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "TERUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -75149,6 +75298,17 @@
             "symbol": "XNA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "XNDU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "XNDUUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:21:13.685Z",
+  "generated_at": "2026-06-18T06:01:44.380Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2867,
+      "count": 2874,
       "error": null
     },
     "KuCoin": {
@@ -3195,6 +3195,13 @@
         "OKX": [
           {
             "symbol": "ALAB-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ALAB_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -25366,6 +25373,17 @@
         ]
       }
     },
+    "GDX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GDX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GE": {
       "listings": {
         "Bitget": [
@@ -27126,6 +27144,17 @@
           },
           {
             "symbol": "GRTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "GS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GS_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31115,6 +31144,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "IONQ_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -33680,6 +33716,17 @@
             "symbol": "@202",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "KLAC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KLAC_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -56149,6 +56196,17 @@
         ]
       }
     },
+    "ROKU": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ROKU_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ROLL": {
       "listings": {
         "Bitget": [
@@ -68986,6 +69044,17 @@
             "symbol": "TX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TXN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TXN_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

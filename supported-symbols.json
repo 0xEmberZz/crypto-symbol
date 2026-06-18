@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T14:15:28.750Z",
+  "generated_at": "2026-06-18T18:08:51.635Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 478,
+      "count": 479,
       "error": null
     },
     "Lighter": {
@@ -52749,6 +52749,13 @@
           },
           {
             "symbol": "REUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "REUSDT",
             "quote": "USDT",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T18:08:51.635Z",
+  "generated_at": "2026-06-18T21:24:50.147Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 189,
+      "count": 188,
       "error": null
     }
   },
@@ -62881,17 +62881,6 @@
         ]
       }
     },
-    "SPACEX": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "SPACEX",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "SPARKLET": {
       "listings": {
         "Gate": [
@@ -63282,13 +63271,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SPXUSDC",
-            "quote": "USDC",
+            "symbol": "SPXUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SPXUSDT",
-            "quote": "USDT",
+            "symbol": "SPXUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

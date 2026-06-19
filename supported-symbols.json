@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T09:49:38.394Z",
+  "generated_at": "2026-06-19T13:39:54.507Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 495,
+      "count": 496,
       "error": null
     },
     "OKX": {
@@ -35567,6 +35567,13 @@
     },
     "LIT": {
       "listings": {
+        "Bybit": [
+          {
+            "symbol": "LITUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "OKX": [
           {
             "symbol": "LIT-USDT",

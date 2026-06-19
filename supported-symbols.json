@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-18T23:51:26.116Z",
+  "generated_at": "2026-06-19T05:06:41.811Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 726,
+      "count": 721,
       "error": null
     },
     "Bybit": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2877,
+      "count": 2885,
       "error": null
     },
     "KuCoin": {
@@ -2103,6 +2103,13 @@
     },
     "ADI": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "ADI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "ADI-USDT",
@@ -2311,11 +2318,6 @@
           {
             "symbol": "AEVOUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "AEVOUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -15927,13 +15929,6 @@
     },
     "COS": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "COSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "COS_USDT",
@@ -17313,6 +17308,17 @@
         ]
       }
     },
+    "CVS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CVS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CVX": {
       "listings": {
         "Binance": [
@@ -17631,13 +17637,6 @@
     },
     "D": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "DUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "D_USDT",
@@ -28215,13 +28214,6 @@
     },
     "HIGH": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "HIGHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "HIGH_USDT",
@@ -29800,6 +29792,17 @@
         ]
       }
     },
+    "IBIT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IBIT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "IBM": {
       "listings": {
         "OKX": [
@@ -30961,6 +30964,17 @@
             "symbol": "INTER_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "INTU": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "INTU_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -35103,6 +35117,17 @@
         ]
       }
     },
+    "LIN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LIN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "LINEA": {
       "listings": {
         "Binance": [
@@ -38002,13 +38027,6 @@
     },
     "MBOX": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "MBOXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bybit": [
           {
             "symbol": "MBOXUSDT",
@@ -40558,6 +40576,17 @@
             "symbol": "MPLX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MRK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MRK_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -66414,6 +66443,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "TER_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "TERUSDTM",
@@ -66987,6 +67023,17 @@
             "symbol": "TLTON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TMO": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TMO_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T05:06:41.811Z",
+  "generated_at": "2026-06-19T09:49:38.394Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,12 +9,12 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 497,
+      "count": 495,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 931,
+      "count": 932,
       "error": null
     },
     "Bitget": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 479,
+      "count": 478,
       "error": null
     },
     "Lighter": {
@@ -43860,13 +43860,6 @@
     },
     "OAS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "OASUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "OAS_USDT",
@@ -52736,6 +52729,11 @@
             "type": "spot"
           },
           {
+            "symbol": "RE-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "RE-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -60232,13 +60230,6 @@
     },
     "SEND": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SENDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SEND_USDT",
@@ -67192,13 +67183,6 @@
             "symbol": "TONUSDC",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "TONUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

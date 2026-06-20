@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T05:21:37.990Z",
+  "generated_at": "2026-06-20T09:29:43.151Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 496,
+      "count": 495,
       "error": null
     },
     "OKX": {
@@ -74955,13 +74955,6 @@
     },
     "XION": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "XIONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "XIONUSDT",

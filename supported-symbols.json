@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T21:22:17.822Z",
+  "generated_at": "2026-06-21T23:22:57.506Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 478,
+      "count": 476,
       "error": null
     },
     "Lighter": {
@@ -7271,13 +7271,6 @@
             "symbol": "@332",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "AVGOUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -50261,13 +50254,6 @@
             "symbol": "@288",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "QQQUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Lighter": [

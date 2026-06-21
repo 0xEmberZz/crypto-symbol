@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:09:53.217Z",
+  "generated_at": "2026-06-21T10:36:07.000Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2215,
+      "count": 2214,
       "error": null
     },
     "Hyperliquid": {
@@ -74965,13 +74965,6 @@
         "Gate": [
           {
             "symbol": "XION_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "XION-USDT",
             "quote": "USDT",
             "type": "spot"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T05:11:31.734Z",
+  "generated_at": "2026-06-22T12:19:11.459Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1819,
+      "count": 1820,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2214,
+      "count": 2216,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 478,
+      "count": 479,
       "error": null
     },
     "Lighter": {
@@ -5914,6 +5914,24 @@
         "Gate": [
           {
             "symbol": "ARW_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "ARX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "ARXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ARX-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -69646,6 +69664,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "UMXM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -78486,6 +78511,13 @@
         "Gate": [
           {
             "symbol": "ZHIPU_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ZHIPUUSDT",
             "quote": "USDT",
             "type": "swap"
           }

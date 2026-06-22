@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T23:22:57.506Z",
+  "generated_at": "2026-06-22T05:11:31.734Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2885,
+      "count": 2893,
       "error": null
     },
     "KuCoin": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 545,
+      "count": 546,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 476,
+      "count": 478,
       "error": null
     },
     "Lighter": {
@@ -2130,6 +2130,17 @@
         ]
       }
     },
+    "ADSK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ADSK_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ADVANTEST": {
       "listings": {
         "Bitget": [
@@ -3957,6 +3968,17 @@
             "symbol": "AMDON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "AMGN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMGN_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -7272,6 +7294,13 @@
             "quote": "USDC",
             "type": "spot"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "AVGOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -10444,6 +10473,17 @@
             "symbol": "BIFI_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BKNG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BKNG_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -28780,6 +28820,17 @@
         ]
       }
     },
+    "HON": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HON_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HONEY": {
       "listings": {
         "Gate": [
@@ -46937,6 +46988,17 @@
         ]
       }
     },
+    "PFE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PFE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PG": {
       "listings": {
         "Gate": [
@@ -50254,6 +50316,13 @@
             "symbol": "@288",
             "quote": "USDC",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "QQQUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Lighter": [
@@ -59865,6 +59934,17 @@
         ]
       }
     },
+    "SCHW": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SCHW_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SCIHUB": {
       "listings": {
         "Gate": [
@@ -65589,6 +65669,17 @@
           },
           {
             "symbol": "SXTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SYK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SYK_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -72261,6 +72352,17 @@
         ]
       }
     },
+    "VZ": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VZ_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "W": {
       "listings": {
         "Binance": [
@@ -77305,6 +77407,17 @@
         "Hyperliquid": [
           {
             "symbol": "110000",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-ZHIPU": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110091",
             "quote": "USDC",
             "type": "swap"
           }

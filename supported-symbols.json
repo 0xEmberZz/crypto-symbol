@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:56:55.317Z",
+  "generated_at": "2026-06-23T12:40:16.356Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 934,
+      "count": 936,
       "error": null
     },
     "Bitget": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 483,
+      "count": 484,
       "error": null
     },
     "Lighter": {
@@ -30375,6 +30375,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "IDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -36605,6 +36612,13 @@
     },
     "LRCX": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "LRCX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "LRCXUSDT",
@@ -69153,6 +69167,17 @@
             "symbol": "TTD_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TTMI": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "TTMI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

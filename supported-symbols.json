@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T00:15:45.974Z",
+  "generated_at": "2026-06-23T05:09:05.851Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2893,
+      "count": 2904,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2216,
+      "count": 2218,
       "error": null
     },
     "Hyperliquid": {
@@ -5973,11 +5973,28 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "ARX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "ARX-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "ARXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ARXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -22916,6 +22933,17 @@
         ]
       }
     },
+    "FCX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FCX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "FDUSD": {
       "listings": {
         "Binance": [
@@ -36576,6 +36604,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "LRCX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -38722,6 +38757,17 @@
         ]
       }
     },
+    "MELI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MELI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MEME": {
       "listings": {
         "Binance": [
@@ -40789,6 +40835,17 @@
         ]
       }
     },
+    "MPWR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MPWR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MRK": {
       "listings": {
         "Gate": [
@@ -42125,6 +42182,17 @@
             "symbol": "NEAR5S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NEE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NEE_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -61039,6 +61107,17 @@
         ]
       }
     },
+    "SHOP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SHOP_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SHPING": {
       "listings": {
         "Gate": [
@@ -62758,6 +62837,17 @@
         ]
       }
     },
+    "SONY": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SONY_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SOON": {
       "listings": {
         "OKX": [
@@ -63496,6 +63586,17 @@
           },
           {
             "symbol": "SPORTFUNUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SPOT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPOT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -64423,6 +64524,17 @@
             "symbol": "@190",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "STM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "STM_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -73392,6 +73504,17 @@
         "Aster": [
           {
             "symbol": "WETUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "WFC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WFC_USDT",
             "quote": "USDT",
             "type": "swap"
           }

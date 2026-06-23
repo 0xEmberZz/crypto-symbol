@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-23T12:40:16.356Z",
+  "generated_at": "2026-06-23T15:56:32.458Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 721,
+      "count": 725,
       "error": null
     },
     "Bybit": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 484,
+      "count": 486,
       "error": null
     },
     "Lighter": {
@@ -3964,6 +3964,17 @@
             "symbol": "AMD",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "AMDB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AMDBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -10985,6 +10996,13 @@
           },
           {
             "symbol": "BMNRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BMNRUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -22563,6 +22581,17 @@
         ]
       }
     },
+    "EWYB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "EWYBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "EWZ": {
       "listings": {
         "OKX": [
@@ -31135,6 +31164,17 @@
         "Gate": [
           {
             "symbol": "INTC3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "INTCB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "INTCBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -41131,6 +41171,17 @@
         "Gate": [
           {
             "symbol": "MSTR3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "MSTRB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "MSTRBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -71466,6 +71517,13 @@
           },
           {
             "symbol": "UVXYUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "UVXYUSDT",
             "quote": "USDT",
             "type": "swap"
           }

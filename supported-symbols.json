@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T11:50:34.111Z",
+  "generated_at": "2026-06-24T14:47:02.110Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 941,
+      "count": 944,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1841,
+      "count": 1842,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2896,
+      "count": 2897,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2231,
+      "count": 2234,
       "error": null
     },
     "Hyperliquid": {
@@ -42544,6 +42544,58 @@
             "symbol": "NERO_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NES": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "NES-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "NES-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
+            "symbol": "NES-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "NESUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "NES_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "NES-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "NESUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "NESUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

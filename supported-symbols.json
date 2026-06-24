@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T19:56:51.012Z",
+  "generated_at": "2026-06-24T21:37:44.607Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 202,
+      "count": 203,
       "error": null
     }
   },
@@ -13446,6 +13446,17 @@
             "symbol": "CAMP-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CAP": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "CAP",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }

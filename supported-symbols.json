@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:18:29.815Z",
+  "generated_at": "2026-06-24T08:27:47.245Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 936,
+      "count": 937,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1837,
+      "count": 1839,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2890,
+      "count": 2895,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2218,
+      "count": 2219,
       "error": null
     },
     "Hyperliquid": {
@@ -9198,13 +9198,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -29355,6 +29355,17 @@
         ]
       }
     },
+    "HPSP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HPSP_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HPUMP": {
       "listings": {
         "Hyperliquid": [
@@ -32869,6 +32880,17 @@
         ]
       }
     },
+    "JUSUNG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "JUSUNG_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "JUV": {
       "listings": {
         "Binance": [
@@ -34313,6 +34335,17 @@
             "symbol": "KPOL-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "KR200": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KR200_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -39664,6 +39697,20 @@
     },
     "MINIMAX": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MINIMAX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "MINIMAXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MINIMAX_USDT",
@@ -46174,13 +46221,6 @@
     },
     "PANW": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "PANW-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "PANWUSDT",
@@ -59691,6 +59731,17 @@
         ]
       }
     },
+    "SAMSUNGEM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SAMSUNGEM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SAMSUNGUSD": {
       "listings": {
         "Lighter": [
@@ -61614,6 +61665,17 @@
           {
             "symbol": "SKR",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SKSQUARE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKSQUARE_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -71918,6 +71980,24 @@
         ]
       }
     },
+    "VERONA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "VERONAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "VERONA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "VERT": {
       "listings": {
         "Bitget": [
@@ -75396,13 +75476,6 @@
     },
     "XION": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "XIONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Hyperliquid": [
           {
             "symbol": "@238",
@@ -78862,6 +78935,20 @@
     },
     "ZHIPU": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ZHIPU-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "ZHIPUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ZHIPU_USDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:47:02.110Z",
+  "generated_at": "2026-06-24T17:10:31.031Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 486,
+      "count": 488,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 196,
+      "count": 202,
       "error": null
     }
   },
@@ -999,6 +999,13 @@
           {
             "symbol": "AAOIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AAOI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -5767,6 +5774,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ARM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -7374,6 +7388,13 @@
           {
             "symbol": "AVGOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AVGO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -9189,6 +9210,13 @@
           {
             "symbol": "BBUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BB",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -22613,6 +22641,13 @@
           },
           {
             "symbol": "EWZUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "EWZUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -43484,6 +43519,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NOK",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -50446,6 +50488,13 @@
           {
             "symbol": "QCOMUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "QCOM",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -75715,6 +75764,13 @@
           },
           {
             "symbol": "XLEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "XLEUSDT",
             "quote": "USDT",
             "type": "swap"
           }

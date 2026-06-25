@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T08:27:43.796Z",
+  "generated_at": "2026-06-25T11:45:31.819Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 944,
+      "count": 947,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2894,
+      "count": 2898,
       "error": null
     },
     "KuCoin": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 550,
+      "count": 548,
       "error": null
     },
     "Aster": {
@@ -5628,13 +5628,6 @@
           {
             "symbol": "ARKUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "55",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -13496,6 +13489,13 @@
     },
     "CARDS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CARDS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "CARDSUSDT",
@@ -19389,13 +19389,6 @@
           {
             "symbol": "DOODUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "194",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -61659,6 +61652,28 @@
         ]
       }
     },
+    "SKHYNIX3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYNIX3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHYNIX3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYNIX3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SKHYNIXUSD": {
       "listings": {
         "Lighter": [
@@ -63381,6 +63396,28 @@
             "symbol": "SOXL",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SOXL3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXL3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SOXL3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXL3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -69117,6 +69154,13 @@
     },
     "TSEM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "TSEM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "TSEMUSDT",
@@ -73724,6 +73768,13 @@
     },
     "WEN": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "WEN-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "WEN_USDT",

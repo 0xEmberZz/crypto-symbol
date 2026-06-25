@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T11:45:31.819Z",
+  "generated_at": "2026-06-25T14:46:26.318Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1841,
+      "count": 1846,
       "error": null
     },
     "Gate": {
@@ -22381,6 +22381,13 @@
     },
     "EVAA": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "EVAAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "EVAA_USDT",
@@ -51319,6 +51326,13 @@
     },
     "RAM": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "RAMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "@299",
@@ -56468,6 +56482,17 @@
         ]
       }
     },
+    "RNVD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RNVDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RNVDA": {
       "listings": {
         "Bitget": [
@@ -57453,6 +57478,17 @@
         ]
       }
     },
+    "RRAM": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RRAMUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RRBLX": {
       "listings": {
         "Bitget": [
@@ -58221,6 +58257,17 @@
         "Bitget": [
           {
             "symbol": "RSTMUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RSTRC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSTRCUSDT",
             "quote": "USDT",
             "type": "spot"
           }

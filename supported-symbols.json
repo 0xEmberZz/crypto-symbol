@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:12:12.964Z",
+  "generated_at": "2026-06-25T08:27:43.796Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 495,
+      "count": 490,
       "error": null
     },
     "OKX": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1842,
+      "count": 1841,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2897,
+      "count": 2894,
       "error": null
     },
     "KuCoin": {
@@ -20162,13 +20162,6 @@
     },
     "EAT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "EATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "EAT-USDT",
@@ -41600,29 +41593,11 @@
     },
     "MVL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MVLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MVL_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "MVLL": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "MVLLUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -66333,17 +66308,6 @@
         ]
       }
     },
-    "SYND": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "SYNDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SYRUP": {
       "listings": {
         "Binance": [
@@ -72215,6 +72179,13 @@
         "Bitget": [
           {
             "symbol": "VERONAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "VERONA_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -79159,17 +79130,6 @@
         ]
       }
     },
-    "ZEX ": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZEX USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ZF": {
       "listings": {
         "Gate": [
@@ -79853,13 +79813,6 @@
     },
     "ZRC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZRCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ZRC_USDT",
@@ -80162,28 +80115,6 @@
         ]
       }
     },
-    "币安人生3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "币安人生3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "币安人生3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "币安人生3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "我踏马来了": {
       "listings": {
         "Gate": [
@@ -80203,28 +80134,6 @@
             "symbol": "我踏马来了USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "我踏马来了3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "我踏马来了3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "我踏马来了3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "我踏马来了3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }

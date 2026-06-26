@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:41:18.878Z",
+  "generated_at": "2026-06-26T12:17:56.762Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1843,
+      "count": 1840,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2236,
+      "count": 2237,
       "error": null
     },
     "Hyperliquid": {
@@ -13445,6 +13445,13 @@
     },
     "CAP": {
       "listings": {
+        "KuCoin": [
+          {
+            "symbol": "CAP-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "CAP",
@@ -21561,13 +21568,6 @@
     },
     "ESIM": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "ESIMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "ESIM-USDT",
@@ -29127,13 +29127,6 @@
     },
     "HOOLI": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "HOOLIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "HOOLI_USDT",
@@ -68766,11 +68759,6 @@
             "type": "spot"
           },
           {
-            "symbol": "TRUMPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
             "symbol": "TRUMPUSDT",
             "quote": "USDT",
             "type": "swap"
@@ -72514,13 +72502,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
+            "symbol": "VIRTUALUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
+            "symbol": "VIRTUALUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

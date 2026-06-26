@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-26T00:16:48.107Z",
+  "generated_at": "2026-06-26T05:15:25.977Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 725,
+      "count": 724,
       "error": null
     },
     "Bybit": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 947,
+      "count": 948,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1846,
+      "count": 1845,
       "error": null
     },
     "Gate": {
@@ -33831,6 +33831,13 @@
     },
     "KIOXIA": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "KIOXIA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "KIOXIAUSDT",
@@ -38589,11 +38596,6 @@
           {
             "symbol": "MEUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MEUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52786,17 +52788,6 @@
         "Bitget": [
           {
             "symbol": "RCRSPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RCRWD": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RCRWDUSDT",
             "quote": "USDT",
             "type": "spot"
           }

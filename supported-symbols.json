@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:17:56.762Z",
+  "generated_at": "2026-06-26T15:27:58.142Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,12 +9,12 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 490,
+      "count": 491,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 948,
+      "count": 949,
       "error": null
     },
     "Bitget": {
@@ -13445,6 +13445,20 @@
     },
     "CAP": {
       "listings": {
+        "Bybit": [
+          {
+            "symbol": "CAPUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "OKX": [
+          {
+            "symbol": "CAP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "CAP-USDT",

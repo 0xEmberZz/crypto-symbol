@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T21:24:12.682Z",
+  "generated_at": "2026-06-26T23:14:55.324Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 491,
+      "count": 490,
       "error": null
     },
     "OKX": {
@@ -13445,13 +13445,6 @@
     },
     "CAP": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CAPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CAP-USDT-SWAP",
@@ -49824,13 +49817,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

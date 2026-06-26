@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T05:15:25.977Z",
+  "generated_at": "2026-06-26T09:41:18.878Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,22 +19,22 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1845,
+      "count": 1843,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2898,
+      "count": 2895,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2234,
+      "count": 2236,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 549,
+      "count": 550,
       "error": null
     },
     "Aster": {
@@ -16125,11 +16125,6 @@
             "symbol": "COS_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "COS_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -16931,13 +16926,6 @@
         "OKX": [
           {
             "symbol": "CRWD-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "CRWDUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -17833,11 +17821,6 @@
             "symbol": "D_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "D_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -18264,11 +18247,6 @@
             "symbol": "DEGEN_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "DEGEN_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -18908,11 +18886,6 @@
             "symbol": "DOG_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "DOG_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -21600,6 +21573,16 @@
             "symbol": "ESIM-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "ESIMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ESIMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -24879,11 +24862,6 @@
             "symbol": "FUN_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "FUN_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -33541,6 +33519,28 @@
         ]
       }
     },
+    "KBHLD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KBHLD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "KBLAM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KBLAM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KBONK": {
       "listings": {
         "Hyperliquid": [
@@ -39956,6 +39956,17 @@
         ]
       }
     },
+    "MKTS-US500": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "190000",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ML": {
       "listings": {
         "Bitget": [
@@ -44692,11 +44703,6 @@
             "symbol": "OL_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "OL_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -48836,6 +48842,13 @@
     },
     "POPMART": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "POPMART_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "POPMARTUSDT",
@@ -65657,17 +65670,6 @@
             "symbol": "SUKU-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "SUMIELEC": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "SUMIELECUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:12:17.717Z",
+  "generated_at": "2026-06-27T14:48:11.509Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1840,
+      "count": 1841,
       "error": null
     },
     "Gate": {
@@ -13448,6 +13448,13 @@
         "OKX": [
           {
             "symbol": "CAP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "CAPUSDT",
             "quote": "USDT",
             "type": "swap"
           }

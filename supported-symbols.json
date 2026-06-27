@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T10:16:47.717Z",
+  "generated_at": "2026-06-27T12:12:17.717Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2895,
+      "count": 2896,
       "error": null
     },
     "KuCoin": {
@@ -13452,6 +13452,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "CAP_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "CAP-USDT",
@@ -18021,6 +18028,17 @@
         "Gate": [
           {
             "symbol": "DASH3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DATA": {
+      "listings": {
+        "Bybit": [
+          {
+            "symbol": "DATAUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -31577,13 +31595,6 @@
     },
     "IP": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "IPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "IP-USDT",
@@ -49810,13 +49821,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T00:09:35.775Z",
+  "generated_at": "2026-06-28T05:22:36.131Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1841,
+      "count": 1838,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2896,
+      "count": 2894,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2237,
+      "count": 2239,
       "error": null
     },
     "Hyperliquid": {
@@ -13471,6 +13471,16 @@
             "symbol": "CAP-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "CAPUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "CAPUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -29028,17 +29038,6 @@
         ]
       }
     },
-    "HON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "HON_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "HONEY": {
       "listings": {
         "Gate": [
@@ -29051,17 +29050,6 @@
         "KuCoin": [
           {
             "symbol": "HONEY-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HONX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "HONX_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -31631,16 +31619,6 @@
             "symbol": "IPUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "IPUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "IPPERP",
-            "quote": "USDC",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -60273,17 +60251,6 @@
             "symbol": "SATS-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "SATSSTOCK": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "SATSSTOCKUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

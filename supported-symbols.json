@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:40:15.486Z",
+  "generated_at": "2026-06-28T21:11:02.937Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 490,
+      "count": 492,
       "error": null
     },
     "OKX": {
@@ -26992,6 +26992,18 @@
     },
     "GRAM": {
       "listings": {
+        "Bybit": [
+          {
+            "symbol": "GRAMUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "GRAMUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "OKX": [
           {
             "symbol": "GRAM-USDT",

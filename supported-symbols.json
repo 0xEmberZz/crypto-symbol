@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T04:46:54.033Z",
+  "generated_at": "2026-06-29T09:53:53.987Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,22 +9,22 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 492,
+      "count": 493,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 949,
+      "count": 950,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1838,
+      "count": 1839,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2894,
+      "count": 2891,
       "error": null
     },
     "KuCoin": {
@@ -13452,6 +13452,13 @@
     },
     "CAP": {
       "listings": {
+        "Bybit": [
+          {
+            "symbol": "CAPUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "OKX": [
           {
             "symbol": "CAP-USDT-SWAP",
@@ -31645,11 +31652,6 @@
             "symbol": "IP_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "IP_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -31671,28 +31673,6 @@
             "symbol": "IP",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "IP3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "IP3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "IP3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "IP3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -65098,6 +65078,20 @@
     },
     "STRC": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "STRC-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "STRCUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "STRC",

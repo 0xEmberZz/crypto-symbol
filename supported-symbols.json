@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:53:53.987Z",
+  "generated_at": "2026-06-29T14:11:32.007Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1839,
+      "count": 1850,
       "error": null
     },
     "Gate": {
@@ -956,6 +956,17 @@
             "symbol": "A8_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "AAL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "AALUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -4004,6 +4015,17 @@
         ]
       }
     },
+    "AMKR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "AMKRUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "AMP": {
       "listings": {
         "Binance": [
@@ -6441,6 +6463,17 @@
         ]
       }
     },
+    "ASX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "ASXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "AT": {
       "listings": {
         "Binance": [
@@ -8401,6 +8434,13 @@
     },
     "BAC": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "BACUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "BAC_USDT",
@@ -16622,6 +16662,13 @@
     },
     "CRM": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CRMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CRM_USDT",
@@ -31661,13 +31708,6 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "183",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Lighter": [
           {
             "symbol": "IP",
@@ -41596,6 +41636,17 @@
         ]
       }
     },
+    "MVLL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MVLLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MVRK": {
       "listings": {
         "Gate": [
@@ -46670,6 +46721,17 @@
             "symbol": "PCIUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PDD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "PDDUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -63475,6 +63537,13 @@
     },
     "SOXX": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SOXXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SOXX_USDT",
@@ -69885,6 +69954,13 @@
     },
     "TXN": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "TXNUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "TXN_USDT",
@@ -72692,6 +72768,13 @@
     },
     "VOO": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "VOOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "VOO_USDT",
@@ -73797,6 +73880,13 @@
         "OKX": [
           {
             "symbol": "WEN-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "WENUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -77297,6 +77387,17 @@
         "Hyperliquid": [
           {
             "symbol": "110009",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-AMAT": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110095",
             "quote": "USDC",
             "type": "swap"
           }

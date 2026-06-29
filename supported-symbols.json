@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T14:11:32.007Z",
+  "generated_at": "2026-06-29T17:44:29.443Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 491,
+      "count": 492,
       "error": null
     },
     "Lighter": {
@@ -68219,6 +68219,13 @@
           },
           {
             "symbol": "TQQQUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "TQQQUSDT",
             "quote": "USDT",
             "type": "swap"
           }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-30T12:16:49.027Z",
+  "generated_at": "2026-06-30T15:35:57.826Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 722,
+      "count": 727,
       "error": null
     },
     "Bybit": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1859,
+      "count": 1860,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2890,
+      "count": 2894,
       "error": null
     },
     "KuCoin": {
@@ -18116,11 +18116,45 @@
             "type": "spot"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "DATA_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "DATA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "DATA",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "DATA3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DATA3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DATA3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DATA3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -36084,6 +36118,17 @@
         ]
       }
     },
+    "LITEB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "LITEBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "LIY": {
       "listings": {
         "Gate": [
@@ -39336,6 +39381,17 @@
         ]
       }
     },
+    "METAB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "METABUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "METADAO": {
       "listings": {
         "KuCoin": [
@@ -41150,6 +41206,17 @@
             "symbol": "MSFT",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "MSFTB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "MSFTBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -48140,6 +48207,17 @@
         ]
       }
     },
+    "PLTRB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "PLTRBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "PLTRON": {
       "listings": {
         "Gate": [
@@ -49853,13 +49931,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -50813,6 +50891,17 @@
         "Gate": [
           {
             "symbol": "QQQ3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "QQQB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "QQQBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -52888,6 +52977,17 @@
         "Bitget": [
           {
             "symbol": "RCRSPUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RCRWD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RCRWDUSDT",
             "quote": "USDT",
             "type": "spot"
           }

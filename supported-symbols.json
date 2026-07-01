@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-01T10:03:09.104Z",
+  "generated_at": "2026-07-01T12:39:51.881Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 727,
+      "count": 726,
       "error": null
     },
     "Bybit": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 494,
+      "count": 495,
       "error": null
     },
     "Lighter": {
@@ -10322,11 +10322,6 @@
           {
             "symbol": "BIGTIMEUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BIGTIMEUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -67089,6 +67084,13 @@
           },
           {
             "symbol": "TAIKOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "TAIKOUSDT",
             "quote": "USDT",
             "type": "swap"
           }

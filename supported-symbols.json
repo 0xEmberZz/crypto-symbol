@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T12:39:51.881Z",
+  "generated_at": "2026-07-01T15:47:49.135Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 550,
+      "count": 552,
       "error": null
     },
     "Aster": {
@@ -40039,6 +40039,28 @@
           {
             "symbol": "MITOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MKTS-US500": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "190000",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MKTS-USTECH": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "190005",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

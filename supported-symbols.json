@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:46:10.002Z",
+  "generated_at": "2026-07-01T10:03:09.104Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 493,
+      "count": 490,
       "error": null
     },
     "OKX": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2901,
+      "count": 2902,
       "error": null
     },
     "KuCoin": {
@@ -30804,13 +30804,6 @@
     },
     "IMU": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "IMUUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "IMU_USDT",
@@ -42742,6 +42735,11 @@
           {
             "symbol": "NES_USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "NES_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -47153,13 +47151,6 @@
     },
     "PENGUIN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PENGUINUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PENGUIN_USDT",
@@ -64015,13 +64006,6 @@
     "SPELL": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "SPELLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SPELLUSDT",
             "quote": "USDT",

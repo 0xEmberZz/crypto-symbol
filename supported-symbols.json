@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T08:15:52.056Z",
+  "generated_at": "2026-07-02T11:39:24.717Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 952,
+      "count": 956,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1865,
+      "count": 1866,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 552,
+      "count": 553,
       "error": null
     },
     "Aster": {
@@ -11854,6 +11854,13 @@
     },
     "BOT": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "BOT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "BOT",
@@ -18143,6 +18150,20 @@
     "DATA": {
       "listings": {
         "Bybit": [
+          {
+            "symbol": "DATAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "OKX": [
+          {
+            "symbol": "DATA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Bitget": [
           {
             "symbol": "DATAUSDT",
             "quote": "USDT",
@@ -27230,6 +27251,13 @@
             "type": "swap"
           }
         ],
+        "Hyperliquid": [
+          {
+            "symbol": "230",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "GRAM",
@@ -31762,18 +31790,6 @@
     },
     "IP": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "IP-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "IP-USDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "IP-USDT",
@@ -41758,6 +41774,13 @@
     },
     "MUU": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MUU-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MUUUSDT",
@@ -41787,6 +41810,13 @@
     },
     "MVLL": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MVLL-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MVLLUSDT",
@@ -51626,6 +51656,13 @@
     },
     "RAM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "RAM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "RAMUSDT",
@@ -68564,6 +68601,13 @@
     },
     "TQQQ": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "TQQQ-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "TQQQUSDT",

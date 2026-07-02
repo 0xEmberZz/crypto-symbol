@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-02T04:08:53.030Z",
+  "generated_at": "2026-07-02T08:15:52.056Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 726,
+      "count": 728,
       "error": null
     },
     "Bybit": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1859,
+      "count": 1865,
       "error": null
     },
     "Gate": {
@@ -26022,6 +26022,17 @@
         ]
       }
     },
+    "GIGADEVICE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "GIGADEVICEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GIGGLE": {
       "listings": {
         "Binance": [
@@ -27122,6 +27133,18 @@
     },
     "GRAM": {
       "listings": {
+        "Binance": [
+          {
+            "symbol": "GRAMUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "GRAMUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Bybit": [
           {
             "symbol": "GRAMUSDT",
@@ -31748,18 +31771,6 @@
           {
             "symbol": "IP-USDC",
             "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "IP-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "IPUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -38923,6 +38934,13 @@
     },
     "MEITUAN": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MEITUANUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MEITUAN_USDT",
@@ -42835,6 +42853,17 @@
             "symbol": "NESS_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NETEASE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "NETEASEUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -49058,6 +49087,13 @@
     },
     "POPMART": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "POPMARTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "POPMART_USDT",
@@ -62684,6 +62720,13 @@
     },
     "SMIC": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SMICUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "SMIC",
@@ -63036,6 +63079,17 @@
         "Gate": [
           {
             "symbol": "SO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SOFTBANK": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "SOFTBANK-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
           }
@@ -67501,6 +67555,13 @@
     },
     "TENCENT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "TENCENTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "TENCENT_USDT",
@@ -76132,6 +76193,13 @@
     },
     "XIAOMI": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "XIAOMIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "XIAOMI_USDT",

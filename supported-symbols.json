@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T23:21:38.198Z",
+  "generated_at": "2026-07-02T04:08:53.030Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1860,
+      "count": 1859,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2902,
+      "count": 2911,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 495,
+      "count": 494,
       "error": null
     },
     "Lighter": {
@@ -1371,6 +1371,13 @@
         "Bitget": [
           {
             "symbol": "ABNBUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ABNB_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -12963,6 +12970,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "BUD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -14127,6 +14141,13 @@
         "Bitget": [
           {
             "symbol": "CCLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CCL_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -15620,6 +15641,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "CMCSA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17062,13 +17090,6 @@
         "OKX": [
           {
             "symbol": "CRWD-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "CRWDUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -24692,6 +24713,13 @@
         "Bitget": [
           {
             "symbol": "FOXAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "FOXA_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -38121,6 +38149,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "MAR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -41711,6 +41746,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "MUU_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -43430,6 +43472,13 @@
         "Bitget": [
           {
             "symbol": "NKEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "NKE_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -53023,17 +53072,6 @@
         "Bitget": [
           {
             "symbol": "RCRSPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RCRWD": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RCRWDUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -76379,6 +76417,13 @@
         "Bitget": [
           {
             "symbol": "XLUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "XLU_USDT",
             "quote": "USDT",
             "type": "swap"
           }

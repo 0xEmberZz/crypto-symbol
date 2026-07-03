@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T00:13:50.364Z",
+  "generated_at": "2026-07-03T04:48:57.965Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1868,
+      "count": 1869,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2926,
+      "count": 2927,
       "error": null
     },
     "KuCoin": {
@@ -50242,13 +50242,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -62211,6 +62211,24 @@
             "symbol": "SKEY-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHY": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SKHYUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SKHY_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

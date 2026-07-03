@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:15:10.946Z",
+  "generated_at": "2026-07-03T11:37:57.584Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1869,
+      "count": 1870,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2239,
+      "count": 2241,
       "error": null
     },
     "Hyperliquid": {
@@ -18212,6 +18212,11 @@
             "symbol": "DATAUSDT",
             "quote": "USDT",
             "type": "swap"
+          },
+          {
+            "symbol": "DATAPERP",
+            "quote": "USDC",
+            "type": "swap"
           }
         ],
         "Gate": [
@@ -18222,6 +18227,18 @@
           },
           {
             "symbol": "DATA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "DATAUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "DATAUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

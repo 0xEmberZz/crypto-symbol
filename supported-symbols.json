@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T04:48:57.965Z",
+  "generated_at": "2026-07-03T08:15:10.946Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 958,
+      "count": 959,
       "error": null
     },
     "Bitget": {
@@ -73693,6 +73693,13 @@
             "symbol": "VVVUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "OKX": [
+          {
+            "symbol": "VVV-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Bitget": [

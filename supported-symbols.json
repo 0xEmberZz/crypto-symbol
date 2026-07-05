@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T23:09:28.437Z",
+  "generated_at": "2026-07-05T04:07:11.279Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2927,
+      "count": 2924,
       "error": null
     },
     "KuCoin": {
@@ -8493,13 +8493,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Gate": [
-          {
-            "symbol": "BAC_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -13766,13 +13759,6 @@
             "symbol": "CATUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Gate": [
-          {
-            "symbol": "CAT_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ],
         "KuCoin": [
@@ -50279,13 +50265,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -74588,13 +74574,6 @@
             "symbol": "WENUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Gate": [
-          {
-            "symbol": "WEN_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ],
         "KuCoin": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T16:25:37.619Z",
+  "generated_at": "2026-07-06T19:01:15.529Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 553,
+      "count": 554,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 501,
+      "count": 502,
       "error": null
     },
     "Lighter": {
@@ -79118,6 +79118,17 @@
         ]
       }
     },
+    "XYZ-SHAZ": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110098",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-SILVER": {
       "listings": {
         "Hyperliquid": [
@@ -79521,6 +79532,13 @@
           },
           {
             "symbol": "YFIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "YFIUSDT",
             "quote": "USDT",
             "type": "swap"
           }

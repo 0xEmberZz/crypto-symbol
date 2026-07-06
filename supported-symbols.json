@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T04:13:43.556Z",
+  "generated_at": "2026-07-06T09:05:19.878Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 959,
+      "count": 960,
       "error": null
     },
     "Bitget": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2924,
+      "count": 2930,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2241,
+      "count": 2243,
       "error": null
     },
     "Hyperliquid": {
@@ -222,6 +222,22 @@
         "Bitget": [
           {
             "symbol": "10000NEXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "10000REKT": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "10000REKTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "10000REKTUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -8493,6 +8509,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "BAC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -12421,6 +12444,24 @@
         ]
       }
     },
+    "BSP": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "BSP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "BSP_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BST": {
       "listings": {
         "Gate": [
@@ -13757,6 +13798,13 @@
         "Bitget": [
           {
             "symbol": "CATUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CAT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -34747,6 +34795,17 @@
         ]
       }
     },
+    "KSTR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KSTR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KT": {
       "listings": {
         "Gate": [
@@ -50265,13 +50324,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -70210,6 +70269,13 @@
     },
     "TTWO": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "TTWO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "TTWO",
@@ -74579,6 +74645,13 @@
         "Bitget": [
           {
             "symbol": "WENUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "WEN_USDT",
             "quote": "USDT",
             "type": "swap"
           }

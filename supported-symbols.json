@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T23:13:52.261Z",
+  "generated_at": "2026-07-06T04:13:43.556Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 497,
+      "count": 501,
       "error": null
     },
     "Lighter": {
@@ -17209,6 +17209,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "CSCOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -32733,6 +32740,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "JPMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -41752,6 +41766,13 @@
             "type": "spot"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "MUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "MU",
@@ -50244,13 +50265,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -72689,6 +72710,13 @@
           },
           {
             "symbol": "VANRYUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "VANRYUSDT",
             "quote": "USDT",
             "type": "swap"
           }

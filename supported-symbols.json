@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-07T11:59:16.712Z",
+  "generated_at": "2026-07-07T14:53:08.281Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 728,
+      "count": 738,
       "error": null
     },
     "Bybit": {
@@ -14081,6 +14081,17 @@
         ]
       }
     },
+    "CBRSB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "CBRSBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "CC": {
       "listings": {
         "Bybit": [
@@ -15946,6 +15957,17 @@
             "symbol": "COIN",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "COINB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "COINBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -20016,6 +20038,17 @@
             "symbol": "DRAM",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "DRAMB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "DRAMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -26559,6 +26592,17 @@
         ]
       }
     },
+    "GLWB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "GLWBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "GM": {
       "listings": {
         "Gate": [
@@ -27219,6 +27263,17 @@
         "Gate": [
           {
             "symbol": "GOOGL3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "GOOGLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "GOOGLBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -42644,6 +42699,17 @@
         ]
       }
     },
+    "NBISB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "NBISBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "NBLU": {
       "listings": {
         "Gate": [
@@ -51165,6 +51231,17 @@
             "symbol": "QCOM",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "QCOMB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "QCOMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -64422,6 +64499,17 @@
         ]
       }
     },
+    "SOXLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SOXLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SOXS": {
       "listings": {
         "Bitget": [
@@ -65171,6 +65259,17 @@
         "Gate": [
           {
             "symbol": "SPY3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPYB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SPYBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -74851,6 +74950,17 @@
             "symbol": "WDCUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "WDCB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "WDCBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

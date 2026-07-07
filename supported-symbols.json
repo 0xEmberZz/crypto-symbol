@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T08:28:41.189Z",
+  "generated_at": "2026-07-07T11:59:16.712Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1890,
+      "count": 1888,
       "error": null
     },
     "Gate": {
@@ -59324,17 +59324,6 @@
         ]
       }
     },
-    "RTKO": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RTKOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RTLN": {
       "listings": {
         "Bitget": [
@@ -60077,17 +60066,6 @@
         "Bitget": [
           {
             "symbol": "RVTIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RVTR": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RVTRUSDT",
             "quote": "USDT",
             "type": "spot"
           }

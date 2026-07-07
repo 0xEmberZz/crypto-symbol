@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:53:08.281Z",
+  "generated_at": "2026-07-07T17:23:03.171Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 490,
+      "count": 491,
       "error": null
     },
     "OKX": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2250,
+      "count": 2251,
       "error": null
     },
     "Hyperliquid": {
@@ -27762,6 +27762,24 @@
         "Gate": [
           {
             "symbol": "GROK_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "GROVE": {
+      "listings": {
+        "Bybit": [
+          {
+            "symbol": "GROVEUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "GROVE-USDT",
             "quote": "USDT",
             "type": "spot"
           }

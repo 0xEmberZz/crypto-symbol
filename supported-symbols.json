@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:59:23.081Z",
+  "generated_at": "2026-07-07T08:28:41.189Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 491,
+      "count": 490,
       "error": null
     },
     "OKX": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1883,
+      "count": 1890,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2932,
+      "count": 2935,
       "error": null
     },
     "KuCoin": {
@@ -9117,6 +9117,17 @@
             "symbol": "BASEDUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "BASISCASH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BASISCASH_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -18269,13 +18280,6 @@
     },
     "DATA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DATAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "DATA-USDT",
@@ -52499,6 +52503,17 @@
         ]
       }
     },
+    "RAVAV": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RAVAVUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RAVE": {
       "listings": {
         "OKX": [
@@ -55235,6 +55250,17 @@
         ]
       }
     },
+    "RFWDI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RFWDIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RFXI": {
       "listings": {
         "Bitget": [
@@ -56313,6 +56339,17 @@
         "Bitget": [
           {
             "symbol": "RKKRUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RKLAC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RKLACUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -58502,6 +58539,17 @@
         ]
       }
     },
+    "RSATA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSATAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSBET": {
       "listings": {
         "Bitget": [
@@ -59276,6 +59324,17 @@
         ]
       }
     },
+    "RTKO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RTKOUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RTLN": {
       "listings": {
         "Bitget": [
@@ -60007,6 +60066,28 @@
         "Bitget": [
           {
             "symbol": "RVSXYUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RVTI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RVTIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RVTR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RVTRUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -62328,6 +62409,17 @@
             "symbol": "SIMOUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SIMONSCAT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SIMONSCAT_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -74899,6 +74991,17 @@
             "symbol": "WEN",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "WENSOL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WENSOL_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T23:08:00.956Z",
+  "generated_at": "2026-07-08T03:30:01.577Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1888,
+      "count": 1889,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2935,
+      "count": 2915,
       "error": null
     },
     "KuCoin": {
@@ -4429,17 +4429,6 @@
             "symbol": "ANKRUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "ANLOG": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ANLOG_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -11140,17 +11129,6 @@
             "symbol": "BMNR",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BMON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BMON_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -19219,17 +19197,6 @@
         ]
       }
     },
-    "DNX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "DNX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "DODO": {
       "listings": {
         "Binance": [
@@ -19681,17 +19648,6 @@
         "Gate": [
           {
             "symbol": "DOME_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "DON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "DON_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -26384,13 +26340,6 @@
     },
     "GIZA": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "GIZA_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "GIZA-USDT",
@@ -26597,17 +26546,6 @@
         "Binance": [
           {
             "symbol": "GLWBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "GM": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "GM_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -27325,17 +27263,6 @@
         ]
       }
     },
-    "GOZ": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "GOZ_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "GPS": {
       "listings": {
         "Binance": [
@@ -28024,17 +27951,6 @@
           {
             "symbol": "@61",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "GUI": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "GUI_USDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -30535,17 +30451,6 @@
         "Gate": [
           {
             "symbol": "IAUON_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "IBFK": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "IBFK_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -35015,17 +34920,6 @@
         ]
       }
     },
-    "KTN": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "KTN_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "KTON": {
       "listings": {
         "Gate": [
@@ -37482,17 +37376,6 @@
         ]
       }
     },
-    "LUCE": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "LUCE_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "LUCIC": {
       "listings": {
         "Gate": [
@@ -39496,13 +39379,6 @@
     },
     "MEMEFI": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "MEMEFI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "MEMEFI-USDT",
@@ -50870,17 +50746,6 @@
         ]
       }
     },
-    "PVU": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "PVU_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PYBOBO": {
       "listings": {
         "Gate": [
@@ -61589,13 +61454,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Gate": [
-          {
-            "symbol": "SDEX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -64998,17 +64856,6 @@
         ]
       }
     },
-    "SPON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "SPON_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SPORTFUN": {
       "listings": {
         "KuCoin": [
@@ -66791,6 +66638,17 @@
         ]
       }
     },
+    "SUMIELEC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SUMIELECUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SUN": {
       "listings": {
         "Binance": [
@@ -67963,17 +67821,6 @@
         "Gate": [
           {
             "symbol": "TALENT_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "TANSSI": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "TANSSI_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -69769,17 +69616,6 @@
         "Gate": [
           {
             "symbol": "TRIO_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "TRKX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "TRKX_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -77899,17 +77735,6 @@
         ]
       }
     },
-    "XPOWER": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "XPOWER_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "XPR": {
       "listings": {
         "Gate": [
@@ -80321,17 +80146,6 @@
         ]
       }
     },
-    "ZERC": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ZERC_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ZEREBRO": {
       "listings": {
         "Bybit": [
@@ -81120,13 +80934,6 @@
     },
     "ZND": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "ZND_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "ZND-USDT",

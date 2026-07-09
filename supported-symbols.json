@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T08:33:40.460Z",
+  "generated_at": "2026-07-09T16:04:56.498Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1889,
+      "count": 1890,
       "error": null
     },
     "Gate": {
@@ -29,17 +29,17 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2227,
+      "count": 2228,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 554,
+      "count": 555,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 504,
+      "count": 505,
       "error": null
     },
     "Lighter": {
@@ -13794,6 +13794,13 @@
             "type": "spot"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "CARDS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "CARDSUSDT",
@@ -17539,13 +17546,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "CTA-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -18441,6 +18441,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "DATA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "DATAUSDTM",
             "quote": "USDT",
@@ -22850,6 +22855,11 @@
     "EVAA": {
       "listings": {
         "Bitget": [
+          {
+            "symbol": "EVAAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "EVAAUSDT",
             "quote": "USDT",
@@ -68441,6 +68451,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "THEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -79341,6 +79358,17 @@
         "Hyperliquid": [
           {
             "symbol": "110022",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-SKHY": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110099",
             "quote": "USDC",
             "type": "swap"
           }

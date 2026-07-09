@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T04:59:24.009Z",
+  "generated_at": "2026-07-09T08:33:40.460Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2926,
+      "count": 2945,
       "error": null
     },
     "KuCoin": {
@@ -1378,6 +1378,17 @@
             "symbol": "ABBV_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ABBVG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ABBVG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -3954,6 +3965,17 @@
         ]
       }
     },
+    "AMATG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMATG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "AMC": {
       "listings": {
         "Bitget": [
@@ -4019,6 +4041,28 @@
             "symbol": "AMD",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "AMD3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMD3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AMD3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMD3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -14118,6 +14162,17 @@
         ]
       }
     },
+    "CBRSG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CBRSG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "CC": {
       "listings": {
         "Bybit": [
@@ -15998,6 +16053,17 @@
         ]
       }
     },
+    "COING": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "COING_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "COINON": {
       "listings": {
         "Gate": [
@@ -17384,6 +17450,17 @@
             "symbol": "CSCOUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "CSCOG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CSCOG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -20029,6 +20106,17 @@
         "Binance": [
           {
             "symbol": "DRAMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DRAMG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DRAMG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -26553,6 +26641,17 @@
         ]
       }
     },
+    "GLWG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GLWG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "GME": {
       "listings": {
         "OKX": [
@@ -32754,6 +32853,17 @@
             "symbol": "JNJ_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "JNJG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "JNJG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -42613,6 +42723,17 @@
         ]
       }
     },
+    "NBISG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NBISG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "NBLU": {
       "listings": {
         "Gate": [
@@ -46378,6 +46499,17 @@
             "symbol": "ORCL",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ORCLG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ORCLG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -51094,6 +51226,17 @@
         "Binance": [
           {
             "symbol": "QCOMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "QCOMG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "QCOMG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -60740,6 +60883,28 @@
         ]
       }
     },
+    "SAMSUNG3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SAMSUNG3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SAMSUNG3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SAMSUNG3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SAMSUNGEM": {
       "listings": {
         "Gate": [
@@ -64357,6 +64522,17 @@
         ]
       }
     },
+    "SOXLG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXLG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SOXS": {
       "listings": {
         "Bitget": [
@@ -65106,6 +65282,17 @@
         "Binance": [
           {
             "symbol": "SPYBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPYG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPYG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -74790,6 +74977,17 @@
         ]
       }
     },
+    "WDCG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WDCG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "WEETH": {
       "listings": {
         "Bitget": [
@@ -77369,6 +77567,17 @@
             "symbol": "XOMUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XOMG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "XOMG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-09T23:18:51.171Z",
+  "generated_at": "2026-07-10T03:58:11.928Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 738,
+      "count": 732,
       "error": null
     },
     "Bybit": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 503,
+      "count": 505,
       "error": null
     },
     "Lighter": {
@@ -3364,13 +3364,6 @@
     },
     "ALCX": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "ALCXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ALCX_USDT",
@@ -5634,17 +5627,6 @@
         "KuCoin": [
           {
             "symbol": "ARCSOL-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ARDR": {
-      "listings": {
-        "Binance": [
-          {
-            "symbol": "ARDRUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -26916,11 +26898,6 @@
             "symbol": "GMXUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "GMXUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bybit": [
@@ -41586,6 +41563,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "MRVLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "MRVL",
@@ -43595,13 +43579,6 @@
     },
     "NFP": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "NFPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "NFPUSDT",
@@ -46488,6 +46465,13 @@
             "symbol": "@331",
             "quote": "USDC",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ORCLUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Lighter": [
@@ -49398,13 +49382,6 @@
     },
     "POND": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "PONDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "POND_USDT",
@@ -67634,11 +67611,6 @@
           {
             "symbol": "TUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],

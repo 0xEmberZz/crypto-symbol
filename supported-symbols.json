@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:12:15.323Z",
+  "generated_at": "2026-07-10T14:43:31.187Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 970,
+      "count": 971,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1882,
+      "count": 1883,
       "error": null
     },
     "Gate": {
@@ -58761,6 +58761,17 @@
         ]
       }
     },
+    "RSKHY": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSKHYUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSLB": {
       "listings": {
         "Bitget": [
@@ -63231,6 +63242,11 @@
           {
             "symbol": "SLX-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "SLX-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {

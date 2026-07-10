@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:43:31.187Z",
+  "generated_at": "2026-07-10T17:02:39.419Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 971,
+      "count": 972,
       "error": null
     },
     "Bitget": {
@@ -62621,6 +62621,13 @@
     },
     "SKHY": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SKHY-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SKHYUSDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T06:20:57.693Z",
+  "generated_at": "2026-07-11T08:52:48.681Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2945,
+      "count": 2948,
       "error": null
     },
     "KuCoin": {
@@ -62654,6 +62654,39 @@
             "symbol": "SKHYUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SKHY3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHY3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHY3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHY3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHYG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T03:39:00.549Z",
+  "generated_at": "2026-07-13T07:29:13.818Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2235,
+      "count": 2231,
       "error": null
     },
     "Hyperliquid": {
@@ -34823,18 +34823,6 @@
             "type": "swap"
           }
         ],
-        "KuCoin": [
-          {
-            "symbol": "KORUUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "KORUUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "KORUUSDT",
@@ -64619,18 +64607,6 @@
         "Gate": [
           {
             "symbol": "SOXS_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "SOXSUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "SOXSUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

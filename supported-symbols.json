@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T14:50:48.673Z",
+  "generated_at": "2026-07-13T17:19:12.771Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 506,
+      "count": 507,
       "error": null
     },
     "Lighter": {
@@ -35023,6 +35023,13 @@
           },
           {
             "symbol": "KSTRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "KSTRUSDT",
             "quote": "USDT",
             "type": "swap"
           }

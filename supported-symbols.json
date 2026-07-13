@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-13T11:21:00.050Z",
+  "generated_at": "2026-07-13T14:50:48.673Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 732,
+      "count": 733,
       "error": null
     },
     "Bybit": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1883,
+      "count": 1887,
       "error": null
     },
     "Gate": {
@@ -11946,6 +11946,13 @@
         "OKX": [
           {
             "symbol": "BOT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "BOTUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31772,6 +31779,17 @@
         "Gate": [
           {
             "symbol": "INTU_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "INTW": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "INTWUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -62690,6 +62708,17 @@
         ]
       }
     },
+    "SKHYB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SKHYBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SKHYG": {
       "listings": {
         "Gate": [
@@ -63817,6 +63846,13 @@
     },
     "SNXX": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SNXXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "SNXXUSDTM",
@@ -76813,6 +76849,17 @@
             "symbol": "XAVA-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "XBI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "XBIUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

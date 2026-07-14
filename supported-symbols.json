@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:08:28.216Z",
+  "generated_at": "2026-07-14T23:58:11.112Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1887,
+      "count": 1886,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 507,
+      "count": 506,
       "error": null
     },
     "Lighter": {
@@ -34868,13 +34868,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "KORUUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -64707,13 +64700,6 @@
     },
     "SOXS": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "SOXSUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SOXS_USDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T17:21:19.483Z",
+  "generated_at": "2026-07-14T19:36:36.570Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 206,
+      "count": 207,
       "error": null
     }
   },
@@ -62712,6 +62712,13 @@
           {
             "symbol": "SKHYUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SKHY",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

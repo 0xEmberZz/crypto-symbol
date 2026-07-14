@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:27:29.845Z",
+  "generated_at": "2026-07-14T17:21:19.483Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 205,
+      "count": 206,
       "error": null
     }
   },
@@ -24924,6 +24924,13 @@
           {
             "symbol": "FOLKSUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "FOLKS",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

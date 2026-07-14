@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T23:59:30.490Z",
+  "generated_at": "2026-07-14T03:14:18.448Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1887,
+      "count": 1886,
       "error": null
     },
     "Gate": {
@@ -53642,17 +53642,6 @@
         "Bitget": [
           {
             "symbol": "RCRSPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RCRWD": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RCRWDUSDT",
             "quote": "USDT",
             "type": "spot"
           }

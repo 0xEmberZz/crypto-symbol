@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:14:18.448Z",
+  "generated_at": "2026-07-14T06:18:14.977Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1886,
+      "count": 1887,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2948,
+      "count": 2953,
       "error": null
     },
     "KuCoin": {
@@ -4991,6 +4991,13 @@
         "Bitget": [
           {
             "symbol": "APPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "APP_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -11953,6 +11960,13 @@
         "Bitget": [
           {
             "symbol": "BOTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "BOT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31793,6 +31807,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "INTW_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -35071,6 +35092,13 @@
     },
     "KUAISHOU": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "KUAISHOUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "KUAISHOU_USDT",
@@ -63849,6 +63877,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "SNXX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "SNXXUSDTM",
@@ -76854,6 +76889,13 @@
         "Bitget": [
           {
             "symbol": "XBIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "XBI_USDT",
             "quote": "USDT",
             "type": "swap"
           }

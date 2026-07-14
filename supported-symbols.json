@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T11:36:55.790Z",
+  "generated_at": "2026-07-14T14:00:55.411Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 972,
+      "count": 975,
       "error": null
     },
     "Bitget": {
@@ -63870,6 +63870,13 @@
     },
     "SNXX": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SNXX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SNXXUSDT",
@@ -65546,6 +65553,13 @@
     },
     "SQQQ": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SQQQ-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SQQQUSDT",
@@ -76893,6 +76907,13 @@
     },
     "XBI": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "XBI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "XBIUSDT",

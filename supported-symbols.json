@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T13:57:25.520Z",
+  "generated_at": "2026-07-15T15:38:50.244Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1900,
+      "count": 1902,
       "error": null
     },
     "Gate": {
@@ -59423,6 +59423,17 @@
         ]
       }
     },
+    "RSOXS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSOXSUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSOXX": {
       "listings": {
         "Bitget": [
@@ -60064,6 +60075,17 @@
             "symbol": "RTXSTOCKUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "RTZA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RTZAUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T09:14:58.168Z",
+  "generated_at": "2026-07-15T11:40:43.716Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1897,
+      "count": 1899,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2969,
+      "count": 2971,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2235,
+      "count": 2236,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 507,
+      "count": 508,
       "error": null
     },
     "Lighter": {
@@ -13923,6 +13923,13 @@
     },
     "CASHCAT": {
       "listings": {
+        "KuCoin": [
+          {
+            "symbol": "CASHCAT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "231",
@@ -18092,6 +18099,17 @@
             "symbol": "CWS_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CXMT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CXMT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -34982,6 +35000,20 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Bitget": [
+          {
+            "symbol": "KORUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "KORUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -42362,6 +42394,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "MUUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MUU_USDT",
@@ -43523,6 +43562,17 @@
             "symbol": "NETX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NEURALINK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NEURALINK_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

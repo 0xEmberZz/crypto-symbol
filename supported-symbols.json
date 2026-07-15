@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:58:11.112Z",
+  "generated_at": "2026-07-15T03:13:33.246Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1886,
+      "count": 1882,
       "error": null
     },
     "Gate": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 556,
+      "count": 557,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 506,
+      "count": 507,
       "error": null
     },
     "Lighter": {
@@ -34861,13 +34861,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Bitget": [
-          {
-            "symbol": "KORUUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -42233,13 +42226,6 @@
         "OKX": [
           {
             "symbol": "MUU-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "MUUUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -58995,17 +58981,6 @@
         ]
       }
     },
-    "RSOXS": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RSOXSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RSOXX": {
       "listings": {
         "Bitget": [
@@ -59625,17 +59600,6 @@
             "symbol": "RTXSTOCKUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "RTZA": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RTZAUSDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -66372,6 +66336,13 @@
           },
           {
             "symbol": "STRCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "STRCUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -78993,6 +78964,17 @@
         "Hyperliquid": [
           {
             "symbol": "110037",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-CXMT": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110101",
             "quote": "USDC",
             "type": "swap"
           }

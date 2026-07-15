@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T06:21:41.732Z",
+  "generated_at": "2026-07-15T09:14:58.168Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2953,
+      "count": 2969,
       "error": null
     },
     "KuCoin": {
@@ -5919,6 +5919,17 @@
         ]
       }
     },
+    "ARMG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ARMG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ARPA": {
       "listings": {
         "Binance": [
@@ -8577,6 +8588,17 @@
             "symbol": "BAC_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "BACG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BACG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -14001,6 +14023,17 @@
         ]
       }
     },
+    "CATG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CATG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "CATI": {
       "listings": {
         "Binance": [
@@ -16575,6 +16608,17 @@
         ]
       }
     },
+    "COSTG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "COSTG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "COTI": {
       "listings": {
         "Binance": [
@@ -17975,6 +18019,17 @@
             "symbol": "CVXUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "CVXG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CVXG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -26106,6 +26161,17 @@
         ]
       }
     },
+    "GEG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GEG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "GEMS": {
       "listings": {
         "Gate": [
@@ -27945,6 +28011,17 @@
         ]
       }
     },
+    "GSG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GSG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "GT": {
       "listings": {
         "Gate": [
@@ -28708,6 +28785,17 @@
             "symbol": "HDUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "HDG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HDG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -30013,6 +30101,17 @@
             "symbol": "HSBC_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "HSBCG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HSBCG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -32501,6 +32600,17 @@
         ]
       }
     },
+    "IVVG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IVVG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "IVVON": {
       "listings": {
         "Bitget": [
@@ -34768,6 +34878,17 @@
           {
             "symbol": "@21",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "KOG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KOG_USDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -37278,6 +37399,17 @@
             "symbol": "LRCXUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "LRCXG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LRCXG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -43596,6 +43728,17 @@
         ]
       }
     },
+    "NFLXG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NFLXG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "NFLXON": {
       "listings": {
         "Gate": [
@@ -48152,6 +48295,17 @@
             "symbol": "PG_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "PGG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PGG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -71877,6 +72031,17 @@
         ]
       }
     },
+    "UNHG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UNHG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "UNHON": {
       "listings": {
         "Gate": [
@@ -74234,6 +74399,17 @@
             "symbol": "VOO_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "VOOG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VOOG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

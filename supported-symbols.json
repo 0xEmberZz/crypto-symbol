@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-15T11:40:43.716Z",
+  "generated_at": "2026-07-15T13:57:25.520Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 733,
+      "count": 743,
       "error": null
     },
     "Bybit": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1899,
+      "count": 1900,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 207,
+      "count": 208,
       "error": null
     }
   },
@@ -1034,6 +1034,17 @@
             "symbol": "AAOI",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "AAOIB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AAOIBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -5919,6 +5930,17 @@
         ]
       }
     },
+    "ARMB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "ARMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ARMG": {
       "listings": {
         "Gate": [
@@ -7564,6 +7586,17 @@
         ]
       }
     },
+    "AVGOB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AVGOBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "AVGOG": {
       "listings": {
         "Gate": [
@@ -8382,6 +8415,17 @@
         "Gate": [
           {
             "symbol": "BABA3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BABAB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "BABABUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -18109,6 +18153,13 @@
           {
             "symbol": "CXMT_USDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CXMT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -29778,6 +29829,17 @@
         ]
       }
     },
+    "HOODB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "HOODBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "HOODON": {
       "listings": {
         "Gate": [
@@ -30765,6 +30827,17 @@
             "symbol": "IBM",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "IBMB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "IBMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -41813,6 +41886,17 @@
         ]
       }
     },
+    "MRVLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "MRVLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "MRVLG": {
       "listings": {
         "Gate": [
@@ -44403,6 +44487,17 @@
             "symbol": "NOK",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "NOKB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "NOKBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -50765,13 +50860,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -56785,6 +56880,17 @@
             "symbol": "RKLB",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "RKLBB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "RKLBBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -65033,6 +65139,13 @@
     },
     "SOXS": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SOXSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SOXS_USDT",
@@ -71019,6 +71132,17 @@
             "symbol": "TSM",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "TSMB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "TSMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T06:25:22.642Z",
+  "generated_at": "2026-07-16T09:20:22.534Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 991,
+      "count": 999,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2962,
+      "count": 2970,
       "error": null
     },
     "KuCoin": {
@@ -20158,6 +20158,17 @@
         ]
       }
     },
+    "DOT3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DOT3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "DOT3S": {
       "listings": {
         "Gate": [
@@ -23554,6 +23565,17 @@
         ]
       }
     },
+    "FARTCOIN3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FARTCOIN3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "FARTCOIN5L": {
       "listings": {
         "Gate": [
@@ -24200,6 +24222,17 @@
         "Gate": [
           {
             "symbol": "FIL3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "FIL5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FIL5L_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -25919,6 +25952,17 @@
         "Gate": [
           {
             "symbol": "GALA3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "GALA5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GALA5L_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -27726,6 +27770,17 @@
         "Gate": [
           {
             "symbol": "GRAM3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "GRAM5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GRAM5L_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -33998,6 +34053,17 @@
         ]
       }
     },
+    "KAS5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KAS5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "KAS5S": {
       "listings": {
         "Gate": [
@@ -35537,6 +35603,17 @@
             "symbol": "LABUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "LAB3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LAB3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -39133,11 +39210,6 @@
             "symbol": "MBOX_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "MBOX_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -50807,13 +50879,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -63614,6 +63686,17 @@
         ]
       }
     },
+    "SKYAI3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKYAI3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SKYAI3S": {
       "listings": {
         "Gate": [
@@ -72396,6 +72479,17 @@
         ]
       }
     },
+    "UNI5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UNI5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "UNIBOT": {
       "listings": {
         "Gate": [
@@ -77098,6 +77192,28 @@
         ]
       }
     },
+    "XAMD": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAMD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XAMZN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAMZN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAN": {
       "listings": {
         "Bybit": [
@@ -77370,6 +77486,17 @@
         "KuCoin": [
           {
             "symbol": "XAVA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XAVGO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAVGO-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -77765,6 +77892,17 @@
         ]
       }
     },
+    "XIWM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XIWM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XL1": {
       "listings": {
         "Gate": [
@@ -77845,6 +77983,17 @@
             "symbol": "XLF_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XLITE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XLITE-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -78029,6 +78178,17 @@
         ]
       }
     },
+    "XMETA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMETA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XMN": {
       "listings": {
         "KuCoin": [
@@ -78128,6 +78288,17 @@
         "OKX": [
           {
             "symbol": "XMSFT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XMSTR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMSTR-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -79138,6 +79309,17 @@
         "OKX": [
           {
             "symbol": "XTSLA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XTSM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTSM-USDT",
             "quote": "USDT",
             "type": "spot"
           }

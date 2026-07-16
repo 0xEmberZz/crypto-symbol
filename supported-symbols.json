@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T00:04:18.562Z",
+  "generated_at": "2026-07-16T03:28:16.811Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 975,
+      "count": 976,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1902,
+      "count": 1904,
       "error": null
     },
     "Gate": {
@@ -54016,6 +54016,17 @@
         ]
       }
     },
+    "RCRWD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RCRWDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RCRWV": {
       "listings": {
         "Bitget": [
@@ -54666,6 +54677,17 @@
         "Bitget": [
           {
             "symbol": "RECHUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RECHO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RECHOUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -78093,6 +78115,17 @@
           {
             "symbol": "@260",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XMU": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMU-USDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]

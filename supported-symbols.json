@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:45:44.932Z",
+  "generated_at": "2026-07-16T14:09:34.098Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1904,
+      "count": 1908,
       "error": null
     },
     "Gate": {
@@ -16798,6 +16798,17 @@
             "symbol": "@52",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CPNG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "CPNGUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -42444,6 +42455,17 @@
         ]
       }
     },
+    "MUFG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MUFGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MUG": {
       "listings": {
         "Gate": [
@@ -49007,6 +49029,17 @@
         "Aster": [
           {
             "symbol": "PIXELUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PKX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "PKXUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -69588,6 +69621,17 @@
             "symbol": "TLTON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TM": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TMUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

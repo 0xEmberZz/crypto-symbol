@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T11:25:26.489Z",
+  "generated_at": "2026-07-17T13:53:23.347Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1001,
+      "count": 1003,
       "error": null
     },
     "Bitget": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 557,
+      "count": 560,
       "error": null
     },
     "Aster": {
@@ -4978,6 +4978,13 @@
     },
     "APP": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "APP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "APPUSDT",
@@ -47374,6 +47381,39 @@
         ]
       }
     },
+    "PARA-COHR": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180005",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-CRDO": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180007",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-GLW": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180006",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-OTHERS": {
       "listings": {
         "Hyperliquid": [
@@ -64149,6 +64189,13 @@
     },
     "SNOW": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SNOW-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SNOWUSDT",

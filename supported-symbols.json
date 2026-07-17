@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T06:22:53.244Z",
+  "generated_at": "2026-07-17T09:14:43.009Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,12 +9,12 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 491,
+      "count": 485,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 999,
+      "count": 1000,
       "error": null
     },
     "Bitget": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2970,
+      "count": 2976,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2242,
+      "count": 2244,
       "error": null
     },
     "Hyperliquid": {
@@ -6082,13 +6082,6 @@
     },
     "ARTY": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ARTYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ARTY_USDT",
@@ -17673,13 +17666,6 @@
     },
     "CTA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CTAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "CTA_USDT",
@@ -20271,6 +20257,28 @@
             "symbol": "DRAM",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "DRAM3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DRAM3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DRAM3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DRAM3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -23246,6 +23254,28 @@
             "symbol": "EWY",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "EWY3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EWY3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "EWY3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EWY3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -28132,13 +28162,6 @@
     },
     "GTAI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GTAIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "GTAI_USDT",
@@ -35888,17 +35911,6 @@
         ]
       }
     },
-    "LBTC": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "LBTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "LDO": {
       "listings": {
         "Binance": [
@@ -39209,13 +39221,6 @@
     },
     "MBOX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MBOXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MBOX_USDT",
@@ -42532,6 +42537,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "MUUUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "MUUUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -42730,13 +42747,6 @@
     },
     "NAKA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NAKAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "NAKA_USDT",
@@ -65235,6 +65245,13 @@
     },
     "SOXS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SOXS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SOXSUSDT",
@@ -71255,6 +71272,28 @@
         ]
       }
     },
+    "TSM3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TSM3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "TSM3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TSM3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "TSMB": {
       "listings": {
         "Binance": [
@@ -71857,13 +71896,6 @@
           {
             "symbol": "UUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "UUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -74223,6 +74255,13 @@
     },
     "VERONA": {
       "listings": {
+        "Bybit": [
+          {
+            "symbol": "VERONAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "VERONAUSDT",

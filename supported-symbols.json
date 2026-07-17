@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T00:06:02.973Z",
+  "generated_at": "2026-07-17T03:31:21.921Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 743,
+      "count": 742,
       "error": null
     },
     "Bybit": {
@@ -50912,13 +50912,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -77131,11 +77131,6 @@
           {
             "symbol": "XAIUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "XAIUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],

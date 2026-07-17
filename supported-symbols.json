@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T15:19:31.300Z",
+  "generated_at": "2026-07-17T17:18:30.328Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 742,
+      "count": 744,
       "error": null
     },
     "Bybit": {
@@ -2322,6 +2322,18 @@
     },
     "AERO": {
       "listings": {
+        "Binance": [
+          {
+            "symbol": "AEROUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "AEROUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Bybit": [
           {
             "symbol": "AEROUSDT",

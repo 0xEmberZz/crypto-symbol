@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:14:43.009Z",
+  "generated_at": "2026-07-17T11:25:26.489Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1000,
+      "count": 1001,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1908,
+      "count": 1892,
       "error": null
     },
     "Gate": {
@@ -1135,13 +1135,6 @@
     },
     "AAPLON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "AAPLONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AAPLON_USDT",
@@ -4088,13 +4081,6 @@
     },
     "AMDON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "AMDONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AMDON_USDT",
@@ -4233,13 +4219,6 @@
     },
     "AMZNON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "AMZNONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AMZNON_USDT",
@@ -22157,13 +22136,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "ESUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ES_USDT",
@@ -27541,13 +27513,6 @@
     },
     "GOOGLON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "GOOGLONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "GOOGLON_USDT",
@@ -30799,13 +30764,6 @@
     },
     "IAUON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "IAUONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "IAUON_USDT",
@@ -32704,17 +32662,6 @@
         ]
       }
     },
-    "ITOTON": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "ITOTONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "IVPAY": {
       "listings": {
         "Gate": [
@@ -32742,17 +32689,6 @@
         "Gate": [
           {
             "symbol": "IVVG_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "IVVON": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "IVVONUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -32806,17 +32742,6 @@
             "symbol": "IWM",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "IWMON": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "IWMONUSDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -40174,13 +40099,6 @@
     },
     "METAON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "METAONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "METAON_USDT",
@@ -42025,13 +41943,6 @@
     },
     "MSFTON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "MSFTONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MSFTON_USDT",
@@ -45067,13 +44978,6 @@
     },
     "NVDAON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "NVDAONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "NVDAON_USDT",
@@ -51920,13 +51824,6 @@
     },
     "QQQON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "QQQONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "QQQON_USDT",
@@ -63877,13 +63774,6 @@
     },
     "SLVON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "SLVONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SLVON_USDT",
@@ -66029,13 +65919,6 @@
     },
     "SPYON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "SPYONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SPYON_USDT",
@@ -71189,13 +71072,6 @@
     },
     "TSLAON": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "TSLAONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TSLAON_USDT",
@@ -82164,6 +82040,13 @@
     },
     "ZM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ZM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ZM_USDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:53:30.258Z",
+  "generated_at": "2026-07-20T06:54:11.476Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -33,9 +33,9 @@
       "error": null
     },
     "Hyperliquid": {
-      "ok": true,
-      "count": 560,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "hyperliquid POST https://api.hyperliquid.xyz/info fetch failed"
     },
     "Aster": {
       "ok": true,
@@ -152,13 +152,6 @@
           {
             "symbol": "0GUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "210",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -769,13 +762,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "213",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "2ZUSDT",
@@ -1084,13 +1070,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@268",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "AAPLUSDT",
@@ -1290,13 +1269,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "28",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "AAVEUSDT",
@@ -1318,17 +1290,6 @@
         "Lighter": [
           {
             "symbol": "AAVE/USDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "AAVE0": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@227",
             "quote": "USDC",
             "type": "spot"
           }
@@ -1524,13 +1485,6 @@
           {
             "symbol": "ACEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "96",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -2049,13 +2003,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "65",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ADAUSDT",
@@ -2167,17 +2114,6 @@
             "symbol": "ADBEUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "ADHD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@40",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -2393,13 +2329,6 @@
           {
             "symbol": "AEROUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "220",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -3164,13 +3093,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "167",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -3552,13 +3474,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "158",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ALGOUSDT",
@@ -3891,13 +3806,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "107",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -4191,13 +4099,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@280",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "AMZNUSDT",
@@ -4386,13 +4287,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "176",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ANIMEUSDT",
@@ -4502,13 +4396,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@174",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -4521,29 +4408,11 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@18",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ANSEMUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "ANT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@55",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -4649,17 +4518,6 @@
           {
             "symbol": "ANYONE-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ANZ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@192",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -4794,13 +4652,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "8",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "APEUSDT",
@@ -4855,13 +4706,6 @@
             "symbol": "APEXUSDC",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "212",
-            "quote": "USDC",
-            "type": "swap"
           }
         ],
         "Lighter": [
@@ -5163,13 +5007,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "27",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "APTUSDT",
@@ -5252,13 +5089,6 @@
           {
             "symbol": "APU_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@196",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -5372,13 +5202,6 @@
           {
             "symbol": "ARUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "117",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -5504,13 +5327,6 @@
           {
             "symbol": "ARBUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "11",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -5681,17 +5497,6 @@
           {
             "symbol": "ARG_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ARI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@53",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -6175,17 +5980,6 @@
         ]
       }
     },
-    "ASI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@36",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ASK": {
       "listings": {
         "Gate": [
@@ -6433,13 +6227,6 @@
           {
             "symbol": "ASTERUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "207",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -6715,17 +6502,6 @@
         ]
       }
     },
-    "ATEHUN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@51",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ATH": {
       "listings": {
         "Bybit": [
@@ -6911,13 +6687,6 @@
           {
             "symbol": "ATOMUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "2",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -7182,17 +6951,6 @@
         ]
       }
     },
-    "AUTIST": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@94",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "AVA": {
       "listings": {
         "Binance": [
@@ -7432,18 +7190,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@306",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "6",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "AVAXUSDT",
@@ -7456,17 +7202,6 @@
             "symbol": "AVAX",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "AVAX0": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@226",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -7559,13 +7294,6 @@
             "symbol": "AVGOUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@332",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -7729,13 +7457,6 @@
           {
             "symbol": "AVNTUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "208",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -7986,13 +7707,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "225",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "AXSUSDT",
@@ -8146,18 +7860,6 @@
           {
             "symbol": "AZTECUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@285",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "228",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -8531,13 +8233,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "189",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "BABYUSDT",
@@ -8651,17 +8346,6 @@
           {
             "symbol": "BADGER_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "BAGS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@17",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -8814,13 +8498,6 @@
           {
             "symbol": "BANANAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "49",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -9224,13 +8901,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@305",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "BASEDUSDT",
@@ -9363,17 +9033,6 @@
             "symbol": "BAYUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BAYC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@211",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -9641,13 +9300,6 @@
           {
             "symbol": "BCHUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "26",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -9975,17 +9627,6 @@
         ]
       }
     },
-    "BEATS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@130",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BEEFI": {
       "listings": {
         "Gate": [
@@ -10188,18 +9829,6 @@
           {
             "symbol": "BERAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@117",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "180",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -10444,13 +10073,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@33",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -10460,17 +10082,6 @@
           {
             "symbol": "BIFIF_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "BIGBEN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@25",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -10551,13 +10162,6 @@
           {
             "symbol": "BIGTIMEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "59",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -10714,13 +10318,6 @@
           {
             "symbol": "BIOUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "169",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -11167,13 +10764,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "62",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "BLURUSDT",
@@ -11444,13 +11034,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "7",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "BNBUSDT",
@@ -11463,28 +11046,6 @@
             "symbol": "BNB",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BNB0": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@277",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "BNB1": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@269",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -11789,13 +11350,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "120",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "BOMEUSDT",
@@ -11920,13 +11474,6 @@
           {
             "symbol": "BONK-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@194",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -12063,17 +11610,6 @@
             "symbol": "BOTZ",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BOZO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@77",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -12243,13 +11779,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "134",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -12363,17 +11892,6 @@
         ]
       }
     },
-    "BRIDGE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@219",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BRISE": {
       "listings": {
         "Gate": [
@@ -12457,17 +11975,6 @@
           {
             "symbol": "BRL1-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "BRLA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@298",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -12709,13 +12216,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "64",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -12884,18 +12384,6 @@
           },
           {
             "symbol": "XBTUSDCM",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@142",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "0",
             "quote": "USDC",
             "type": "swap"
           }
@@ -13174,17 +12662,6 @@
         ]
       }
     },
-    "BUBZ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@119",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BUCK": {
       "listings": {
         "Gate": [
@@ -13214,17 +12691,6 @@
         ]
       }
     },
-    "BUDDY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@160",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BULLA": {
       "listings": {
         "Gate": [
@@ -13246,17 +12712,6 @@
             "symbol": "BULLAUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BUSSY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@82",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -13443,17 +12898,6 @@
           {
             "symbol": "BZ3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "BZEC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@248",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -13672,13 +13116,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "99",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "CAKEUSDT",
@@ -13831,17 +13268,6 @@
         ]
       }
     },
-    "CAPPY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@7",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CAPS": {
       "listings": {
         "Gate": [
@@ -13952,17 +13378,6 @@
         ]
       }
     },
-    "CASH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@259",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CASHCAT": {
       "listings": {
         "KuCoin": [
@@ -13970,13 +13385,6 @@
             "symbol": "CASHCAT-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "231",
-            "quote": "USDC",
-            "type": "swap"
           }
         ],
         "Aster": [
@@ -14027,24 +13435,6 @@
           {
             "symbol": "CAT-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@126",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "CATBAL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@59",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -14160,17 +13550,6 @@
             "symbol": "CATIUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "CATNIP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@26",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -14353,13 +13732,6 @@
           {
             "symbol": "CCUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "218",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -14574,13 +13946,6 @@
           {
             "symbol": "CELOUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "144",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -14918,29 +14283,11 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "21",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "CFXUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "CFX0": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@370",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -15148,17 +14495,6 @@
         ]
       }
     },
-    "CHEF": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@108",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CHEQ": {
       "listings": {
         "Gate": [
@@ -15247,17 +14583,6 @@
         ]
       }
     },
-    "CHINA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@68",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CHIP": {
       "listings": {
         "Binance": [
@@ -15329,13 +14654,6 @@
           {
             "symbol": "CHIPUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "229",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -15591,17 +14909,6 @@
             "symbol": "CIENUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "CINDY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@67",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -16353,13 +15660,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "29",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -16380,13 +15680,6 @@
           {
             "symbol": "COOKUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@172",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -16481,17 +15774,6 @@
             "symbol": "COP_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "COPE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@104",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -16789,17 +16071,6 @@
         ]
       }
     },
-    "COZY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@52",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CPNG": {
       "listings": {
         "Bitget": [
@@ -16869,13 +16140,6 @@
             "symbol": "CRCLUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@263",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -17022,17 +16286,6 @@
           {
             "symbol": "CRE_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "CREAM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@253",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -17386,13 +16639,6 @@
           {
             "symbol": "CRVUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "16",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -18342,17 +17588,6 @@
         ]
       }
     },
-    "CZ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@16",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "D": {
       "listings": {
         "Gate": [
@@ -18507,13 +17742,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "226",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "DASHUSDT",
@@ -18654,17 +17882,6 @@
           {
             "symbol": "DBC_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "DBLN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@203",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -18834,17 +18051,6 @@
         ]
       }
     },
-    "DEFIN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@146",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "DEGEN": {
       "listings": {
         "Bybit": [
@@ -18979,17 +18185,6 @@
           {
             "symbol": "DEP_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "DEPIN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@128",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -19206,17 +18401,6 @@
         ]
       }
     },
-    "DIABLO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@164",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "DIAM": {
       "listings": {
         "Bybit": [
@@ -19242,17 +18426,6 @@
             "symbol": "DIASTOCKUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "DIME": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@300",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -19635,13 +18808,6 @@
           },
           {
             "symbol": "DOGEUSDCM",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "12",
             "quote": "USDC",
             "type": "swap"
           }
@@ -20137,13 +19303,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "48",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "DOTUSDT",
@@ -20369,17 +19528,6 @@
             "symbol": "DRIFTUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "DROP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@46",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -20631,13 +19779,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "4",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "DYDXUSDT",
@@ -20738,13 +19879,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "109",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "DYMUSDT",
@@ -20760,28 +19894,6 @@
           {
             "symbol": "DYOR_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "DZ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@228",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "EARTH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@99",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -21299,13 +20411,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "130",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "EIGENUSDT",
@@ -21668,18 +20773,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@206",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "122",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ENAUSDT",
@@ -21903,13 +20996,6 @@
           {
             "symbol": "ENSUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "101",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -22436,13 +21522,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "102",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ETCUSDT",
@@ -22584,18 +21663,6 @@
           },
           {
             "symbol": "ETHUSDCM",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@151",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "1",
             "quote": "USDC",
             "type": "swap"
           }
@@ -22773,13 +21840,6 @@
           {
             "symbol": "ETHFIUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "121",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -23337,17 +22397,6 @@
         ]
       }
     },
-    "EX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@199",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "EYWA": {
       "listings": {
         "Gate": [
@@ -23478,35 +22527,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@123",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FARMED": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@30",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FART": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@162",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -23567,13 +22587,6 @@
           {
             "symbol": "FARTCOINUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "165",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -23648,17 +22661,6 @@
         ]
       }
     },
-    "FATCAT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@83",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "FB": {
       "listings": {
         "Gate": [
@@ -23728,17 +22730,6 @@
           {
             "symbol": "FEG_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FEIT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@90",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -23838,13 +22829,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "72",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "FETUSDT",
@@ -23871,17 +22855,6 @@
           {
             "symbol": "FET3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FEUSD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@153",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -24003,17 +22976,6 @@
             "symbol": "FHEUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "FI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@247",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -24222,13 +23184,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "80",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "FILUSDT",
@@ -24380,17 +23335,6 @@
             "symbol": "FIX_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "FLASK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@124",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -24785,13 +23729,6 @@
             "quote": "USDC",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@225",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -24939,13 +23876,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@137",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -25036,13 +23966,6 @@
           {
             "symbol": "FOGOUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "222",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -25297,17 +24220,6 @@
         ]
       }
     },
-    "FRAC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@50",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "FRAG": {
       "listings": {
         "Gate": [
@@ -25380,34 +24292,12 @@
         ]
       }
     },
-    "FRCT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@175",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "FREE": {
       "listings": {
         "Gate": [
           {
             "symbol": "FREE_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FRIED": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@70",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -25430,17 +24320,6 @@
           {
             "symbol": "FRONTIERS_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FRUDO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@91",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -25517,17 +24396,6 @@
         ]
       }
     },
-    "FUCKY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@15",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "FUEL": {
       "listings": {
         "Bybit": [
@@ -25583,29 +24451,11 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@41",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "FUNUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "FUND": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@163",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -25678,17 +24528,6 @@
           {
             "symbol": "FWOG-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "FXRP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@267",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -25772,13 +24611,6 @@
             "symbol": "GUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@76",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -25956,13 +24788,6 @@
           {
             "symbol": "GALAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "93",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -26169,13 +24994,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "69",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -26298,17 +25116,6 @@
           {
             "symbol": "GEMS_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "GENESY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@118",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -26659,13 +25466,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@276",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -26934,17 +25734,6 @@
         ]
       }
     },
-    "GMEOW": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@10",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "GMM": {
       "listings": {
         "Gate": [
@@ -27085,13 +25874,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "86",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "GMTUSDT",
@@ -27178,13 +25960,6 @@
           {
             "symbol": "GMXUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "23",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -27316,13 +26091,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "149",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -27354,17 +26122,6 @@
           {
             "symbol": "GOCHU_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "GOD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@141",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -27468,13 +26225,6 @@
             "symbol": "GOOGLUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@266",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -27653,17 +26403,6 @@
         ]
       }
     },
-    "GPT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@31",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "GRAM": {
       "listings": {
         "Binance": [
@@ -27760,13 +26499,6 @@
           {
             "symbol": "GRAMUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "230",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -27897,13 +26629,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "151",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "GRASSUSDT",
@@ -27955,13 +26680,6 @@
           {
             "symbol": "GRIFFAINUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "170",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -28261,17 +26979,6 @@
         ]
       }
     },
-    "GUESS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@61",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "GUN": {
       "listings": {
         "Binance": [
@@ -28332,17 +27039,6 @@
             "symbol": "GUNUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "GUP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@29",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -28498,13 +27194,6 @@
             "symbol": "HUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@133",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -28693,28 +27382,6 @@
         ]
       }
     },
-    "HAPPY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@22",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HAR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@261",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HBAR": {
       "listings": {
         "Binance": [
@@ -28809,13 +27476,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "127",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "HBARUSDT",
@@ -28849,17 +27509,6 @@
           {
             "symbol": "HBAR3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HBOOST": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@27",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -28912,17 +27561,6 @@
           {
             "symbol": "HDX_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HEAD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@143",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -29054,13 +27692,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "211",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "HEMIUSDT",
@@ -29156,34 +27787,12 @@
         ]
       }
     },
-    "HFUN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@1",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HGET": {
       "listings": {
         "Gate": [
           {
             "symbol": "HGET_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HGOD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@96",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -29277,17 +27886,6 @@
           {
             "symbol": "HINT_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HIP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@293",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -29497,29 +28095,11 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "145",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "HMSTRUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "HMT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@278",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -29583,17 +28163,6 @@
         ]
       }
     },
-    "HODL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@34",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HOLD": {
       "listings": {
         "Bitget": [
@@ -29614,13 +28183,6 @@
           {
             "symbol": "HOLD-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@115",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -29843,13 +28405,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@271",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "HOODUSDT",
@@ -29940,28 +28495,6 @@
         ]
       }
     },
-    "HOP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@102",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HOPE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@81",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HOPPY": {
       "listings": {
         "Gate": [
@@ -29990,17 +28523,6 @@
           {
             "symbol": "HORD_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HORSY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@183",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -30109,28 +28631,6 @@
         ]
       }
     },
-    "HPEPE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@44",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HPL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@335",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HPOS10I": {
       "listings": {
         "Gate": [
@@ -30178,39 +28678,6 @@
         ]
       }
     },
-    "HPUMP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@64",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HPYH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@105",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HREKT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@201",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HSBC": {
       "listings": {
         "Gate": [
@@ -30244,17 +28711,6 @@
         ]
       }
     },
-    "HSEI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@286",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HSK": {
       "listings": {
         "Gate": [
@@ -30279,17 +28735,6 @@
           {
             "symbol": "HT_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HTAO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@307",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -30455,45 +28900,12 @@
         ]
       }
     },
-    "HWAVE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@241",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HWTR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@140",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "HYDRA": {
       "listings": {
         "KuCoin": [
           {
             "symbol": "HYDRA-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "HYENA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@127",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -30568,23 +28980,6 @@
           {
             "symbol": "HYPEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@107",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "@207",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "159",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -30678,13 +29073,6 @@
           {
             "symbol": "HYPERUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "191",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -31018,13 +29406,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "219",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ICPUSDT",
@@ -31335,17 +29716,6 @@
         ]
       }
     },
-    "ILIENS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@14",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ILV": {
       "listings": {
         "Binance": [
@@ -31544,13 +29914,6 @@
           {
             "symbol": "IMXUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "84",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -31758,13 +30121,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "193",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "INITUSDT",
@@ -31865,13 +30221,6 @@
           {
             "symbol": "INJUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "13",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -32164,13 +30513,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "135",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "IOUSDT",
@@ -32332,13 +30674,6 @@
           {
             "symbol": "IOTAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "157",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -32602,13 +30937,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@185",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -32768,17 +31096,6 @@
             "symbol": "IWM",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "IZEC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@246",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -32979,28 +31296,6 @@
         ]
       }
     },
-    "JEET": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@45",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "JEFF": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@4",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "JELLYJELLY": {
       "listings": {
         "OKX": [
@@ -33183,17 +31478,6 @@
             "symbol": "JOEUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "JPEG": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@147",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -33450,13 +31734,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "94",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "JTOUSDT",
@@ -33575,13 +31852,6 @@
           {
             "symbol": "JUPUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "90",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -33866,13 +32136,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "185",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "KAITOUSDT",
@@ -33997,13 +32260,6 @@
           {
             "symbol": "KASUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "60",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -34233,17 +32489,6 @@
         ]
       }
     },
-    "KBONK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "85",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "KCAL": {
       "listings": {
         "Gate": [
@@ -34321,17 +32566,6 @@
         ]
       }
     },
-    "KEI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@236",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "KEKIUS": {
       "listings": {
         "Gate": [
@@ -34395,17 +32629,6 @@
           {
             "symbol": "KERNELUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "KFLOKI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "119",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -34476,17 +32699,6 @@
           {
             "symbol": "KGSTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "KHYPE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@336",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -34616,13 +32828,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@310",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "KITEUSDT",
@@ -34638,28 +32843,6 @@
           {
             "symbol": "KITEAI_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "KITTEN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@240",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "KITTY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@202",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -34727,17 +32910,6 @@
             "symbol": "KLO_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "KLUNC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "91",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }
@@ -34909,34 +33081,12 @@
         ]
       }
     },
-    "KNEIRO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "148",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "KNINE": {
       "listings": {
         "Gate": [
           {
             "symbol": "KNINE_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "KNTQ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@334",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -34956,17 +33106,6 @@
             "symbol": "KO_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "KOBE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@21",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -35110,17 +33249,6 @@
         ]
       }
     },
-    "KPEPE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "15",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "KPOL": {
       "listings": {
         "KuCoin": [
@@ -35157,17 +33285,6 @@
             "symbol": "KRL-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "KSHIB": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "38",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }
@@ -35625,17 +33742,6 @@
         ]
       }
     },
-    "LADY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@42",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "LADYS": {
       "listings": {
         "Gate": [
@@ -35660,17 +33766,6 @@
           {
             "symbol": "LAIR_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LAMA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@304",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -35714,28 +33809,6 @@
           {
             "symbol": "LAT-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LATINA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@195",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LAUNCH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@122",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -35826,13 +33899,6 @@
             "symbol": "LAYER-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "182",
-            "quote": "USDC",
-            "type": "swap"
           }
         ],
         "Aster": [
@@ -35956,13 +34022,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "17",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "LDOUSDT",
@@ -36063,28 +34122,6 @@
           {
             "symbol": "LF_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LICK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@2",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LICKO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@187",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -36281,13 +34318,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "205",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "LINEAUSDT",
@@ -36426,13 +34456,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "18",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "LINKUSDT",
@@ -36454,22 +34477,6 @@
         "Lighter": [
           {
             "symbol": "LINK/USDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LINK0": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@212",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "@213",
             "quote": "USDC",
             "type": "spot"
           }
@@ -36526,28 +34533,6 @@
           {
             "symbol": "LION_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LIQD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@132",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LIQUID": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@97",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -36687,13 +34672,6 @@
           {
             "symbol": "LITUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "223",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -37009,13 +34987,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@296",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -37190,17 +35161,6 @@
         ]
       }
     },
-    "LORA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@58",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "LOT": {
       "listings": {
         "Gate": [
@@ -37333,17 +35293,6 @@
             "symbol": "LQD_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "LQNA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@86",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -37692,13 +35641,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "10",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "LTCUSDT",
@@ -37759,34 +35701,12 @@
         ]
       }
     },
-    "LTHREE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@208",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "LUCIC": {
       "listings": {
         "Gate": [
           {
             "symbol": "LUCIC_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LUCKY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@103",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -38261,17 +36181,6 @@
         ]
       }
     },
-    "MAGA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@95",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MAGATRUMP": {
       "listings": {
         "Gate": [
@@ -38599,17 +36508,6 @@
         ]
       }
     },
-    "MANLET": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@3",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MANTA": {
       "listings": {
         "Binance": [
@@ -38674,13 +36572,6 @@
           {
             "symbol": "MANTAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "104",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -39090,17 +36981,6 @@
         ]
       }
     },
-    "MAXI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@62",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MAY": {
       "listings": {
         "Gate": [
@@ -39119,17 +36999,6 @@
             "symbol": "MBABYDOGE_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "MBAPPE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@47",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -39427,13 +37296,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "160",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "MEUSDT",
@@ -39544,18 +37406,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@257",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "217",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "MEGAUSDT",
@@ -39625,13 +37475,6 @@
           {
             "symbol": "MELANIAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "175",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -39744,13 +37587,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "75",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -39794,17 +37630,6 @@
           {
             "symbol": "MENGO_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "MEOW": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@112",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -39885,13 +37710,6 @@
           {
             "symbol": "MERLUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "126",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -39983,13 +37801,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "216",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "METUSDT",
@@ -40032,13 +37843,6 @@
             "symbol": "METAUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@287",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -40559,13 +38363,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "67",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -40734,28 +38531,6 @@
         ]
       }
     },
-    "MKTS-US500": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "190000",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "MKTS-USTECH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "190005",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "ML": {
       "listings": {
         "Bitget": [
@@ -40820,17 +38595,6 @@
           {
             "symbol": "MLP_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "MMOVE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@251",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -40979,13 +38743,6 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "123",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Lighter": [
           {
             "symbol": "MNT",
@@ -41114,13 +38871,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@200",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -41191,18 +38941,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@243",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "215",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "MONUSDT",
@@ -41236,17 +38974,6 @@
           {
             "symbol": "MON3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "MONAD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@80",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -41325,13 +39052,6 @@
           {
             "symbol": "MOODENGUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "150",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -41500,13 +39220,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "173",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "MORPHOUSDT",
@@ -41615,13 +39328,6 @@
           {
             "symbol": "MOVEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "161",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -41920,13 +39626,6 @@
             "symbol": "MSFTUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@289",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -42277,13 +39976,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@333",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "MUUSDT",
@@ -42425,17 +40117,6 @@
           {
             "symbol": "MULTI_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "MUNCH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@116",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -42807,17 +40488,6 @@
         ]
       }
     },
-    "NASDAQ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@87",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "NATGAS": {
       "listings": {
         "Bitget": [
@@ -43035,13 +40705,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@245",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -43195,13 +40858,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "74",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "NEARUSDT",
@@ -43318,13 +40974,6 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@113",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "NEIROUSDT",
@@ -43373,13 +41022,6 @@
           {
             "symbol": "NEKO_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@144",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -43464,13 +41106,6 @@
           {
             "symbol": "NEOUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "78",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -43942,13 +41577,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@56",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -43983,17 +41611,6 @@
           {
             "symbol": "NIBI-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "NIGGO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@101",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -44175,13 +41792,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "186",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "NILUSDT",
@@ -44348,17 +41958,6 @@
         ]
       }
     },
-    "NMTD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@63",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "NOBODY": {
       "listings": {
         "Gate": [
@@ -44391,17 +41990,6 @@
             "symbol": "NOC_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "NOCEX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@72",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -44686,13 +42274,6 @@
           {
             "symbol": "NOTUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "132",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -45127,13 +42708,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "196",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -45172,13 +42746,6 @@
           {
             "symbol": "NYAN_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@274",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -45695,17 +43262,6 @@
         ]
       }
     },
-    "OMNIX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@74",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ON": {
       "listings": {
         "OKX": [
@@ -45844,13 +43400,6 @@
           {
             "symbol": "ONDOUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "106",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -46238,13 +43787,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "9",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "OPUSDT",
@@ -46572,17 +44114,6 @@
         ]
       }
     },
-    "ORA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@131",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ORAI": {
       "listings": {
         "Gate": [
@@ -46749,13 +44280,6 @@
             "symbol": "ORCLUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@331",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -46949,13 +44473,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "76",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ORDIUSDT",
@@ -47089,17 +44606,6 @@
           {
             "symbol": "OTK-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "OTTI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@179",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -47327,17 +44833,6 @@
         ]
       }
     },
-    "PANDA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@38",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PANDO": {
       "listings": {
         "Gate": [
@@ -47374,83 +44869,6 @@
             "symbol": "PAPARAZZI_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "PARA-AVGO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180004",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-BTCD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180002",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-COHR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180005",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-CRDO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180007",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-GLW": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180006",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-OTHERS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180001",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-TOTAL2": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180000",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }
@@ -47605,13 +45023,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "187",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PAXGUSDT",
@@ -47745,28 +45156,6 @@
         ]
       }
     },
-    "PEAR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@114",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PEG": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@170",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PEIPEI": {
       "listings": {
         "Gate": [
@@ -47870,13 +45259,6 @@
           {
             "symbol": "PENDLEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "70",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -47991,18 +45373,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@184",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "163",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PENGUUSDT",
@@ -48055,17 +45425,6 @@
             "symbol": "PENGUINUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "PENIS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@165",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -48151,13 +45510,6 @@
           {
             "symbol": "PEOPLEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "100",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -48320,13 +45672,6 @@
             "quote": "USDC",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@11",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -48424,13 +45769,6 @@
           {
             "symbol": "PERP_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@176",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -48607,17 +45945,6 @@
         ]
       }
     },
-    "PICKL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@120",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PIEVERSE": {
       "listings": {
         "Bybit": [
@@ -48701,17 +46028,6 @@
         ]
       }
     },
-    "PIGEON": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@65",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PIGGY": {
       "listings": {
         "Gate": [
@@ -48725,17 +46041,6 @@
           {
             "symbol": "PIGGY-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PILL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@39",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -48776,17 +46081,6 @@
           {
             "symbol": "PINGO_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PIP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@85",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -49272,17 +46566,6 @@
         ]
       }
     },
-    "PMP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@188",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PMX": {
       "listings": {
         "Gate": [
@@ -49400,13 +46683,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "153",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PNUTUSDT",
@@ -49464,17 +46740,6 @@
             "symbol": "POETUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "POINTS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@8",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -49583,13 +46848,6 @@
           {
             "symbol": "POLUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "142",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -49718,13 +46976,6 @@
           {
             "symbol": "POLYXUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "68",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -49867,13 +47118,6 @@
           {
             "symbol": "POPCATUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "128",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -50256,17 +47500,6 @@
           {
             "symbol": "PRESPCXUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PRFI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@161",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -50681,13 +47914,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "201",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PROVEUSDT",
@@ -50953,18 +48179,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@20",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "200",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PUMPUSDT",
@@ -51083,57 +48297,12 @@
         ]
       }
     },
-    "PUP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@223",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PURR": {
       "listings": {
         "Gate": [
           {
             "symbol": "PURR_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "PURR/USDC",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "152",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PURRO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@177",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PURRPS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@32",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -51314,13 +48483,6 @@
           {
             "symbol": "PYTHUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "81",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -51746,17 +48908,6 @@
         ]
       }
     },
-    "QONE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@284",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "QORPO": {
       "listings": {
         "Gate": [
@@ -51801,13 +48952,6 @@
             "symbol": "QQQUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@288",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -51865,17 +49009,6 @@
           {
             "symbol": "QQQG_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "QQQM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@308",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -52001,17 +49134,6 @@
           {
             "symbol": "QUAI_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "QUANT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@155",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -52324,17 +49446,6 @@
         ]
       }
     },
-    "RAGE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@49",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RAGG": {
       "listings": {
         "Bitget": [
@@ -52497,13 +49608,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@299",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -52612,17 +49716,6 @@
           {
             "symbol": "RANETUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RANK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@73",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -52847,17 +49940,6 @@
           {
             "symbol": "RASXUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RAT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@157",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -54860,17 +51942,6 @@
         ]
       }
     },
-    "REI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@216",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "REIGN": {
       "listings": {
         "Gate": [
@@ -55053,13 +52124,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "140",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "RENDERUSDT",
@@ -55206,13 +52270,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "198",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "RESOLVUSDT",
@@ -55246,17 +52303,6 @@
           {
             "symbol": "RESOLV3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RETARD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@111",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -55357,17 +52403,6 @@
         ]
       }
     },
-    "REX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@218",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "REXC": {
       "listings": {
         "Bitget": [
@@ -55447,13 +52482,6 @@
           {
             "symbol": "REZUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "131",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -56215,17 +53243,6 @@
         ]
       }
     },
-    "RICH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@57",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RICLN": {
       "listings": {
         "Bitget": [
@@ -56447,45 +53464,12 @@
         ]
       }
     },
-    "RIP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@75",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RIREN": {
       "listings": {
         "Bitget": [
           {
             "symbol": "RIRENUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RISE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@66",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RISK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@249",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -56584,13 +53568,6 @@
             "symbol": "RIVERUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@301",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -59644,13 +56621,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "92",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -60141,33 +57111,11 @@
         ]
       }
     },
-    "RUB": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@173",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RUBER": {
       "listings": {
         "Bitget": [
           {
             "symbol": "RUBERUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RUBT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@273",
             "quote": "USDT",
             "type": "spot"
           }
@@ -60180,17 +57128,6 @@
           {
             "symbol": "RUECUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RUG": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@13",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -60287,13 +57224,6 @@
           {
             "symbol": "RUNEUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "41",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -60980,17 +57910,6 @@
         ]
       }
     },
-    "RZR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@217",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RZS": {
       "listings": {
         "Bitget": [
@@ -61099,13 +58018,6 @@
           {
             "symbol": "SUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "172",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -61237,13 +58149,6 @@
           {
             "symbol": "SAGAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "125",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -61550,13 +58455,6 @@
           {
             "symbol": "SANDUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "156",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -61920,17 +58818,6 @@
         ]
       }
     },
-    "SCHIZO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@23",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SCHW": {
       "listings": {
         "Gate": [
@@ -62135,17 +59022,6 @@
         ]
       }
     },
-    "SEDA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@256",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SEI": {
       "listings": {
         "Binance": [
@@ -62235,13 +59111,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "40",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SEIUSDT",
@@ -62275,17 +59144,6 @@
           {
             "symbol": "SEI3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "SELL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@24",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -62397,13 +59255,6 @@
             "symbol": "SENTUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@135",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -62552,17 +59403,6 @@
           {
             "symbol": "SHDW_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "SHEEP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@121",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -62853,17 +59693,6 @@
         ]
       }
     },
-    "SHOE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@79",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SHOP": {
       "listings": {
         "Gate": [
@@ -62892,17 +59721,6 @@
           {
             "symbol": "SHR-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "SHREK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@84",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -62986,13 +59804,6 @@
             "symbol": "SIGNUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@295",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -63137,13 +59948,6 @@
           {
             "symbol": "SIX_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@5",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -63480,13 +60284,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "227",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SKRUSDT",
@@ -63590,13 +60387,6 @@
           {
             "symbol": "SKYUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "206",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -63707,17 +60497,6 @@
         ]
       }
     },
-    "SLAY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@215",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SLC": {
       "listings": {
         "Gate": [
@@ -63793,17 +60572,6 @@
           {
             "symbol": "SLRS_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "SLV": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@265",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -64360,13 +61128,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "24",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SNXUSDT",
@@ -64571,18 +61332,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@156",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "5",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SOLUSDT",
@@ -64714,13 +61463,6 @@
             "symbol": "SOLVUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@136",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -64947,13 +61689,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@270",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SOONUSDT",
@@ -65029,13 +61764,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "197",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -65092,13 +61820,6 @@
           {
             "symbol": "SOVRN_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@139",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -65555,17 +62276,6 @@
         ]
       }
     },
-    "SPH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@78",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SPIR": {
       "listings": {
         "Bitget": [
@@ -65794,18 +62504,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@193",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "171",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SPXUSDT",
@@ -65905,13 +62603,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@279",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SPYUSDT",
@@ -66006,13 +62697,6 @@
             "symbol": "SPYX_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@189",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -66297,18 +62981,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@258",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "221",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "STABLEUSDT",
@@ -66321,17 +62993,6 @@
             "symbol": "STABLE",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "STACK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@69",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -66360,13 +63021,6 @@
             "symbol": "STARUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@134",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -66438,13 +63092,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "209",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "STBLUSDT",
@@ -66457,17 +63104,6 @@
             "symbol": "STBL",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "STEEL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@110",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -66634,17 +63270,6 @@
           {
             "symbol": "STIX_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "STLOOP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@190",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -66937,17 +63562,6 @@
         ]
       }
     },
-    "STRICT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@93",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "STRIKE": {
       "listings": {
         "Gate": [
@@ -67050,13 +63664,6 @@
           {
             "symbol": "STRKUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "113",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -67209,13 +63816,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "19",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "STXUSDT",
@@ -67255,17 +63855,6 @@
             "symbol": "STXXUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "SUCKY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@28",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -67381,13 +63970,6 @@
           {
             "symbol": "SUIUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "14",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -67639,13 +64221,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "87",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -67790,13 +64365,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "82",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "SUSHIUSDT",
@@ -67881,13 +64449,6 @@
           {
             "symbol": "SWAP_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@242",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -68139,17 +64700,6 @@
         ]
       }
     },
-    "SYLVI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@89",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SYN": {
       "listings": {
         "Binance": [
@@ -68253,13 +64803,6 @@
           {
             "symbol": "SYRUPUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "199",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -68731,13 +65274,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "116",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "TAOUSDT",
@@ -68750,17 +65286,6 @@
             "symbol": "TAO",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "TAO1": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@303",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -68793,17 +65318,6 @@
           {
             "symbol": "TAPPROTOCOL_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "TATE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@19",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -69003,17 +65517,6 @@
         ]
       }
     },
-    "TEST": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@48",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "TET": {
       "listings": {
         "Gate": [
@@ -69056,17 +65559,6 @@
           {
             "symbol": "TFUEL-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "THBILL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@205",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -69354,13 +65846,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "63",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "TIAUSDT",
@@ -69410,45 +65895,12 @@
         ]
       }
     },
-    "TILT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@158",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "TIME": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@138",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "TITN": {
       "listings": {
         "Gate": [
           {
             "symbol": "TITN_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "TJIF": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@60",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -69711,13 +66163,6 @@
           {
             "symbol": "TNSRUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "124",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -70081,13 +66526,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@191",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -70237,13 +66675,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "50",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "TRBUSDT",
@@ -70375,17 +66806,6 @@
             "symbol": "TREEUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "TREND": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@159",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -70629,18 +67049,6 @@
           {
             "symbol": "TRUMPUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@9",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "174",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -70938,13 +67346,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "37",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "TRXUSDT",
@@ -70957,17 +67358,6 @@
             "symbol": "TRX",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "TRX1": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@309",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -71067,13 +67457,6 @@
             "symbol": "TSLAUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@264",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -71467,13 +67850,6 @@
           {
             "symbol": "TURBOUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "133",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -72210,13 +68586,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "105",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "UMAUSDT",
@@ -72430,13 +68799,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "39",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "UNIUSDT",
@@ -72628,13 +68990,6 @@
             "type": "spot"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@100",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "UPUSDT",
@@ -72650,17 +69005,6 @@
           {
             "symbol": "UPCUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "UPHL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@231",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -73160,13 +69504,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@150",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -73221,17 +69558,6 @@
         ]
       }
     },
-    "USDH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@230",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "USDHKD": {
       "listings": {
         "Lighter": [
@@ -73239,17 +69565,6 @@
             "symbol": "USDHKD",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "USDHL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@180",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -73366,13 +69681,6 @@
             "quote": "USDC",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@166",
-            "quote": "USDC",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -73381,33 +69689,6 @@
         "Bybit": [
           {
             "symbol": "USDTBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "USDUC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@302",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "USDXL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@152",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "@244",
             "quote": "USDT",
             "type": "spot"
           }
@@ -73493,17 +69774,6 @@
         ]
       }
     },
-    "USH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@171",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "USO": {
       "listings": {
         "OKX": [
@@ -73511,17 +69781,6 @@
             "symbol": "USO-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "USR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@178",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -73642,13 +69901,6 @@
           {
             "symbol": "USUALUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "164",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -73913,17 +70165,6 @@
         ]
       }
     },
-    "VAPOR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@37",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "VARA": {
       "listings": {
         "Gate": [
@@ -73941,17 +70182,6 @@
           {
             "symbol": "VATRENI_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "VAULT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@125",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -73985,17 +70215,6 @@
           {
             "symbol": "VDR_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "VEGAS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@35",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -74407,13 +70626,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "177",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -74430,17 +70642,6 @@
           {
             "symbol": "VINU-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "VIRT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@290",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -74530,13 +70731,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "162",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "VIRTUALUSDT",
@@ -74570,17 +70764,6 @@
           {
             "symbol": "VIRTUAL3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "VIZN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@92",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -74713,17 +70896,6 @@
         ]
       }
     },
-    "VORTX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@145",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "VOXEL": {
       "listings": {
         "Gate": [
@@ -74826,13 +70998,6 @@
           {
             "symbol": "VSN-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@204",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -74987,13 +71152,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "178",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "VVVUSDT",
@@ -75132,13 +71290,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "111",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -75159,17 +71310,6 @@
           {
             "symbol": "WAG_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "WAGMI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@6",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -75308,17 +71448,6 @@
         ]
       }
     },
-    "WAR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@237",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "WARD": {
       "listings": {
         "Bitget": [
@@ -75350,17 +71479,6 @@
             "symbol": "WARDUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "WASH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@54",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -75651,13 +71769,6 @@
           {
             "symbol": "WCTUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "190",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -75995,17 +72106,6 @@
         ]
       }
     },
-    "WHYPI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@148",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "WIF": {
       "listings": {
         "Binance": [
@@ -76102,13 +72202,6 @@
           {
             "symbol": "WIFUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "98",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -76378,18 +72471,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@224",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "31",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "WLDUSDT",
@@ -76534,13 +72615,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "204",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "WLFIUSDT",
@@ -76574,17 +72648,6 @@
           {
             "symbol": "WLFI3S_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "WMNT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@214",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -76810,39 +72873,6 @@
         ]
       }
     },
-    "WOULD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@198",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "WOW": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@109",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "WOWBIT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@282",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "WPAY": {
       "listings": {
         "Gate": [
@@ -76940,17 +72970,6 @@
           {
             "symbol": "WUSD_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "WWB": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@281",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -77160,13 +73179,6 @@
           {
             "symbol": "XAIUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "103",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -77449,18 +73461,6 @@
             "symbol": "XAUTUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@182",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "@209",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -77901,17 +73901,6 @@
         ]
       }
     },
-    "XION": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@238",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "XIWM": {
       "listings": {
         "OKX": [
@@ -78135,13 +74124,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "154",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "XLMUSDT",
@@ -78258,13 +74240,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "224",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "XMRUSDT",
@@ -78277,17 +74252,6 @@
             "symbol": "XMR",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "XMR1": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@260",
-            "quote": "USDC",
-            "type": "spot"
           }
         ]
       }
@@ -78773,18 +74737,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@210",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "203",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "XPLUSDT",
@@ -79111,13 +75063,6 @@
           },
           {
             "symbol": "XRPUSDCM",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "25",
             "quote": "USDC",
             "type": "swap"
           }
@@ -79456,17 +75401,6 @@
         ]
       }
     },
-    "XULIAN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@12",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "XUNCE": {
       "listings": {
         "Gate": [
@@ -79613,963 +75547,6 @@
         ]
       }
     },
-    "XYZ-AAPL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110009",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-AMAT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110095",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-AMD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110014",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-AMZN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110013",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-ARM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110073",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-ASML": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110078",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-AVGO": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110084",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BABA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110028",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BB": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110080",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110090",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BIRD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110063",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BOT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110094",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BRENTOIL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110049",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-BX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110059",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-CBRS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110066",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-CL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110029",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-COIN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110007",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-COPPER": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110030",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-COST": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110020",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-CRCL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110018",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-CRWV": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110037",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-CXMT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110101",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-DELL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110082",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-DKNG": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110053",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-DRAM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110065",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-EBAY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110070",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-EUR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110025",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-EWJ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110048",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-EWT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110074",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-EWY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110047",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-EWZ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110067",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-GBP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110075",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-GME": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110041",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-GOLD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110003",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-GOOGL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110012",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-HIMS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110051",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-HOOD": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110004",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-HYUNDAI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110045",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-IBM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110083",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-INTC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110005",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-JP225": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110044",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-JPY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110024",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-KIOXIA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110046",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-KR200": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110042",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-LITE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110054",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-LLY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110021",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-META": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110008",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-MINIMAX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110079",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-MRVL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110061",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-MSFT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110010",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-MSTR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110017",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-MU": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110015",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-NATGAS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110031",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-NBIS": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110086",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-NFLX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110019",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-NOK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110088",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-NOW": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110085",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-NVDA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110002",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-ORCL": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110011",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-PALLADIUM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110039",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-PLATINUM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110035",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-PLTR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110006",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-PURRDAT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110060",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-QCOM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110092",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-QNT": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110081",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-RIVN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110027",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-RKLB": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110062",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SHAZ": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110098",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SILVER": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110026",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SKHX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110022",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SKHY": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110099",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SMH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110089",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SMSN": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110034",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SNDK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110016",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SOFTBANK": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110043",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SP500": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110052",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-SPCX": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110076",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-STRC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110093",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-TSLA": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110001",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-TSM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110023",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-URNM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110038",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-USAR": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110036",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-WDC": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110087",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-XLE": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110056",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-XYZ100": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110000",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-ZHIPU": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110091",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "XYZ-ZM": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "110069",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "XZK": {
       "listings": {
         "Gate": [
@@ -80587,17 +75564,6 @@
           {
             "symbol": "Y8U_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "YAP": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@106",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -80701,17 +75667,6 @@
           {
             "symbol": "YCT_USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "YEETI": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "@88",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -80876,13 +75831,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "36",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "YGGUSDT",
@@ -80980,13 +75928,6 @@
             "symbol": "ZAMAUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "@292",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Aster": [
@@ -81190,18 +76131,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "@272",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "214",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ZECUSDT",
@@ -81304,13 +76233,6 @@
           {
             "symbol": "ZENUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "79",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -81524,13 +76446,6 @@
           {
             "symbol": "ZETAUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "108",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -81855,13 +76770,6 @@
           {
             "symbol": "ZKUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "136",
-            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -82219,13 +77127,6 @@
             "type": "swap"
           }
         ],
-        "Hyperliquid": [
-          {
-            "symbol": "192",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "ZORAUSDT",
@@ -82345,13 +77246,6 @@
           {
             "symbol": "ZROUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Hyperliquid": [
-          {
-            "symbol": "46",
-            "quote": "USDC",
             "type": "swap"
           }
         ],

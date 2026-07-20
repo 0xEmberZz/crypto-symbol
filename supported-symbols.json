@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:27:06.608Z",
+  "generated_at": "2026-07-20T22:06:31.619Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 510,
+      "count": 509,
       "error": null
     },
     "Lighter": {
@@ -18964,13 +18964,6 @@
           },
           {
             "symbol": "DELLUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "DELLUSDT",
             "quote": "USDT",
             "type": "swap"
           }

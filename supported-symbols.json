@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:11:02.065Z",
+  "generated_at": "2026-07-20T15:55:59.144Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1892,
+      "count": 1900,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2242,
+      "count": 2240,
       "error": null
     },
     "Hyperliquid": {
@@ -1168,6 +1168,17 @@
           },
           {
             "symbol": "AAPLX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "AAPU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "AAPUUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -4264,6 +4275,17 @@
           },
           {
             "symbol": "AMZNX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "AMZU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "AMZUUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -26494,6 +26516,17 @@
         ]
       }
     },
+    "GGLL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "GGLLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GHO": {
       "listings": {
         "Bitget": [
@@ -40268,6 +40301,17 @@
         ]
       }
     },
+    "METU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "METUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MEW": {
       "listings": {
         "Bybit": [
@@ -41976,6 +42020,17 @@
             "symbol": "MSFTON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MSFU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MSFUUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -45032,6 +45087,17 @@
           },
           {
             "symbol": "NVDAX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "NVDL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "NVDLUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -50903,13 +50969,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -57989,16 +58055,6 @@
             "symbol": "ROAM-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ROAMUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "ROAMUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -71181,6 +71237,17 @@
         ]
       }
     },
+    "TSLL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TSLLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TSM": {
       "listings": {
         "OKX": [
@@ -71841,6 +71908,17 @@
             "symbol": "TYCOON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TZA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TZAUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

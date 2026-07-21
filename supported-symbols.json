@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T18:19:10.370Z",
+  "generated_at": "2026-07-21T20:21:30.656Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 208,
+      "count": 209,
       "error": null
     }
   },
@@ -26496,6 +26496,13 @@
           {
             "symbol": "GEV_USDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GEV",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -68200,13 +68207,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
+            "symbol": "SWELLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
+            "symbol": "SWELLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

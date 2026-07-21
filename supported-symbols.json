@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T06:35:26.815Z",
+  "generated_at": "2026-07-21T09:32:01.796Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2978,
+      "count": 2990,
       "error": null
     },
     "KuCoin": {
@@ -9501,13 +9501,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -30901,6 +30901,28 @@
         ]
       }
     },
+    "IBM3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IBM3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "IBM3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IBM3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "IBMB": {
       "listings": {
         "Binance": [
@@ -40673,6 +40695,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "MINIMAXHKD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -43062,6 +43091,28 @@
         ]
       }
     },
+    "NBIS3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NBIS3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "NBIS3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NBIS3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "NBISB": {
       "listings": {
         "Binance": [
@@ -44554,6 +44605,28 @@
             "symbol": "NOK",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "NOK3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NOK3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "NOK3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NOK3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -50991,13 +51064,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -57026,6 +57099,28 @@
             "symbol": "RKLB",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "RKLB3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "RKLB3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RKLB3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "RKLB3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -69062,6 +69157,17 @@
         ]
       }
     },
+    "TENCENTHKD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TENCENTHKD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TER": {
       "listings": {
         "OKX": [
@@ -77992,6 +78098,17 @@
         ]
       }
     },
+    "XIAOMIHKD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "XIAOMIHKD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XINTC": {
       "listings": {
         "OKX": [
@@ -81730,6 +81847,17 @@
           {
             "symbol": "ZHIPU",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "ZHIPUHKD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZHIPUHKD_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]

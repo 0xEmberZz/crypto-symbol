@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:32:01.796Z",
+  "generated_at": "2026-07-21T11:51:39.369Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2990,
+      "count": 2991,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 510,
+      "count": 511,
       "error": null
     },
     "Lighter": {
@@ -4590,6 +4590,13 @@
     },
     "ANTFUN": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "ANTFUN_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "ANTFUN-USDT",
@@ -43703,6 +43710,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "NESUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -51064,13 +51078,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

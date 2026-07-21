@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T03:26:39.570Z",
+  "generated_at": "2026-07-21T06:35:26.815Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1900,
+      "count": 1901,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2977,
+      "count": 2978,
       "error": null
     },
     "KuCoin": {
@@ -34543,6 +34543,17 @@
         ]
       }
     },
+    "KIMI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KIMI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KIOXIA": {
       "listings": {
         "OKX": [
@@ -40649,6 +40660,17 @@
           {
             "symbol": "MINIMAX",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MINIMAXHKD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MINIMAXHKDUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]

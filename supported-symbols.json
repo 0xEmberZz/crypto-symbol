@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T03:25:11.803Z",
+  "generated_at": "2026-07-22T06:36:24.637Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1901,
+      "count": 1909,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2240,
+      "count": 2244,
       "error": null
     },
     "Hyperliquid": {
@@ -40571,6 +40571,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "MINIMAXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "MINIMAXUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "MINIMAXUSDT",
@@ -50952,13 +50964,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -56238,6 +56250,17 @@
         ]
       }
     },
+    "RIBB": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RIBBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RIBIT": {
       "listings": {
         "Bitget": [
@@ -58904,6 +58927,17 @@
         ]
       }
     },
+    "RQLD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RQLDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RQQQ": {
       "listings": {
         "Bitget": [
@@ -59755,6 +59789,17 @@
         ]
       }
     },
+    "RSSPC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSSPCUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RSTLD": {
       "listings": {
         "Bitget": [
@@ -60214,6 +60259,17 @@
         "Bitget": [
           {
             "symbol": "RUUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RUAL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RUALUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -60998,6 +61054,17 @@
         "Bitget": [
           {
             "symbol": "RXLUUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RXLV": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RXLVUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -69014,6 +69081,13 @@
     },
     "TENCENTHKD": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "TENCENTHKDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "TENCENTHKD_USDT",
@@ -77947,6 +78021,13 @@
     },
     "XIAOMIHKD": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "XIAOMIHKDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "XIAOMIHKD_USDT",
@@ -81694,6 +81775,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "ZHIPUUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ZHIPUUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "ZHIPUUSDT",
@@ -81712,6 +81805,13 @@
     },
     "ZHIPUHKD": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "ZHIPUHKDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ZHIPUHKD_USDT",

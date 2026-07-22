@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:31:45.517Z",
+  "generated_at": "2026-07-22T11:53:22.042Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1909,
+      "count": 1912,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2246,
+      "count": 2247,
       "error": null
     },
     "Hyperliquid": {
@@ -9014,6 +9014,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "BANK-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "BANKUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -9497,13 +9502,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -47987,6 +47992,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "PENGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PENG_USDT",
@@ -62689,6 +62701,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "SHAZUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SHAZ_USDT",
@@ -64589,6 +64608,13 @@
     },
     "SOFI": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SOFIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SOFI_USDT",

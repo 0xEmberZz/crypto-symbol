@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T11:53:22.042Z",
+  "generated_at": "2026-07-22T14:11:56.335Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 744,
+      "count": 754,
       "error": null
     },
     "Bybit": {
@@ -8096,6 +8096,17 @@
             "symbol": "AXTIUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "AXTIB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AXTIBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -17544,6 +17555,17 @@
             "symbol": "CRWV",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "CRWVB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "CRWVBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -32065,6 +32087,17 @@
         ]
       }
     },
+    "INTWB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "INTWBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "INVITE": {
       "listings": {
         "Gate": [
@@ -35127,6 +35160,17 @@
             "symbol": "KORUUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "KORUB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "KORUBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -42509,6 +42553,17 @@
         ]
       }
     },
+    "MUUB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "MUUBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "MVL": {
       "listings": {
         "Gate": [
@@ -42553,6 +42608,17 @@
             "symbol": "MVLLUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "MVLLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "MVLLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -46850,6 +46916,17 @@
         ]
       }
     },
+    "ORCLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "ORCLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ORCLG": {
       "listings": {
         "Gate": [
@@ -50986,13 +51063,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -51802,6 +51879,17 @@
             "symbol": "QNT",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "QNTB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "QNTBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -64595,6 +64683,17 @@
         ]
       }
     },
+    "SNXXB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SNXXBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SO": {
       "listings": {
         "Gate": [
@@ -70186,6 +70285,17 @@
             "symbol": "TQQQUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "TQQQB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "TQQQBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

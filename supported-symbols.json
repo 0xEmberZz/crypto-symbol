@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:36:24.637Z",
+  "generated_at": "2026-07-22T09:31:45.517Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2975,
+      "count": 2976,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2244,
+      "count": 2246,
       "error": null
     },
     "Hyperliquid": {
@@ -22186,6 +22186,16 @@
             "symbol": "ESE-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "ESEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ESEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -50964,13 +50974,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -63488,6 +63498,17 @@
             "symbol": "SKHYNIXUSD",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SKHYON": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYON_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

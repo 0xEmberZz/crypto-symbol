@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:28:44.710Z",
+  "generated_at": "2026-07-23T11:54:59.424Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,12 +29,12 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2251,
+      "count": 2252,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 562,
+      "count": 563,
       "error": null
     },
     "Aster": {
@@ -47716,6 +47716,17 @@
         ]
       }
     },
+    "PARA-STX": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180010",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-TOTAL2": {
       "listings": {
         "Hyperliquid": [
@@ -68900,6 +68911,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "TAG-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "TAGUSDTM",
             "quote": "USDT",

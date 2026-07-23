@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:07:20.326Z",
+  "generated_at": "2026-07-23T03:38:31.126Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2976,
+      "count": 2983,
       "error": null
     },
     "KuCoin": {
@@ -1179,6 +1179,13 @@
         "Bitget": [
           {
             "symbol": "AAPUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "AAPU_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -4286,6 +4293,13 @@
         "Bitget": [
           {
             "symbol": "AMZUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "AMZU_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -26505,6 +26519,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "GGLL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -40312,6 +40333,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "METU_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -42040,6 +42068,13 @@
         "Bitget": [
           {
             "symbol": "MSFUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "MSFU_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -45167,6 +45202,13 @@
         "Bitget": [
           {
             "symbol": "NVDLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "NVDL_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -71452,6 +71494,13 @@
         "Bitget": [
           {
             "symbol": "TSLLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "TSLL_USDT",
             "quote": "USDT",
             "type": "swap"
           }

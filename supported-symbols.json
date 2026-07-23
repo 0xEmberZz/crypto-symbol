@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:35:50.322Z",
+  "generated_at": "2026-07-23T09:28:44.710Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1002,
+      "count": 1006,
       "error": null
     },
     "Bitget": {
@@ -78316,6 +78316,17 @@
         ]
       }
     },
+    "XHOOD": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XHOOD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XIAOMI": {
       "listings": {
         "Bitget": [
@@ -78362,6 +78373,17 @@
             "symbol": "XIAOMIHKD_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XIBM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XIBM-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -78989,6 +79011,17 @@
         "Gate": [
           {
             "symbol": "XOMG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XORCL": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XORCL-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -79950,6 +79983,17 @@
             "symbol": "XUNCE_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XUSAR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XUSAR-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

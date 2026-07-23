@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T03:38:31.126Z",
+  "generated_at": "2026-07-23T06:35:50.322Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2983,
+      "count": 2992,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2247,
+      "count": 2251,
       "error": null
     },
     "Hyperliquid": {
@@ -8119,6 +8119,17 @@
         "Binance": [
           {
             "symbol": "AXTIBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AXTIG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AXTIG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -17578,6 +17589,17 @@
         "Binance": [
           {
             "symbol": "CRWVBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "CRWVG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CRWVG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -32119,6 +32141,17 @@
         ]
       }
     },
+    "INTWG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "INTWG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "INVITE": {
       "listings": {
         "Gate": [
@@ -35190,6 +35223,17 @@
         "Binance": [
           {
             "symbol": "KORUBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "KORUG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KORUG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -42599,6 +42643,17 @@
         ]
       }
     },
+    "MUUG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MUUG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "MVL": {
       "listings": {
         "Gate": [
@@ -42652,6 +42707,17 @@
         "Binance": [
           {
             "symbol": "MVLLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "MVLLG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MVLLG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -50144,6 +50210,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "POPMARTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "POPMARTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "POPMARTUSDT",
@@ -51930,6 +52008,17 @@
         "Binance": [
           {
             "symbol": "QNTBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "QNTG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "QNTG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -64736,6 +64825,17 @@
         ]
       }
     },
+    "SNXXG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SNXXG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SO": {
       "listings": {
         "Gate": [
@@ -69251,6 +69351,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "TENCENTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "TENCENTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "TENCENTUSDT",
@@ -70336,6 +70448,17 @@
         "Binance": [
           {
             "symbol": "TQQQBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "TQQQG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TQQQG_USDT",
             "quote": "USDT",
             "type": "spot"
           }

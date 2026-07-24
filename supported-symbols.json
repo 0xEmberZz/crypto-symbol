@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:32:45.919Z",
+  "generated_at": "2026-07-24T09:25:47.578Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,12 +9,12 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 485,
+      "count": 478,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 1010,
+      "count": 1013,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 2992,
+      "count": 2987,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 512,
+      "count": 511,
       "error": null
     },
     "Lighter": {
@@ -467,13 +467,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "1000SATSUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
           {
             "symbol": "1000SATSUSDT",
             "quote": "USDT",
@@ -2325,11 +2318,6 @@
           {
             "symbol": "AERGO-USDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "AERGO-USDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -14216,13 +14204,6 @@
     },
     "CBK": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CBKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CBKUSDT",
@@ -24444,13 +24425,6 @@
     },
     "FLIP": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FLIPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "FLIP_USDT",
@@ -25559,13 +25533,6 @@
     },
     "FUEL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FUELUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "FUELUSDT",
@@ -44091,11 +44058,6 @@
             "symbol": "NFP_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "NFP_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -45858,13 +45820,6 @@
     },
     "OL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "OLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "OL-USDT",
@@ -47495,13 +47450,6 @@
     },
     "PAAL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PAALUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PAAL_USDT",
@@ -51147,11 +51095,6 @@
             "symbol": "PUFFER_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "PUFFER_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -62083,13 +62026,6 @@
     },
     "SAROS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SAROSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SAROS_USDT",
@@ -64664,11 +64600,6 @@
             "symbol": "SNT_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "SNT_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -67335,13 +67266,6 @@
     },
     "STREAM": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "STREAMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "STREAM_USDT",
@@ -77753,6 +77677,17 @@
         ]
       }
     },
+    "XASTS": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XASTS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAU": {
       "listings": {
         "OKX": [
@@ -78009,6 +77944,17 @@
             "symbol": "XBI_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XBMNR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XBMNR-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -78907,6 +78853,17 @@
         ]
       }
     },
+    "XNFLX": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XNFLX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XNI": {
       "listings": {
         "Gate": [
@@ -79388,6 +79345,17 @@
         "Gate": [
           {
             "symbol": "XPLA_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XPLTR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XPLTR-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -83165,11 +83133,6 @@
             "symbol": "我踏马来了_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "我踏马来了_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Aster": [
@@ -83188,17 +83151,6 @@
             "symbol": "老子_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "草根文化": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "草根文化_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

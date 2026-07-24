@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T00:05:23.904Z",
+  "generated_at": "2026-07-24T03:35:13.443Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 754,
+      "count": 750,
       "error": null
     },
     "Bybit": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1006,
+      "count": 1010,
       "error": null
     },
     "Bitget": {
@@ -1927,11 +1927,6 @@
           {
             "symbol": "ACXUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ACXUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -17990,11 +17985,6 @@
           {
             "symbol": "CVCUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "CVCUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -37355,11 +37345,6 @@
           {
             "symbol": "LPTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LPTUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -60902,11 +60887,6 @@
             "symbol": "RVNUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "RVNUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bybit": [
@@ -78093,6 +78073,17 @@
         ]
       }
     },
+    "XCOIN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCOIN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XCRCL": {
       "listings": {
         "OKX": [
@@ -78236,6 +78227,17 @@
         "KuCoin": [
           {
             "symbol": "XDC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XDELL": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XDELL-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -78437,6 +78439,17 @@
         ]
       }
     },
+    "XIREN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XIREN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XIWM": {
       "listings": {
         "OKX": [
@@ -78557,6 +78570,17 @@
             "symbol": "XLK_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XLLY": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XLLY-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

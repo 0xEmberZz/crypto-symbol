@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:23:44.682Z",
+  "generated_at": "2026-07-26T13:43:19.533Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 511,
+      "count": 513,
       "error": null
     },
     "Lighter": {
@@ -18177,6 +18177,13 @@
         "Gate": [
           {
             "symbol": "CXMT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "CXMTUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -37369,6 +37376,13 @@
           },
           {
             "symbol": "LPTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "LPTUSDT",
             "quote": "USDT",
             "type": "swap"
           }

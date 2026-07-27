@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:39:34.996Z",
+  "generated_at": "2026-07-27T11:32:16.996Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1014,
+      "count": 1018,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1912,
+      "count": 1913,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 2987,
+      "count": 2988,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2258,
+      "count": 2259,
       "error": null
     },
     "Hyperliquid": {
@@ -2303,6 +2303,13 @@
     },
     "AEHR": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "AEHR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AEHRUSDT",
@@ -2312,15 +2319,45 @@
         ]
       }
     },
-    "AERGO": {
+    "AEON": {
       "listings": {
         "OKX": [
           {
-            "symbol": "AERGO-USDT",
+            "symbol": "AEON-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "AEON-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "AEONUSDT",
             "quote": "USDT",
             "type": "spot"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "AEON_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AEON-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AERGO": {
+      "listings": {
         "KuCoin": [
           {
             "symbol": "AERGOUSDTM",
@@ -24936,6 +24973,13 @@
     },
     "FLY": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "FLY-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "FLYUSDT",
@@ -25666,6 +25710,13 @@
     },
     "FWDI": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "FWDI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "FWDIUSDT",

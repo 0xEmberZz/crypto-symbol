@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T03:47:24.611Z",
+  "generated_at": "2026-07-27T07:39:34.996Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1013,
+      "count": 1014,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2252,
+      "count": 2258,
       "error": null
     },
     "Hyperliquid": {
@@ -9521,13 +9521,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -35239,6 +35239,13 @@
     },
     "KR200": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "KR200-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "KR200_USDT",
@@ -62885,6 +62892,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SHAZUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SHAZUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -69336,6 +69355,18 @@
         "Gate": [
           {
             "symbol": "TENCENTHKD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TENCENTHKDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "TENCENTHKDUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -78360,6 +78391,18 @@
         "Gate": [
           {
             "symbol": "XIAOMIHKD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "XIAOMIHKDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "XIAOMIHKDUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:32:16.996Z",
+  "generated_at": "2026-07-27T14:51:23.005Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1913,
+      "count": 1914,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 564,
+      "count": 565,
       "error": null
     },
     "Aster": {
@@ -2338,6 +2338,11 @@
             "symbol": "AEONUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "AEONUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Gate": [
@@ -47737,6 +47742,17 @@
         "Hyperliquid": [
           {
             "symbol": "180010",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-TER": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180013",
             "quote": "USDC",
             "type": "swap"
           }

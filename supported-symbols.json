@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:01:53.825Z",
+  "generated_at": "2026-07-28T14:25:46.757Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1944,
+      "count": 1953,
       "error": null
     },
     "Gate": {
@@ -10898,6 +10898,13 @@
     },
     "BITO": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "BITOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "BITO_USDT",
@@ -12144,6 +12151,13 @@
     },
     "BOTZ": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "BOTZUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "BOTZ_USDT",
@@ -26761,6 +26775,13 @@
     },
     "GILD": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "GILDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "GILD_USDT",
@@ -30942,6 +30963,13 @@
     },
     "IBB": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "IBBUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "IBB_USDT",
@@ -51311,13 +51339,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -64017,6 +64045,13 @@
     },
     "SKDD": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SKDDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SKDD_USDT",
@@ -64386,6 +64421,13 @@
     },
     "SKUU": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SKUUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SKUU_USDT",
@@ -69718,6 +69760,13 @@
     },
     "TBT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "TBTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "TBT_USDT",
@@ -70538,6 +70587,13 @@
     },
     "TMF": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "TMFUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "TMF_USDT",
@@ -79327,6 +79383,13 @@
     },
     "XLV": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "XLVUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "XLV_USDT",

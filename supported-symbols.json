@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:27:50.814Z",
+  "generated_at": "2026-07-29T16:26:15.812Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 209,
+      "count": 210,
       "error": null
     }
   },
@@ -4639,6 +4639,13 @@
           {
             "symbol": "ANSEMUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ANSEM",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

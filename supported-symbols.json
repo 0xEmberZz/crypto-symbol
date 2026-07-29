@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-29T09:42:31.808Z",
+  "generated_at": "2026-07-29T12:06:45.205Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 750,
+      "count": 760,
       "error": null
     },
     "Bybit": {
@@ -1116,6 +1116,17 @@
         "Gate": [
           {
             "symbol": "AAPL3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AAPLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AAPLBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -4030,6 +4041,17 @@
         ]
       }
     },
+    "AMATB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AMATBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "AMATG": {
       "listings": {
         "Gate": [
@@ -4286,6 +4308,17 @@
         "Gate": [
           {
             "symbol": "AMZN3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AMZNB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "AMZNBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -10078,6 +10111,17 @@
           {
             "symbol": "@130",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BEB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "BEBUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -19074,6 +19118,17 @@
         ]
       }
     },
+    "DELLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "DELLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "DENT": {
       "listings": {
         "Gate": [
@@ -24622,6 +24677,17 @@
         ]
       }
     },
+    "FLNCB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "FLNCBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "FLOCK": {
       "listings": {
         "Bybit": [
@@ -28299,6 +28365,17 @@
             "symbol": "GS_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "GSB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "GSBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -51701,6 +51778,17 @@
         ]
       }
     },
+    "PYPLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "PYPLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "PYR": {
       "listings": {
         "Binance": [
@@ -64971,6 +65059,17 @@
         ]
       }
     },
+    "SMHB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SMHBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SMIC": {
       "listings": {
         "Bitget": [
@@ -66258,6 +66357,17 @@
             "symbol": "SOXSUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SOXSB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SOXSBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

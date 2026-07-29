@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T00:03:16.226Z",
+  "generated_at": "2026-07-29T03:27:09.363Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1022,
+      "count": 1026,
       "error": null
     },
     "Bitget": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 514,
+      "count": 515,
       "error": null
     },
     "Lighter": {
@@ -9569,13 +9569,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -51339,13 +51339,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -55985,6 +55985,13 @@
           {
             "symbol": "131",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "REZUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -78032,6 +78039,17 @@
         ]
       }
     },
+    "XADBE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XADBE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAG": {
       "listings": {
         "OKX": [
@@ -78233,6 +78251,17 @@
         ]
       }
     },
+    "XAMAT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAMAT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAMD": {
       "listings": {
         "OKX": [
@@ -78305,6 +78334,17 @@
             "symbol": "XANUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XASML": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XASML-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -80814,6 +80854,17 @@
             "symbol": "XVSUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XXLE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XXLE-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

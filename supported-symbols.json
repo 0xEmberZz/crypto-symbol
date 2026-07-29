@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:27:09.363Z",
+  "generated_at": "2026-07-29T06:38:16.431Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3002,
+      "count": 3004,
       "error": null
     },
     "KuCoin": {
@@ -13401,6 +13401,17 @@
         ]
       }
     },
+    "BVOL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BVOL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BWXT": {
       "listings": {
         "Gate": [
@@ -23237,6 +23248,17 @@
             "symbol": "EVO_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "EVOL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EVOL_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

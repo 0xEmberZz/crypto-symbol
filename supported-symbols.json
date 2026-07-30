@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:39:54.029Z",
+  "generated_at": "2026-07-30T11:14:36.550Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1031,
+      "count": 1034,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2244,
+      "count": 2240,
       "error": null
     },
     "Hyperliquid": {
@@ -1853,11 +1853,6 @@
     "ACTSOL": {
       "listings": {
         "KuCoin": [
-          {
-            "symbol": "ACTSOL-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "ACTSOLUSDTM",
             "quote": "USDT",
@@ -3941,13 +3936,6 @@
             "type": "swap"
           }
         ],
-        "KuCoin": [
-          {
-            "symbol": "KALT-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Hyperliquid": [
           {
             "symbol": "107",
@@ -5760,17 +5748,6 @@
         "Gate": [
           {
             "symbol": "ARCHAI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ARCSOL": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "ARCSOL-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -17204,6 +17181,13 @@
     },
     "CRM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CRM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CRMUSDT",
@@ -32303,6 +32287,13 @@
     },
     "INTW": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "INTW-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "INTWUSDT",
@@ -33939,17 +33930,6 @@
         "Gate": [
           {
             "symbol": "K21_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "KACE": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "KACE-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -46092,6 +46072,17 @@
             "symbol": "OKSOL-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "OKTA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "OKTA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

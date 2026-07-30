@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T05:49:15.553Z",
+  "generated_at": "2026-07-30T08:39:54.029Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3008,
+      "count": 3017,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2259,
+      "count": 2244,
       "error": null
     },
     "Hyperliquid": {
@@ -2827,17 +2827,6 @@
         ]
       }
     },
-    "AI3": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "AI3-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "AIA": {
       "listings": {
         "Bitget": [
@@ -4319,6 +4308,17 @@
         "Binance": [
           {
             "symbol": "AMZNBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AMZNG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMZNG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -6211,13 +6211,6 @@
         "Gate": [
           {
             "symbol": "ARTY_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "ARTY-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -9609,13 +9602,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -10150,6 +10143,17 @@
         "Gate": [
           {
             "symbol": "BEER_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BEG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BEG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -11469,17 +11473,6 @@
             "symbol": "BMTUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BMX": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "BMX-USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -13432,17 +13425,6 @@
             "symbol": "BUY_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "BVIX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BVIX_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -17404,17 +17386,6 @@
         ]
       }
     },
-    "CRTR": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "CRTR-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "CRTS": {
       "listings": {
         "Gate": [
@@ -19130,6 +19101,17 @@
         "Binance": [
           {
             "symbol": "DELLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DELLG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DELLG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -22242,13 +22224,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "EQTY-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -23281,17 +23256,6 @@
         "Bitget": [
           {
             "symbol": "EVEXUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "EVIX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "EVIX_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -24550,13 +24514,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "FITFI-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -24689,6 +24646,17 @@
         "Binance": [
           {
             "symbol": "FLNCBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "FLNCG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FLNCG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -25482,13 +25450,6 @@
         "Gate": [
           {
             "symbol": "FOXY_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "FOXY-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -30140,6 +30101,17 @@
         ]
       }
     },
+    "HOODG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HOODG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "HOODON": {
       "listings": {
         "Gate": [
@@ -31175,6 +31147,17 @@
         ]
       }
     },
+    "IBMG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IBMG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ICNT": {
       "listings": {
         "Bybit": [
@@ -32183,17 +32166,6 @@
             "symbol": "INJUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "INSP": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "INSP-USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -40956,6 +40928,17 @@
         ]
       }
     },
+    "MINIMAXG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MINIMAXG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "MINIMAXHKD": {
       "listings": {
         "Bitget": [
@@ -43034,17 +43017,6 @@
         ]
       }
     },
-    "MYRIA": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "MYRIA-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MYRO": {
       "listings": {
         "Gate": [
@@ -43152,11 +43124,6 @@
           {
             "symbol": "NAKA-USDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "NAKA-USDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -44735,13 +44702,6 @@
         "Gate": [
           {
             "symbol": "NKN_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "NKN-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -64174,13 +64134,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "SKATE-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -65071,6 +65024,17 @@
         "Binance": [
           {
             "symbol": "SMHBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SMHG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SMHG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -66373,6 +66337,17 @@
         "Binance": [
           {
             "symbol": "SOXSBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SOXSG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXSG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -70008,17 +69983,6 @@
         ]
       }
     },
-    "TEAFI": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "TEAFI-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "TED": {
       "listings": {
         "Gate": [
@@ -70093,6 +70057,17 @@
             "symbol": "TENCENT",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "TENCENTG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TENCENTG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -73936,13 +73911,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "URANUS-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -76509,17 +76477,6 @@
         "Gate": [
           {
             "symbol": "WALLET_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "WALLI": {
-      "listings": {
-        "KuCoin": [
-          {
-            "symbol": "WALLI-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -83173,6 +83130,17 @@
             "symbol": "ZHIPU",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ZHIPUG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZHIPUG_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

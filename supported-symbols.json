@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:46:33.613Z",
+  "generated_at": "2026-07-31T13:01:24.005Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1950,
+      "count": 1951,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3013,
+      "count": 3014,
       "error": null
     },
     "KuCoin": {
@@ -28304,6 +28304,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "GRVT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "GRVT-USDT",
@@ -33381,6 +33388,17 @@
             "symbol": "JITOSOL-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "JMKE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "JMKEUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -51418,13 +51436,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

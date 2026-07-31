@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-31T00:09:21.437Z",
+  "generated_at": "2026-07-31T04:28:26.918Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 760,
+      "count": 755,
       "error": null
     },
     "Bybit": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1955,
+      "count": 1956,
       "error": null
     },
     "Gate": {
@@ -2477,17 +2477,6 @@
             "symbol": "AERO",
             "quote": "USDC",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "AEUR": {
-      "listings": {
-        "Binance": [
-          {
-            "symbol": "AEURUSDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -38634,11 +38623,6 @@
             "symbol": "MAGICUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "MAGICUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bybit": [
@@ -39205,11 +39189,6 @@
           {
             "symbol": "MASKUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MASKUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -41910,11 +41889,6 @@
           {
             "symbol": "MOVEUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MOVEUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -51476,13 +51450,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -57564,6 +57538,17 @@
         "Bitget": [
           {
             "symbol": "RJEPQUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RJMKE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RJMKEUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -68849,11 +68834,6 @@
           {
             "symbol": "SUSHIUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SUSHIUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:23:48.347Z",
+  "generated_at": "2026-07-31T17:46:11.054Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 516,
+      "count": 518,
       "error": null
     },
     "Lighter": {
@@ -446,6 +446,13 @@
           },
           {
             "symbol": "1000RATSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "1000RATSUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -2709,6 +2716,17 @@
           },
           {
             "symbol": "AGLDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "AGPU": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "AGPUUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -9554,13 +9572,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]

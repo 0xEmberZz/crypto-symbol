@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T06:36:04.980Z",
+  "generated_at": "2026-08-01T09:10:48.931Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2245,
+      "count": 2243,
       "error": null
     },
     "Hyperliquid": {
@@ -77477,16 +77477,6 @@
             "symbol": "WL-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "WLUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "WLUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

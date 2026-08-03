@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:34:44.881Z",
+  "generated_at": "2026-08-03T14:55:30.468Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1952,
+      "count": 1959,
       "error": null
     },
     "Gate": {
@@ -4205,6 +4205,13 @@
     },
     "AMGN": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "AMGNUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "AMGN_USDT",
@@ -23512,6 +23519,13 @@
         "OKX": [
           {
             "symbol": "EWZ-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "EWZUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -51872,6 +51886,13 @@
     },
     "PYPL": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PYPLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PYPL_USDT",
@@ -63985,6 +64006,13 @@
     },
     "SHOP": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SHOPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SHOP_USDT",
@@ -76192,6 +76220,17 @@
         ]
       }
     },
+    "VST": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "VSTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "VSX": {
       "listings": {
         "Gate": [
@@ -79463,6 +79502,13 @@
         "OKX": [
           {
             "symbol": "XLE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "XLEUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -83795,6 +83841,13 @@
         "OKX": [
           {
             "symbol": "ZM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "ZMUSDT",
             "quote": "USDT",
             "type": "swap"
           }

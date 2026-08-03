@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:35:21.714Z",
+  "generated_at": "2026-08-03T11:34:44.881Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2246,
+      "count": 2248,
       "error": null
     },
     "Hyperliquid": {
@@ -79135,6 +79135,16 @@
             "symbol": "XDC-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "XDCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "XDCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:44:46.485Z",
+  "generated_at": "2026-08-03T07:35:21.714Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1951,
+      "count": 1952,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3014,
+      "count": 3024,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2243,
+      "count": 2246,
       "error": null
     },
     "Hyperliquid": {
@@ -679,6 +679,34 @@
         "Bitget": [
           {
             "symbol": "1MCHEEMSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "2U2": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "2U2USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "2U2-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "2U2USDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "2U2USDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -13500,6 +13528,13 @@
     },
     "BYD": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "BYD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "BYD",
@@ -14274,6 +14309,17 @@
           },
           {
             "symbol": "CATIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CATL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CATL_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -26735,6 +26781,17 @@
         ]
       }
     },
+    "GIGADEV": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GIGADEV_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GIGADEVICE": {
       "listings": {
         "Bitget": [
@@ -29474,6 +29531,17 @@
             "symbol": "HGPT_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HHGRACE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HHGRACE_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -33433,6 +33501,13 @@
         "Bitget": [
           {
             "symbol": "JMKEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "JMKE_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -51795,6 +51870,17 @@
         ]
       }
     },
+    "PYPL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PYPL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PYPLB": {
       "listings": {
         "Binance": [
@@ -65102,6 +65188,13 @@
         "Bitget": [
           {
             "symbol": "SMICUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SMIC_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -82412,6 +82505,17 @@
         ]
       }
     },
+    "YOFC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "YOFC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "YOM": {
       "listings": {
         "KuCoin": [
@@ -83236,6 +83340,17 @@
         ]
       }
     },
+    "ZIJINMINING": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZIJINMINING_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ZIL": {
       "listings": {
         "Binance": [
@@ -83331,6 +83446,17 @@
             "symbol": "ZIX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ZJINNOLIGHT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZJINNOLIGHT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

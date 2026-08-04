@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:21:17.416Z",
+  "generated_at": "2026-08-04T06:33:43.726Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3024,
+      "count": 3034,
       "error": null
     },
     "KuCoin": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 568,
+      "count": 569,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 518,
+      "count": 519,
       "error": null
     },
     "Lighter": {
@@ -4199,6 +4199,17 @@
             "symbol": "AMDON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "AMEC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMEC_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -10579,6 +10590,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "BICOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -11225,6 +11243,17 @@
             "symbol": "BLUE-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BLUEFOCUS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BLUEFOCUS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -13901,6 +13930,17 @@
         ]
       }
     },
+    "CAMBRICON": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CAMBRICON_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CAMP": {
       "listings": {
         "Bitget": [
@@ -16112,6 +16152,17 @@
         "Gate": [
           {
             "symbol": "CMI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CMOC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CMOC_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -22204,6 +22255,17 @@
         ]
       }
     },
+    "EOPTOLINK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EOPTOLINK_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "EPIC": {
       "listings": {
         "Binance": [
@@ -24327,6 +24389,17 @@
         "Aster": [
           {
             "symbol": "FIGHTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "FII": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FII_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31723,6 +31796,17 @@
             "symbol": "IEFAON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "IEIT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "IEIT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -41730,6 +41814,17 @@
         ]
       }
     },
+    "MONTAGE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MONTAGE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MOODENG": {
       "listings": {
         "OKX": [
@@ -43417,6 +43512,17 @@
             "symbol": "NATIX-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NAURA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NAURA_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -48117,6 +48223,17 @@
         ]
       }
     },
+    "PARA-UNITREE": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180019",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARTI": {
       "listings": {
         "Binance": [
@@ -51561,13 +51678,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -68837,6 +68954,17 @@
             "symbol": "SUNDOG-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SUNGROW": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SUNGROW_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

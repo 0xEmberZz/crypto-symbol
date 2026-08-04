@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:57:17.321Z",
+  "generated_at": "2026-08-04T18:42:18.092Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 519,
+      "count": 520,
       "error": null
     },
     "Lighter": {
@@ -39422,6 +39422,17 @@
             "symbol": "MARS4-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MARSCOIN": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "MARSCOINUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

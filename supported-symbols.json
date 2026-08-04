@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:33:43.726Z",
+  "generated_at": "2026-08-04T09:42:34.063Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2248,
+      "count": 2252,
       "error": null
     },
     "Hyperliquid": {
@@ -1573,6 +1573,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "ACE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "ACEUSDTM",
             "quote": "USDT",
@@ -5399,6 +5404,11 @@
     "APTOSLAUNCHTOKEN": {
       "listings": {
         "KuCoin": [
+          {
+            "symbol": "ALT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "ALTUSDTM",
             "quote": "USDT",
@@ -26873,6 +26883,18 @@
         "Gate": [
           {
             "symbol": "GIGADEV_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "GIGADEVUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "GIGADEVUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

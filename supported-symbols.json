@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:42:34.063Z",
+  "generated_at": "2026-08-04T12:06:04.080Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1959,
+      "count": 1964,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3034,
+      "count": 3035,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2252,
+      "count": 2254,
       "error": null
     },
     "Hyperliquid": {
@@ -1886,6 +1886,13 @@
             "symbol": "ACT_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ACT-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -5750,6 +5757,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "ARC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "ARCUSDTM",
             "quote": "USDT",
@@ -11015,6 +11027,13 @@
     },
     "BKNG": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "BKNGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "BKNG_USDT",
@@ -26791,6 +26810,17 @@
             "symbol": "GFI_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "GFS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "GFSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -49013,6 +49043,13 @@
     },
     "PEP": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PEPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PEP_USDT",
@@ -51700,13 +51737,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -66792,6 +66829,17 @@
         ]
       }
     },
+    "SPCH": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SPCHUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SPCX": {
       "listings": {
         "OKX": [
@@ -67574,6 +67622,17 @@
             "symbol": "SSG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SSPC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SSPCUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -74102,6 +74161,17 @@
           },
           {
             "symbol": "UNITASUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "UNITREE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UNITREE_USDT",
             "quote": "USDT",
             "type": "swap"
           }

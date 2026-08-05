@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:44:35.268Z",
+  "generated_at": "2026-08-05T10:43:03.199Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 478,
+      "count": 472,
       "error": null
     },
     "OKX": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 520,
+      "count": 518,
       "error": null
     },
     "Lighter": {
@@ -2001,13 +2001,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "ACXUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -2613,13 +2606,6 @@
     },
     "AFC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AFCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AFC_USDT",
@@ -32461,13 +32447,6 @@
     },
     "INTER": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "INTERUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "INTER_USDT",
@@ -51657,13 +51636,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -63382,13 +63361,6 @@
     },
     "SCA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SCAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SCA_USDT",
@@ -71469,13 +71441,6 @@
     },
     "TOKEN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TOKENUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TOKEN_USDT",
@@ -75680,13 +75645,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "VANRYUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -79234,13 +79192,6 @@
     },
     "XAVA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "XAVAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "XAVA_USDT",
@@ -81273,13 +81224,6 @@
     },
     "XTER": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "XTERUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "XTER-USDT",

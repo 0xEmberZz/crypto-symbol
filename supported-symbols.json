@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T10:43:03.199Z",
+  "generated_at": "2026-08-05T12:59:01.397Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 755,
+      "count": 765,
       "error": null
     },
     "Bybit": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 571,
+      "count": 573,
       "error": null
     },
     "Aster": {
@@ -3413,6 +3413,17 @@
         ]
       }
     },
+    "ALABB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "ALABBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ALB": {
       "listings": {
         "Gate": [
@@ -6404,6 +6415,17 @@
         ]
       }
     },
+    "ASMLB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "ASMLBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ASP": {
       "listings": {
         "OKX": [
@@ -6748,6 +6770,17 @@
             "symbol": "ASTSUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ASTSB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "ASTSBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -11445,6 +11478,17 @@
             "symbol": "BMNR",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "BMNRB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "BMNRBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -16304,6 +16348,17 @@
         ]
       }
     },
+    "COHRB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "COHRBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "COIN": {
       "listings": {
         "OKX": [
@@ -17214,6 +17269,17 @@
             "symbol": "CRDOUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "CRDOB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "CRDOBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -32967,6 +33033,17 @@
         ]
       }
     },
+    "IRENB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "IRENBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "IRIS": {
       "listings": {
         "Gate": [
@@ -44473,6 +44550,17 @@
         ]
       }
     },
+    "NFLXB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "NFLXBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "NFLXG": {
       "listings": {
         "Gate": [
@@ -48119,11 +48207,33 @@
         ]
       }
     },
+    "PARA-NET": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180009",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-OTHERS": {
       "listings": {
         "Hyperliquid": [
           {
             "symbol": "180001",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-RDDT": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180018",
             "quote": "USDC",
             "type": "swap"
           }
@@ -65511,6 +65621,17 @@
         ]
       }
     },
+    "SMCIB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SMCIBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SMH": {
       "listings": {
         "OKX": [
@@ -74631,6 +74752,17 @@
             "symbol": "USARUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "USARB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "USARBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

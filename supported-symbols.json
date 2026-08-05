@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:20:08.525Z",
+  "generated_at": "2026-08-05T17:47:46.640Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1988,
+      "count": 1987,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 574,
+      "count": 576,
       "error": null
     },
     "Aster": {
@@ -55600,17 +55600,6 @@
         ]
       }
     },
-    "REA": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "REAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "REACT": {
       "listings": {
         "Gate": [
@@ -82067,6 +82056,17 @@
         ]
       }
     },
+    "XYZ-GEV": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110102",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-GIGADEV": {
       "listings": {
         "Hyperliquid": [
@@ -82193,6 +82193,17 @@
         "Hyperliquid": [
           {
             "symbol": "110046",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-KORU": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110103",
             "quote": "USDC",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:19:18.892Z",
+  "generated_at": "2026-08-06T07:44:33.916Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3019,
+      "count": 3029,
       "error": null
     },
     "KuCoin": {
@@ -11919,6 +11919,17 @@
         ]
       }
     },
+    "BOE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BOE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BOME": {
       "listings": {
         "Binance": [
@@ -20698,6 +20709,17 @@
         ]
       }
     },
+    "DSBJ": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DSBJ_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "DSYNC": {
       "listings": {
         "Gate": [
@@ -24049,6 +24071,17 @@
             "symbol": "@90",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "FENGHUA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FENGHUA_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -30761,6 +30794,17 @@
             "symbol": "@307",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HTGD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HTGD_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -37759,6 +37803,17 @@
             "symbol": "LONG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "LONGSYS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LONGSYS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -51753,13 +51808,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -64508,6 +64563,17 @@
         ]
       }
     },
+    "SHTECH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SHTECH_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SHX": {
       "listings": {
         "Gate": [
@@ -70837,6 +70903,17 @@
         ]
       }
     },
+    "TFC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TFC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TFUEL": {
       "listings": {
         "Binance": [
@@ -74395,6 +74472,17 @@
             "symbol": "UNION-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "UNIS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UNIS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -78753,6 +78841,17 @@
         ]
       }
     },
+    "WUXIAPPTEC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WUXIAPPTEC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "WWB": {
       "listings": {
         "Hyperliquid": [
@@ -83042,6 +83141,17 @@
         "Aster": [
           {
             "symbol": "YGGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "YJTECH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "YJTECH_USDT",
             "quote": "USDT",
             "type": "swap"
           }

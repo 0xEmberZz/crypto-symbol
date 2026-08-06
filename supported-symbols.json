@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T00:07:52.721Z",
+  "generated_at": "2026-08-06T04:19:18.892Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3018,
+      "count": 3019,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 518,
+      "count": 520,
       "error": null
     },
     "Lighter": {
@@ -35089,6 +35089,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "KIOXIA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "KIOXIAUSDTM",
@@ -51746,13 +51753,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -73530,6 +73537,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "TUTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -74417,6 +74431,13 @@
         "Gate": [
           {
             "symbol": "UNITREE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "UNITREEUSDT",
             "quote": "USDT",
             "type": "swap"
           }

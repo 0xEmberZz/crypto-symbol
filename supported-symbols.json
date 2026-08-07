@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:07:50.908Z",
+  "generated_at": "2026-08-07T11:50:19.735Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1983,
+      "count": 1986,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 520,
+      "count": 521,
       "error": null
     },
     "Lighter": {
@@ -3003,6 +3003,13 @@
           },
           {
             "symbol": "AINUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "AINUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42060,6 +42067,17 @@
         ]
       }
     },
+    "MOONSHOT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MOONSHOTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MOOO": {
       "listings": {
         "Gate": [
@@ -51861,13 +51879,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -58431,6 +58449,17 @@
         ]
       }
     },
+    "RLAZR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RLAZRUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RLC": {
       "listings": {
         "Binance": [
@@ -58668,6 +58697,17 @@
         "Gate": [
           {
             "symbol": "RLUSD_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RLYTE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RLYTEUSDT",
             "quote": "USDT",
             "type": "spot"
           }

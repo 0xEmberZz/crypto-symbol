@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:54:17.860Z",
+  "generated_at": "2026-08-07T05:45:32.416Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1987,
+      "count": 1984,
       "error": null
     },
     "Gate": {
@@ -1981,11 +1981,6 @@
             "symbol": "ACXUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ACXUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -29647,11 +29642,6 @@
             "symbol": "HFTUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "HFTUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -51888,13 +51878,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -75968,11 +75958,6 @@
             "symbol": "VANRYUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VANRYUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [

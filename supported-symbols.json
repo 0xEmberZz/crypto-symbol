@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:50:19.735Z",
+  "generated_at": "2026-08-07T13:18:15.321Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 579,
+      "count": 580,
       "error": null
     },
     "Aster": {
@@ -48257,6 +48257,17 @@
         "Hyperliquid": [
           {
             "symbol": "180002",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-CIEN": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180016",
             "quote": "USDC",
             "type": "swap"
           }

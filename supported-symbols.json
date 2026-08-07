@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:24:18.417Z",
+  "generated_at": "2026-08-07T00:08:31.001Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 577,
+      "count": 579,
       "error": null
     },
     "Aster": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 211,
+      "count": 212,
       "error": null
     }
   },
@@ -14236,6 +14236,13 @@
           {
             "symbol": "CASHCATUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CASHCAT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -51826,13 +51833,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -82487,6 +82494,17 @@
         ]
       }
     },
+    "XYZ-NCLD": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110106",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-NFLX": {
       "listings": {
         "Hyperliquid": [
@@ -82712,6 +82730,17 @@
         "Hyperliquid": [
           {
             "symbol": "110043",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-SOXL": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110107",
             "quote": "USDC",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:45:32.416Z",
+  "generated_at": "2026-08-07T07:26:41.748Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2255,
+      "count": 2249,
       "error": null
     },
     "Hyperliquid": {
@@ -29661,16 +29661,6 @@
             "symbol": "HFT-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "HFTUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "HFTUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -75977,16 +75967,6 @@
             "symbol": "VANRY-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VANRYUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "VANRYUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -76437,18 +76417,6 @@
             "symbol": "VIC_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "VICUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "VICUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

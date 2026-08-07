@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:26:41.748Z",
+  "generated_at": "2026-08-07T09:07:03.388Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1984,
+      "count": 1983,
       "error": null
     },
     "Gate": {
@@ -26895,13 +26895,6 @@
     },
     "GHO": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "GHOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "GHO_USDT",
@@ -29627,13 +29620,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "HFTUSDT",
-            "quote": "USDT",
+            "symbol": "HFTUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "HFTUSDC",
-            "quote": "USDC",
+            "symbol": "HFTUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

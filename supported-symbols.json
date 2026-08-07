@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-07T00:08:31.001Z",
+  "generated_at": "2026-08-07T03:54:17.860Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 765,
+      "count": 763,
       "error": null
     },
     "Bybit": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1038,
+      "count": 1039,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3029,
+      "count": 3039,
       "error": null
     },
     "KuCoin": {
@@ -14712,6 +14712,17 @@
         ]
       }
     },
+    "CCTC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CCTC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CDL": {
       "listings": {
         "Gate": [
@@ -15903,6 +15914,17 @@
             "symbol": "CITY_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CJS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CJS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -36717,6 +36739,17 @@
         ]
       }
     },
+    "LETTALL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LETTALL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "LF": {
       "listings": {
         "Gate": [
@@ -38692,6 +38725,17 @@
           },
           {
             "symbol": "LUNRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "LUXSHARE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LUXSHARE_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -49355,6 +49399,17 @@
         ]
       }
     },
+    "PERIC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PERIC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PERP": {
       "listings": {
         "Gate": [
@@ -51833,13 +51888,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -60090,11 +60145,6 @@
             "symbol": "RPLUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "RPLUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bybit": [
@@ -64760,6 +64810,17 @@
         ]
       }
     },
+    "SINOCERA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SINOCERA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SIREN": {
       "listings": {
         "Bitget": [
@@ -65076,11 +65137,6 @@
           {
             "symbol": "SKLUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SKLUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -70146,6 +70202,17 @@
         ]
       }
     },
+    "SYTECH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SYTECH_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "T": {
       "listings": {
         "Binance": [
@@ -70940,6 +71007,17 @@
         "Gate": [
           {
             "symbol": "TFC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "TFME": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TFME_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -73358,6 +73436,17 @@
             "symbol": "TUNE_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TUNGSTEN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TUNGSTEN_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -81534,6 +81623,17 @@
         ]
       }
     },
+    "XTESTA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTESTA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XTSLA": {
       "listings": {
         "OKX": [
@@ -84869,6 +84969,17 @@
             "symbol": "ZTC-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ZTT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZTT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

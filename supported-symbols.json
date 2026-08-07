@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:59:47.931Z",
+  "generated_at": "2026-08-07T16:01:06.404Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -8,9 +8,9 @@
       "error": null
     },
     "Bybit": {
-      "ok": true,
-      "count": 472,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "bybit(cp) 402"
     },
     "OKX": {
       "ok": true,
@@ -97,13 +97,6 @@
           {
             "symbol": "0GUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "0GUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -572,13 +565,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "1INCHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "1INCH-USDT",
@@ -716,18 +702,6 @@
     "2Z": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "2ZUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "2ZUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "2ZUSDT",
             "quote": "USDT",
@@ -878,13 +852,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "AUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "A-USDT",
@@ -981,13 +948,6 @@
     },
     "A8": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "A8USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "A8USDT",
@@ -1192,13 +1152,6 @@
     },
     "AAPLX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AAPLXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AAPLX_USDT",
@@ -1256,18 +1209,6 @@
     "AAVE": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "AAVEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "AAVEUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "AAVEUSDT",
             "quote": "USDT",
@@ -1619,13 +1560,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ACHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ACH-USDT",
@@ -1815,13 +1749,6 @@
     },
     "ACS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ACSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ACS_USDT",
@@ -2002,18 +1929,6 @@
     "ADA": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ADAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ADAUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ADAUSDT",
             "quote": "USDT",
@@ -2438,13 +2353,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "AEROUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "AERO-USDT-SWAP",
@@ -2519,13 +2427,6 @@
     "AEVO": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "AEVOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "AEVOUSDT",
             "quote": "USDT",
@@ -2634,13 +2535,6 @@
     },
     "AGI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AGIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AGI_USDT",
@@ -2670,13 +2564,6 @@
     "AGLD": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "AGLDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "AGLDUSDT",
             "quote": "USDT",
@@ -3105,13 +2992,6 @@
     },
     "AIOZ": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AIOZUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AIOZ_USDT",
@@ -3573,18 +3453,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ALGOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ALGOUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ALGO-USDT",
@@ -3936,13 +3804,6 @@
           {
             "symbol": "ALTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "ALTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -4473,13 +4334,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ANIMEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ANIME-USDT",
@@ -4579,13 +4433,6 @@
     "ANKR": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ANKRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ANKRUSDT",
             "quote": "USDT",
@@ -4885,18 +4732,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "APEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "APEUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "APE-USDT",
@@ -5011,18 +4846,6 @@
     },
     "APEX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "APEXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "APEXUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Hyperliquid": [
           {
             "symbol": "212",
@@ -5254,18 +5077,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "APTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "APTUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "APT-USDT",
@@ -5471,18 +5282,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ARUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ARUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "AR-USDT",
@@ -5587,18 +5386,6 @@
     "ARB": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ARBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ARBUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ARBUSDT",
             "quote": "USDT",
@@ -5970,13 +5757,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ARKMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ARKM-USDT",
@@ -6274,13 +6054,6 @@
     },
     "ARX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ARXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ARX-USDT-SWAP",
@@ -6537,13 +6310,6 @@
           {
             "symbol": "ASTERUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "ASTERUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -6908,13 +6674,6 @@
     },
     "ATH": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ATHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ATH-USDT",
@@ -7003,18 +6762,6 @@
     "ATOM": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ATOMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ATOMUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ATOMUSDT",
             "quote": "USDT",
@@ -7317,13 +7064,6 @@
     },
     "AURORA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AURORAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AURORA_USDT",
@@ -7365,13 +7105,6 @@
     "AVA": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "AVAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "AVAUSDT",
             "quote": "USDT",
@@ -7463,13 +7196,6 @@
     },
     "AVAIL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AVAILUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AVAIL_USDT",
@@ -7500,18 +7226,6 @@
     "AVAX": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "AVAXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "AVAXUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "AVAXUSDT",
             "quote": "USDT",
@@ -7799,13 +7513,6 @@
     },
     "AVL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AVLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AVL_USDT",
@@ -7833,13 +7540,6 @@
           {
             "symbol": "AVNTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "AVNTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -8025,13 +7725,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "AXLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "AXLUSDT",
@@ -8087,13 +7780,6 @@
           {
             "symbol": "AXSUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "AXSUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -8290,13 +7976,6 @@
     },
     "AZTEC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AZTECUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "AZTEC-USDT-SWAP",
@@ -8480,13 +8159,6 @@
     },
     "B3": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "B3USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "B3_USDT",
@@ -8657,13 +8329,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BABYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BABY-USDT",
@@ -8740,13 +8405,6 @@
     },
     "BABYDOGE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BABYDOGEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BABYDOGE-USDT",
@@ -8889,13 +8547,6 @@
     },
     "BAN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BANUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BANUSDT",
@@ -9229,13 +8880,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BARDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BARD-USDT",
@@ -9363,13 +9007,6 @@
     },
     "BASED": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BASEDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BASED-USDT",
@@ -9443,13 +9080,6 @@
     "BAT": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "BATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "BATUSDT",
             "quote": "USDT",
@@ -9581,13 +9211,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BB-USDT-SWAP",
@@ -9657,22 +9280,6 @@
         ]
       }
     },
-    "BBSOL": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BBSTOCK": {
       "listings": {
         "Bitget": [
@@ -9732,18 +9339,6 @@
     "BCH": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "BCHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BCHUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "BCHUSDT",
             "quote": "USDT",
@@ -10032,13 +9627,6 @@
     },
     "BEAM": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BEAMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BEAMUSDT",
@@ -10228,13 +9816,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BELUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "BEL_USDT",
@@ -10323,13 +9904,6 @@
           {
             "symbol": "BERAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "BERAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -10568,13 +10142,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BICOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BICO-USDT",
@@ -10761,13 +10328,6 @@
     },
     "BILL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BILLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BILL-USDT-SWAP",
@@ -10938,13 +10498,6 @@
     },
     "BIRB": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BIRBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BIRBUSDT",
@@ -11055,13 +10608,6 @@
     },
     "BLAST": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BLASTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BLASTUSDT",
@@ -11108,13 +10654,6 @@
     },
     "BLEND": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BLENDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BLEND-USDT-SWAP",
@@ -11329,13 +10868,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BLURUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BLUR-USDT",
@@ -11509,13 +11041,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "BMTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BMTUSDT",
@@ -11564,18 +11089,6 @@
     "BNB": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "BNBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BNBUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "BNBUSDT",
             "quote": "USDT",
@@ -11898,13 +11411,6 @@
     },
     "BOBA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BOBAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "BOBA_USDT",
@@ -11943,13 +11449,6 @@
           {
             "symbol": "BOMEUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "BOMEUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -12084,18 +11583,6 @@
     "BONK": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "BONKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BONKUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "BONKUSDT",
             "quote": "USDT",
@@ -12360,13 +11847,6 @@
     },
     "BR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BRUSDT",
@@ -12430,13 +11910,6 @@
     },
     "BRETT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BRETTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BRETT-USDT-SWAP",
@@ -12505,13 +11978,6 @@
           {
             "symbol": "BREVUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "BREVUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -12808,13 +12274,6 @@
     },
     "BSB": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BSBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "BSB-USDT-SWAP",
@@ -13025,18 +12484,6 @@
     "BTC": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "BTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BTCUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "BTCUSDT",
             "quote": "USDT",
@@ -13317,13 +12764,6 @@
     },
     "BTT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "BTTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "BTTUSDT",
@@ -13798,13 +13238,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "C98USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "C98USDT",
@@ -13876,13 +13309,6 @@
           {
             "symbol": "CAKEUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "CAKEUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -14025,13 +13451,6 @@
     },
     "CAP": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CAPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CAP-USDT-SWAP",
@@ -14157,13 +13576,6 @@
     },
     "CARV": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CARVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CARVUSDT",
@@ -14252,13 +13664,6 @@
     },
     "CAT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CAT-USDT",
@@ -14348,18 +13753,6 @@
     "CATI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "CATIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "CATIUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "CATIUSDT",
             "quote": "USDT",
@@ -14552,18 +13945,6 @@
     },
     "CC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "CCUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CC-USDT",
@@ -14772,13 +14153,6 @@
     "CELO": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "CELOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "CELOUSDT",
             "quote": "USDT",
@@ -15043,13 +14417,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "CFGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CFG-USDT",
@@ -15290,13 +14657,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "CGPTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CGPTUSDT",
@@ -15456,13 +14816,6 @@
     },
     "CHILLGUY": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CHILLGUYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CHILLGUYUSDT",
@@ -15535,13 +14888,6 @@
           {
             "symbol": "CHIPUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "CHIPUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -15745,18 +15091,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "CHZUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "CHZUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CHZ-USDT",
@@ -15886,13 +15220,6 @@
     "CITY": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "CITYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "CITYUSDT",
             "quote": "USDT",
@@ -16170,13 +15497,6 @@
     },
     "CLOUD": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CLOUDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "CLOUD_USDT",
@@ -16487,13 +15807,6 @@
     },
     "COINX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "COINXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "COINX_USDT",
@@ -16588,13 +15901,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "COMPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "COMP-USDT",
@@ -16675,13 +15981,6 @@
     },
     "COOK": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "COOKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Hyperliquid": [
           {
             "symbol": "@172",
@@ -16702,13 +16001,6 @@
           {
             "symbol": "COOKIEUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "COOKIEUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -16838,13 +16130,6 @@
     },
     "CORE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "COREUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CORE-USDT",
@@ -16885,13 +16170,6 @@
     },
     "CORN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CORNUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "CORN_USDT",
@@ -17119,13 +16397,6 @@
     },
     "CPOOL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CPOOLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CPOOLUSDT",
@@ -17257,13 +16528,6 @@
     },
     "CRCLX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CRCLXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "CRCLX_USDT",
@@ -17622,18 +16886,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "CRVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "CRVUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CRV-USDT",
@@ -17969,13 +17221,6 @@
     },
     "CSPR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CSPRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CSPR-USDT",
@@ -18006,13 +17251,6 @@
     },
     "CTC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "CTC-USDT",
@@ -18212,13 +17450,6 @@
     },
     "CUDIS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CUDISUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CUDISUSDT",
@@ -18556,13 +17787,6 @@
           {
             "symbol": "CYBERUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "CYBERUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -19013,13 +18237,6 @@
     },
     "DBR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DBRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "DBRUSDT",
@@ -19081,13 +18298,6 @@
     },
     "DEEP": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DEEPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "DEEPUSDT",
@@ -19188,13 +18398,6 @@
     },
     "DEGEN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DEGENUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "DEGEN-USDT",
@@ -19571,13 +18774,6 @@
     },
     "DIAM": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DIAMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DIAM_USDT",
@@ -19891,18 +19087,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "DOGEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "DOGEUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "DOGE-USDT",
@@ -20116,18 +19300,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "DOGSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "DOGSUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "DOGS-USDT",
@@ -20204,13 +19376,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "DOLOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "DOLOUSDT",
@@ -20276,13 +19441,6 @@
     },
     "DOOD": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DOODUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "DOOD-USDT",
@@ -20393,18 +19551,6 @@
     "DOT": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "DOTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "DOTUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "DOTUSDT",
             "quote": "USDT",
@@ -20675,13 +19821,6 @@
     },
     "DRIFT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "DRIFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "DRIFTUSDT",
@@ -20924,18 +20063,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "DYDXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "DYDXUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "DYDX-USDT",
@@ -21050,13 +20177,6 @@
           {
             "symbol": "DYMUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "DYMUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -21279,13 +20399,6 @@
     },
     "EDGE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "EDGEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "EDGE-USDT",
@@ -21495,13 +20608,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "EGLDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "EGLD-USDT",
@@ -21565,18 +20671,6 @@
     "EIGEN": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "EIGENUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "EIGENUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "EIGENUSDT",
             "quote": "USDT",
@@ -21757,13 +20851,6 @@
     },
     "ELIZAOS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ELIZAOSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ELIZAOS_USDT",
@@ -21818,13 +20905,6 @@
     },
     "ELSA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ELSAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ELSAUSDT",
@@ -21924,18 +21004,6 @@
     "ENA": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ENAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ENAUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ENAUSDT",
             "quote": "USDT",
@@ -22095,13 +21163,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ENJUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ENJ-USDT",
@@ -22172,18 +21233,6 @@
     "ENS": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ENSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ENSUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ENSUSDT",
             "quote": "USDT",
@@ -22285,13 +21334,6 @@
           {
             "symbol": "ENSOUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "ENSOUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -22441,13 +21483,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ERAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ERAUSDT",
@@ -22518,13 +21553,6 @@
     },
     "ES": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ESUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ES_USDT",
@@ -22553,13 +21581,6 @@
     },
     "ESE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ESEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ESE_USDT",
@@ -22734,13 +21755,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ETCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ETC-USDT",
@@ -22850,18 +21864,6 @@
     "ETH": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ETHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ETHUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ETHUSDT",
             "quote": "USDT",
@@ -23074,13 +22076,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ETHFIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ETHFI-USDT",
@@ -23196,13 +22191,6 @@
     },
     "ETHW": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ETHWUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ETHW-USDT",
@@ -23771,13 +22759,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "FUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "F-USDT-SWAP",
@@ -24138,18 +23119,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "FETUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "FETUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "FET-USDT",
@@ -24281,13 +23250,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "FFUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "FFUSDT",
@@ -24407,13 +23369,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "FIDAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "FIDAUSDT",
@@ -24456,13 +23411,6 @@
     },
     "FIGHT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FIGHTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "FIGHTUSDT",
@@ -24517,18 +23465,6 @@
     "FIL": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "FILUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "FILUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "FILUSDT",
             "quote": "USDT",
@@ -24894,13 +23830,6 @@
     },
     "FLOCK": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FLOCKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "FLOCKUSDT",
@@ -24976,18 +23905,6 @@
     "FLOKI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "FLOKIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "FLOKIUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "FLOKIUSDT",
             "quote": "USDT",
@@ -25078,13 +23995,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "FLOWUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "FLOW-USDT",
@@ -25142,13 +24052,6 @@
     },
     "FLR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FLRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "FLR-USDT",
@@ -25207,13 +24110,6 @@
     },
     "FLUID": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FLUIDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "FLUID-USDT",
@@ -25377,13 +24273,6 @@
           {
             "symbol": "FOGOUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "FOGOUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -25600,13 +24489,6 @@
     },
     "FORT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "FORTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "FORT_USDT",
@@ -25710,13 +24592,6 @@
     "FRAX": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "FRAXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "FRAXUSDT",
             "quote": "USDT",
@@ -25848,13 +24723,6 @@
     "FTT": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "FTTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "FTTUSDT",
             "quote": "USDT",
@@ -26091,13 +24959,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "GUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "G-USDT",
@@ -26216,13 +25077,6 @@
     },
     "GAIB": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GAIBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "GAIBUSDT",
@@ -26268,13 +25122,6 @@
           {
             "symbol": "GALAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "GALAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -27195,13 +26042,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "GLMRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "GLMR_USDT",
@@ -27457,18 +26297,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "GMTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "GMTUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "GMT-USDT",
@@ -27562,13 +26390,6 @@
     "GMX": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "GMXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "GMXUSDT",
             "quote": "USDT",
@@ -27704,13 +26525,6 @@
     },
     "GOAT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GOATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "GOAT-USDT",
@@ -27819,13 +26633,6 @@
     },
     "GODS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GODSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "GODS-USDT",
@@ -28036,13 +26843,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "GPSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "GPS-USDT-SWAP",
@@ -28114,18 +26914,6 @@
     "GRAM": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "GRAMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "GRAMUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "GRAMUSDT",
             "quote": "USDT",
@@ -28279,13 +27067,6 @@
     },
     "GRASS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GRASSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "GRASS-USDT",
@@ -28456,13 +27237,6 @@
     },
     "GROVE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GROVEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "GROVE-USDT",
@@ -28483,13 +27257,6 @@
           {
             "symbol": "GRTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "GRTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -28555,13 +27322,6 @@
     },
     "GRVT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GRVTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "GRVT-USDT",
@@ -28969,13 +27729,6 @@
     },
     "H": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "H-USDT-SWAP",
@@ -29084,13 +27837,6 @@
           {
             "symbol": "HAEDALUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "HAEDALUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -29242,18 +27988,6 @@
     "HBAR": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "HBARUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "HBARUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "HBARUSDT",
             "quote": "USDT",
@@ -29625,18 +28359,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "HFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "HFTUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "HFTUSDT",
@@ -29947,18 +28669,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "HMSTRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "HMSTRUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "HMSTR-USDT",
@@ -30052,13 +28762,6 @@
     },
     "HNT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HNTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "HNTUSDT",
@@ -30166,13 +28869,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "HOLOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "HOLOUSDT",
@@ -30234,13 +28930,6 @@
           {
             "symbol": "HOMEUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "HOMEUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -30416,13 +29105,6 @@
     },
     "HOODX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HOODXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "HOODX_USDT",
@@ -30856,13 +29538,6 @@
     },
     "HTX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HTXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "HTXUSDT",
@@ -30897,13 +29572,6 @@
           {
             "symbol": "HUMAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "HUMAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -31031,13 +29699,6 @@
     },
     "HYPE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HYPEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "HYPE-USDT",
@@ -31455,13 +30116,6 @@
     },
     "ICNT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ICNTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ICNTUSDT",
@@ -31508,18 +30162,6 @@
     "ICP": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ICPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ICPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ICPUSDT",
             "quote": "USDT",
@@ -31653,13 +30295,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ICXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ICX-USDT",
@@ -31723,13 +30358,6 @@
     "ID": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "IDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "IDUSDT",
             "quote": "USDT",
@@ -32074,13 +30702,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "IMXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "IMX-USDT",
@@ -32295,13 +30916,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "INITUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "INIT-USDT-SWAP",
@@ -32369,18 +30983,6 @@
     "INJ": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "INJUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "INJUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "INJUSDT",
             "quote": "USDT",
@@ -32721,13 +31323,6 @@
           {
             "symbol": "IOUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "IOUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -33444,18 +32039,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "JASMYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "JASMYUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "JASMYUSDT",
@@ -33951,13 +32534,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "JSTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "JSTUSDT",
@@ -33994,18 +32570,6 @@
     "JTO": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "JTOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "JTOUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "JTOUSDT",
             "quote": "USDT",
@@ -34128,18 +32692,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "JUPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "JUPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "JUP-USDT",
@@ -34251,13 +32803,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "JUVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "JUVUSDT",
@@ -34296,13 +32841,6 @@
           {
             "symbol": "KAIAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "KAIAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -34561,18 +33099,6 @@
     },
     "KAS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "KASUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "KASUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "KASUSDT",
@@ -34780,13 +33306,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "KAVAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "KAVAUSDT",
@@ -34876,13 +33395,6 @@
     },
     "KCS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "KCSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "KCS-USDT",
@@ -35418,13 +33930,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "KMNOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "KMNO-USDT",
@@ -35854,13 +34359,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "KSMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "KSM-USDT",
@@ -36011,13 +34509,6 @@
     },
     "KUB": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "KUBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "KUBUSDT",
@@ -36094,13 +34585,6 @@
     },
     "L3": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "L3USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "L3_USDT",
@@ -36128,13 +34612,6 @@
           {
             "symbol": "LAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "LAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -36435,13 +34912,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "LAYERUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "LAYER-USDT",
@@ -36527,18 +34997,6 @@
     "LDO": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "LDOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LDOUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "LDOUSDT",
             "quote": "USDT",
@@ -36889,13 +35347,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "LINEAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "LINEA-USDT",
@@ -36998,18 +35449,6 @@
     "LINK": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "LINKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LINKUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "LINKUSDT",
             "quote": "USDT",
@@ -37303,13 +35742,6 @@
     },
     "LIT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "LITUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "LIT-USDT",
@@ -37665,13 +36097,6 @@
     },
     "LMWR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "LMWRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "LMWRUSDT",
@@ -38071,13 +36496,6 @@
     },
     "LRC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "LRCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "LRC-USDT",
@@ -38243,18 +36661,6 @@
     "LTC": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "LTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LTCUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "LTCUSDT",
             "quote": "USDT",
@@ -38513,13 +36919,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "LUNAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "LUNA-USDT",
@@ -38610,18 +37009,6 @@
     "LUNC": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "LUNCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LUNCUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "LUNCUSDT",
             "quote": "USDT",
@@ -38955,13 +37342,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MAGICUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MAGIC-USDT",
@@ -39088,13 +37468,6 @@
     },
     "MAJOR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MAJORUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MAJOR_USDT",
@@ -39153,18 +37526,6 @@
           {
             "symbol": "MANAUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "MANAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MANAUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -39282,13 +37643,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MANTAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "MANTAUSDT",
@@ -39362,13 +37716,6 @@
           {
             "symbol": "MANTRAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "MANTRAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -39533,13 +37880,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MASKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MASK-USDT",
@@ -39694,13 +38034,6 @@
     },
     "MAVIA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MAVIAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MAVIA_USDT",
@@ -39836,13 +38169,6 @@
     },
     "MBX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MBXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MBX_USDT",
@@ -39895,13 +38221,6 @@
     },
     "MCDX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MCDXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MCDX_USDT",
@@ -39918,17 +38237,6 @@
             "symbol": "MCHP_USDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "MCRT": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "MCRTUSDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -40009,13 +38317,6 @@
     "ME": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "MEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "MEUSDT",
             "quote": "USDT",
@@ -40107,17 +38408,6 @@
         ]
       }
     },
-    "MEE": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "MEEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MEGA": {
       "listings": {
         "Binance": [
@@ -40129,13 +38419,6 @@
           {
             "symbol": "MEGAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "MEGAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -40333,13 +38616,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MEMEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MEME-USDT",
@@ -40465,13 +38741,6 @@
     },
     "MERL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MERLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MERL-USDT",
@@ -40549,18 +38818,6 @@
     "MET": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "METUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "METUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "METUSDT",
             "quote": "USDT",
@@ -40778,13 +39035,6 @@
     },
     "METAX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "METAXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "METAX_USDT",
@@ -40804,17 +39054,6 @@
         "Gate": [
           {
             "symbol": "METFI_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "METH": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "METHUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -40928,18 +39167,6 @@
     },
     "MEW": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MEWUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MEWUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MEW-USDT",
@@ -41141,13 +39368,6 @@
           {
             "symbol": "MINAUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "MINAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -41540,13 +39760,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MMTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MMT-USDT",
@@ -41627,18 +39840,6 @@
     },
     "MNT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MNTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MNTUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MNT_USDT",
@@ -41687,13 +39888,6 @@
     },
     "MOCA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MOCAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "MOCAUSDT",
@@ -41761,13 +39955,6 @@
     },
     "MOG": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MOGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "MOGUSDT",
@@ -41805,13 +39992,6 @@
     },
     "MON": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MON-USDT",
@@ -42125,13 +40305,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MORPHOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MORPHO-USDT",
@@ -42233,18 +40406,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "MOVEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "MOVEUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "MOVE-USDT",
@@ -42322,13 +40483,6 @@
     "MOVR": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "MOVRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "MOVRUSDT",
             "quote": "USDT",
@@ -42428,13 +40582,6 @@
     },
     "MPLX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MPLXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MPLX_USDT",
@@ -43337,13 +41484,6 @@
     },
     "MX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "MXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "MXUSDT",
@@ -43668,13 +41808,6 @@
     },
     "NAVX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NAVXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "NAVX-USDT",
@@ -43914,18 +42047,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "NEARUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "NEARUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "NEAR-USDT",
@@ -44088,13 +42209,6 @@
           {
             "symbol": "NEIROUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "NEIROUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -44282,13 +42396,6 @@
     },
     "NEON": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NEONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "NEON_USDT",
@@ -44485,13 +42592,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "NEWTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "NEWTUSDT",
@@ -44584,13 +42684,6 @@
     "NEXO": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "NEXOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "NEXOUSDT",
             "quote": "USDT",
@@ -44725,13 +42818,6 @@
     },
     "NFT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "NFT-USDT",
@@ -44827,13 +42913,6 @@
           {
             "symbol": "NIGHTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "NIGHTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -45347,13 +43426,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "NOMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "NOMUSDT",
@@ -45435,18 +43507,6 @@
     "NOT": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "NOTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "NOTUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "NOTUSDT",
             "quote": "USDT",
@@ -45625,13 +43685,6 @@
     },
     "NS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "NSUSDT",
@@ -45836,13 +43889,6 @@
     },
     "NVDAX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NVDAXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "NVDAX_USDT",
@@ -45916,13 +43962,6 @@
           {
             "symbol": "NXPCUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "NXPCUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -46025,13 +44064,6 @@
     },
     "NYM": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NYMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "NYMUSDT",
@@ -46178,13 +44210,6 @@
     },
     "OBT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "OBTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "OBT_USDT",
@@ -46605,18 +44630,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ONDOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ONDOUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ONDO-USDT",
@@ -46991,18 +45004,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "OPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "OPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "OP-USDT",
@@ -47282,13 +45283,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "OPGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "OPG-USDT-SWAP",
@@ -47347,13 +45341,6 @@
           {
             "symbol": "OPNUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "OPNUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -47657,13 +45644,6 @@
     },
     "ORDER": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ORDERUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ORDER-USDT-SWAP",
@@ -47717,18 +45697,6 @@
     "ORDI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ORDIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ORDIUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ORDIUSDT",
             "quote": "USDT",
@@ -48431,13 +46399,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "PARTIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PARTI-USDT",
@@ -48765,13 +46726,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "PENDLEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PENDLE-USDT",
@@ -48894,13 +46848,6 @@
           {
             "symbol": "PENGUUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "PENGUUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -49060,13 +47007,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "PEOPLEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PEOPLE-USDT",
@@ -49193,18 +47133,6 @@
     "PEPE": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "PEPEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "PEPEUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "PEPEUSDT",
             "quote": "USDT",
@@ -49614,13 +47542,6 @@
     },
     "PIEVERSE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PIEVERSEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PIEVERSE-USDT-SWAP",
@@ -49888,13 +47809,6 @@
     },
     "PIRATE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PIRATEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PIRATE_USDT",
@@ -50213,13 +48127,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "PLUMEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PLUME-USDT-SWAP",
@@ -50332,13 +48239,6 @@
           {
             "symbol": "PNUTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "PNUTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -50513,18 +48413,6 @@
           {
             "symbol": "POLUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "POLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "POLUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -50762,13 +48650,6 @@
     },
     "PONKE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PONKEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PONKE_USDT",
@@ -50820,13 +48701,6 @@
     },
     "POPCAT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "POPCATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "POPCAT-USDT-SWAP",
@@ -51005,13 +48879,6 @@
     "PORTAL": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "PORTALUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "PORTALUSDT",
             "quote": "USDT",
@@ -51221,13 +49088,6 @@
     },
     "PRCL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PRCLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PRCL-USDT",
@@ -51302,13 +49162,6 @@
     },
     "PRIME": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PRIMEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "PRIMEUSDT",
@@ -51633,13 +49486,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "PROVEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PROVE-USDT",
@@ -51724,13 +49570,6 @@
     "PSG": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "PSGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "PSGUSDT",
             "quote": "USDT",
@@ -51863,17 +49702,6 @@
         ]
       }
     },
-    "PUFFER ": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "PUFFER USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PUMP": {
       "listings": {
         "Binance": [
@@ -51885,18 +49713,6 @@
           {
             "symbol": "PUMPUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          },
-          {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -52281,18 +50097,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "PYTHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "PYTHUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PYTH-USDT",
@@ -52376,13 +50180,6 @@
     },
     "PYUSD": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PYUSDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "PYUSD-USDT",
@@ -52672,13 +50469,6 @@
           {
             "symbol": "QNTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "QNTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -52978,13 +50768,6 @@
     "QTUM": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "QTUMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "QTUMUSDT",
             "quote": "USDT",
@@ -53965,13 +51748,6 @@
     },
     "RATS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "RATSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "RATSUSDT",
@@ -55803,13 +53579,6 @@
     },
     "RECALL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "RECALLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "RECALL-USDT-SWAP",
@@ -55922,13 +53691,6 @@
           {
             "symbol": "REDUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "REDUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -56161,18 +53923,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "RENDERUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "RENDERUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "RENDER-USDT",
@@ -56337,13 +54087,6 @@
           {
             "symbol": "RESOLVUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "RESOLVUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -58679,13 +56422,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "RLUSDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "RLUSD-USDT",
@@ -59481,13 +57217,6 @@
     },
     "ROAM": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ROAMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ROAMUSDT",
@@ -59878,13 +57607,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ROSEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ROSEUSDT",
@@ -60165,13 +57887,6 @@
     "RPL": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "RPLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "RPLUSDT",
             "quote": "USDT",
@@ -61929,13 +59644,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "RUNEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "RUNEUSDT",
@@ -62208,13 +59916,6 @@
     "RVN": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "RVNUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "RVNUSDT",
             "quote": "USDT",
@@ -62785,18 +60486,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "S-USDT",
@@ -62885,13 +60574,6 @@
     },
     "SAFE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SAFEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SAFE-USDT",
@@ -63241,18 +60923,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SANDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SANDUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SAND-USDT",
@@ -63476,13 +61146,6 @@
     },
     "SATS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SATSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SATS-USDT",
@@ -63603,13 +61266,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SC_USDT",
@@ -63683,13 +61339,6 @@
     },
     "SCOR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SCORUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SCOR_USDT",
@@ -63709,13 +61358,6 @@
     "SCR": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "SCRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SCRUSDT",
             "quote": "USDT",
@@ -63774,13 +61416,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SCRTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SCRTUSDT",
@@ -63822,13 +61457,6 @@
     },
     "SD": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SD-USDT",
@@ -63877,18 +61505,6 @@
     "SEI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "SEIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SEIUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SEIUSDT",
             "quote": "USDT",
@@ -64059,13 +61675,6 @@
           {
             "symbol": "SENTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "SENTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -64411,18 +62020,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SHIBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SHIBUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SHIB-USDT",
@@ -64702,13 +62299,6 @@
           {
             "symbol": "SIGNUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "SIGNUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -65232,13 +62822,6 @@
     },
     "SKR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SKRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SKRUSDT",
@@ -65340,13 +62923,6 @@
             "quote": "USDC",
             "type": "spot"
           },
-          {
-            "symbol": "SKYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SKYUSDT",
             "quote": "USDT",
@@ -65667,13 +63243,6 @@
     },
     "SLX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SLXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SLX-USDT",
@@ -66148,13 +63717,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SNXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SNX-USDT",
@@ -66386,18 +63948,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SOLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SOLUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SOL-USDT",
@@ -66588,13 +64138,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SOLVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SOLVUSDT",
@@ -66658,13 +64201,6 @@
           {
             "symbol": "SOMIUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "SOMIUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -66967,13 +64503,6 @@
     },
     "SOSO": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SOSOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SOSO_USDT",
@@ -67535,13 +65064,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SPKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SPK-USDT",
@@ -67683,18 +65205,6 @@
     },
     "SPX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SPXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SPXUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SPX-USDT-SWAP",
@@ -67963,13 +65473,6 @@
     },
     "SQD": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SQDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SQDUSDT",
@@ -68117,13 +65620,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SSVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "SSV-USDT",
@@ -68197,13 +65693,6 @@
     },
     "STABLE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "STABLEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "STABLE-USDT-SWAP",
@@ -68472,13 +65961,6 @@
     },
     "STETH": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "STETHUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "STETH-USDT",
@@ -68899,18 +66381,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "STRKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "STRKUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "STRK-USDT",
@@ -69060,18 +66530,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "STXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "STXUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "STX-USDT",
@@ -69199,18 +66657,6 @@
     "SUI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "SUIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SUIUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SUIUSDT",
             "quote": "USDT",
@@ -69415,13 +66861,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "SUNUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SUNUSDT",
@@ -69615,17 +67054,6 @@
         ]
       }
     },
-    "SUPRA ": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "SUPRA USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SUSD": {
       "listings": {
         "Gate": [
@@ -69640,13 +67068,6 @@
     "SUSHI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "SUSHIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "SUSHIUSDT",
             "quote": "USDT",
@@ -69769,13 +67190,6 @@
     },
     "SVL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SVLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SVL_USDT",
@@ -69900,18 +67314,6 @@
     },
     "SWELL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "SWELLUSDT",
@@ -69987,13 +67389,6 @@
           {
             "symbol": "SXTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "SXTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -70303,13 +67698,6 @@
     },
     "TA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TA_USDT",
@@ -70345,13 +67733,6 @@
     },
     "TAC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TACUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "TACUSDT",
@@ -70451,13 +67832,6 @@
     },
     "TAI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TAIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TAI_USDT",
@@ -70476,13 +67850,6 @@
     },
     "TAIKO": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TAIKOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "TAIKOUSDT",
@@ -70850,13 +68217,6 @@
     },
     "TEL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TELUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "TEL-USDT",
@@ -71152,13 +68512,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "THETAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "THETA-USDT",
@@ -71275,18 +68628,6 @@
     "TIA": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "TIAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TIAUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "TIAUSDT",
             "quote": "USDT",
@@ -71686,13 +69027,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "TNSRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "TNSR-USDT",
@@ -71809,13 +69143,6 @@
     },
     "TOSHI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TOSHIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "TOSHI-USDT",
@@ -71925,18 +69252,6 @@
     "TOWNS": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "TOWNSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TOWNSUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "TOWNSUSDT",
             "quote": "USDT",
@@ -72374,13 +69689,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "TREEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "TREEUSDT",
@@ -72444,13 +69752,6 @@
     },
     "TRIA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TRIAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "TRIA-USDT-SWAP",
@@ -72582,18 +69883,6 @@
     "TRUMP": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "TRUMPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TRUMPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "TRUMPUSDT",
             "quote": "USDT",
@@ -72878,18 +70167,6 @@
     "TRX": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "TRXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "TRXUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "TRXUSDT",
             "quote": "USDT",
@@ -73675,13 +70952,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "TUSDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "TUSDUSDT",
@@ -73816,13 +71086,6 @@
           {
             "symbol": "TWTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "TWTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -74252,13 +71515,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "UMAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "UMA-USDT",
@@ -74418,18 +71674,6 @@
     "UNI": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "UNIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "UNIUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "UNIUSDT",
             "quote": "USDT",
@@ -75019,13 +72263,6 @@
     },
     "USAT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "USATUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "USAT-USDT",
@@ -75060,13 +72297,6 @@
           {
             "symbol": "USD1USDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "USD1USDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -75120,13 +72350,6 @@
     "USDC": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "USDCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "USDCUSDT",
             "quote": "USDT",
@@ -75244,18 +72467,6 @@
           {
             "symbol": "USDEUSDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -75445,13 +72656,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "USDSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "USDS-USDT",
@@ -75500,17 +72704,6 @@
         ]
       }
     },
-    "USDTB": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "USDTBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "USDUC": {
       "listings": {
         "Hyperliquid": [
@@ -75540,13 +72733,6 @@
     },
     "USDY": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "USDYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "USDY_USDT",
@@ -75653,13 +72839,6 @@
     "USTC": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "USTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "USTCUSDT",
             "quote": "USDT",
@@ -75902,13 +73081,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "VANAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "VANA-USDT-SWAP",
@@ -75977,13 +73149,6 @@
           {
             "symbol": "VANRYUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "VANRYUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -76105,13 +73270,6 @@
     },
     "VELO": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "VELOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "VELO-USDT",
@@ -76299,13 +73457,6 @@
     },
     "VERONA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "VERONAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "VERONAUSDT",
@@ -76442,13 +73593,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "VICUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "VICUSDT",
@@ -76534,18 +73678,6 @@
     "VIRTUAL": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "VIRTUALUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "VIRTUALUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "VIRTUALUSDT",
             "quote": "USDT",
@@ -77033,13 +74165,6 @@
     },
     "VVV": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "VVVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "VVV-USDT-SWAP",
@@ -77161,13 +74286,6 @@
           {
             "symbol": "WUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "WUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -77300,13 +74418,6 @@
           {
             "symbol": "WALUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "WALUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -77463,13 +74574,6 @@
     },
     "WAVES": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "WAVESUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "WAVESUSDT",
@@ -77524,13 +74628,6 @@
     "WAXP": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "WAXPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "WAXPUSDT",
             "quote": "USDT",
@@ -77625,13 +74722,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "WBTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "WBTCUSDT",
@@ -77663,13 +74753,6 @@
             "quote": "USDC",
             "type": "spot"
           },
-          {
-            "symbol": "WCTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "WCTUSDT",
             "quote": "USDT",
@@ -77858,13 +74941,6 @@
     },
     "WEMIX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "WEMIXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "WEMIXUSDT",
@@ -77940,13 +75016,6 @@
     },
     "WET": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "WETUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "WET-USDT",
@@ -78062,18 +75131,6 @@
     "WIF": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "WIFUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "WIFUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "WIFUSDT",
             "quote": "USDT",
@@ -78330,18 +75387,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "WLDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "WLDUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "WLD-USDT",
@@ -78493,13 +75538,6 @@
           {
             "symbol": "WLFIUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "WLFIUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -78753,13 +75791,6 @@
     "WOO": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "WOOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "WOOUSDT",
             "quote": "USDT",
@@ -79151,13 +76182,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "XAIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "XAIUSDT",
@@ -79283,13 +76307,6 @@
     },
     "XAN": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "XANUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "XANUSDT",
@@ -79462,13 +76479,6 @@
           {
             "symbol": "XAUTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "XAUTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -79828,13 +76838,6 @@
     },
     "XDC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "XDCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "XDCUSDT",
@@ -80273,18 +77276,6 @@
     "XLM": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "XLMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "XLMUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "XLMUSDT",
             "quote": "USDT",
@@ -80993,13 +77984,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "XPLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "XPL-USDT",
@@ -81300,18 +78284,6 @@
     "XRP": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "XRPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "XRPUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "XRPUSDT",
             "quote": "USDT",
@@ -81678,13 +78650,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "XTZUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "XTZ-USDT",
@@ -81799,13 +78764,6 @@
     "XUSD": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "XUSDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "XUSDUSDT",
             "quote": "USDT",
@@ -83143,13 +80101,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "YFIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "YFI-USDT",
@@ -83356,13 +80307,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ZAMAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZAMA-USDT",
@@ -83490,13 +80434,6 @@
           {
             "symbol": "ZBTUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "ZBTUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -83693,13 +80630,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ZENUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZEN-USDT",
@@ -83764,13 +80694,6 @@
     },
     "ZENT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZENTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZENT-USDT",
@@ -83796,13 +80719,6 @@
     },
     "ZEREBRO": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZEREBROUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ZEREBRO_USDT",
@@ -83901,13 +80817,6 @@
     },
     "ZETA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZETAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZETA-USDT",
@@ -84104,13 +81013,6 @@
     },
     "ZIG": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZIGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ZIGUSDT",
@@ -84158,13 +81060,6 @@
     "ZIL": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ZILUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ZILUSDT",
             "quote": "USDT",
@@ -84279,18 +81174,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ZKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ZKUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZK-USDT",
@@ -84386,13 +81269,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ZKCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ZKCUSDT",
@@ -84445,13 +81321,6 @@
     },
     "ZKJ": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZKJUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZKJ-USDT",
@@ -84511,13 +81380,6 @@
           {
             "symbol": "ZKPUSDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
-          {
-            "symbol": "ZKPUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -84641,13 +81503,6 @@
     },
     "ZORA": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ZORAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZORA-USDT",
@@ -84765,18 +81620,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "ZROUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ZROUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ZRO-USDT",
@@ -84861,13 +81704,6 @@
     "ZRX": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ZRXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bybit": [
           {
             "symbol": "ZRXUSDT",
             "quote": "USDT",

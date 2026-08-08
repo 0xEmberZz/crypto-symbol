@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:50:04.871Z",
+  "generated_at": "2026-08-08T14:37:58.384Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -5256,13 +5256,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "APTUSDC",
-            "quote": "USDC",
+            "symbol": "APTUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "APTUSDT",
-            "quote": "USDT",
+            "symbol": "APTUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

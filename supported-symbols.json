@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:04:40.524Z",
+  "generated_at": "2026-08-09T13:54:43.359Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -43,9 +43,9 @@
       "error": null
     },
     "Lighter": {
-      "ok": false,
-      "count": 0,
-      "error": "lighter 503"
+      "ok": true,
+      "count": 212,
+      "error": null
     }
   },
   "tokens": {
@@ -168,6 +168,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "0G",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -285,6 +292,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "1000BONK",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -361,6 +375,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "1000FLOKI",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -386,12 +407,30 @@
         ]
       }
     },
+    "1000NOT": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "1000NOT",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "1000PEPE": {
       "listings": {
         "Aster": [
           {
             "symbol": "1000PEPEUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "1000PEPE",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -456,6 +495,13 @@
           {
             "symbol": "1000SHIBUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "1000SHIB",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -771,6 +817,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "2Z",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -1017,6 +1070,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AAOI",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -1070,6 +1130,13 @@
           {
             "symbol": "AAPLUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AAPL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -1299,6 +1366,24 @@
             "symbol": "AAVEUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AAVE",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "AAVE/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "AAVE/USDC",
+            "quote": "USDC",
+            "type": "spot"
           }
         ]
       }
@@ -2038,6 +2123,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ADA",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -2172,6 +2264,13 @@
             "symbol": "ADI-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ADI",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -2412,6 +2511,13 @@
           {
             "symbol": "AEROUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AERO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -4039,6 +4145,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AMD",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -4208,6 +4321,13 @@
           {
             "symbol": "AMZNUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AMZN",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -4573,6 +4693,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ANSEM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -4655,6 +4782,13 @@
           {
             "symbol": "ANTHROPICUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ANTHROPIC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -4899,6 +5033,13 @@
         "Hyperliquid": [
           {
             "symbol": "212",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "APEX",
             "quote": "USDC",
             "type": "swap"
           }
@@ -5206,6 +5347,13 @@
           {
             "symbol": "APTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "APT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -5550,6 +5698,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ARB",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -5617,6 +5772,13 @@
           {
             "symbol": "ARCUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ARC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -5935,6 +6097,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ARM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -6245,6 +6414,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ASML",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -6447,6 +6623,13 @@
           {
             "symbol": "ASTERUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ASTER",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -7117,6 +7300,17 @@
         ]
       }
     },
+    "AUDUSD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "AUDUSD",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "AURA": {
       "listings": {
         "Gate": [
@@ -7432,6 +7626,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AVAX",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -7547,6 +7748,13 @@
           {
             "symbol": "AVGOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AVGO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -7711,6 +7919,13 @@
           {
             "symbol": "AVNTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AVNT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -7960,6 +8175,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AXS",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -8141,6 +8363,13 @@
           {
             "symbol": "AZTECUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AZTEC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -8354,6 +8583,13 @@
           {
             "symbol": "BABAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BABA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -9418,6 +9654,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BB",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -9610,6 +9853,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BCH",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -9775,6 +10025,13 @@
           {
             "symbol": "BEUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BE",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -10157,6 +10414,13 @@
           {
             "symbol": "BERAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BERA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -10667,6 +10931,13 @@
           {
             "symbol": "BIOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BIO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -11210,6 +11481,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BMNR",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -11405,6 +11683,13 @@
           {
             "symbol": "BNBUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BNB",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -12000,6 +12285,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BOT",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -12016,6 +12308,13 @@
           {
             "symbol": "BOTZ_USDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BOTZ",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -12120,6 +12419,17 @@
           {
             "symbol": "BRUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "BRENTOIL": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "BRENTOIL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -12851,6 +13161,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BTC",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -13317,6 +13634,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "BYD",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -13759,6 +14083,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CAP",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -13914,6 +14245,13 @@
           {
             "symbol": "CASHCATUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CASHCAT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -14187,6 +14525,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CBRS",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -14295,6 +14640,13 @@
           {
             "symbol": "CCUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -15266,6 +15618,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CHIP",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -16090,6 +16449,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "COIN",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -16831,6 +17197,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CRCL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17132,6 +17505,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CRO",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17342,6 +17722,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CRV",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17476,6 +17863,13 @@
           {
             "symbol": "CRWVUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CRWV",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -17759,6 +18153,13 @@
           {
             "symbol": "CTRUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CTR",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -18099,6 +18500,13 @@
           {
             "symbol": "CXMTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "CXMT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -18460,6 +18868,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DASH",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -18547,6 +18962,13 @@
           {
             "symbol": "DATAUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DATA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -18869,6 +19291,13 @@
           {
             "symbol": "DELLUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DELL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -19582,6 +20011,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DOGE",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -19822,6 +20258,13 @@
           {
             "symbol": "DOLOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DOLO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -20066,6 +20509,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DOT",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -20163,6 +20613,13 @@
           {
             "symbol": "DRAMUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DRAM",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -20557,6 +21014,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DYDX",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -20810,6 +21274,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "EDEN",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -20884,6 +21355,13 @@
           {
             "symbol": "EDGEUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "EDGE",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -21191,6 +21669,13 @@
           {
             "symbol": "EIGENUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "EIGEN",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -21558,6 +22043,13 @@
           {
             "symbol": "ENAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ENA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -22494,6 +22986,24 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ETH",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "ETH/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "ETH/USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -22657,6 +23167,13 @@
           {
             "symbol": "ETHFIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ETHFI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -22860,6 +23377,13 @@
           {
             "symbol": "EURUSD_USDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "EURUSD",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -23100,6 +23624,13 @@
           {
             "symbol": "EWYUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "EWY",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -23437,6 +23968,13 @@
           {
             "symbol": "FARTCOINUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "FARTCOIN",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -23804,6 +24342,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "FF",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -24086,6 +24631,13 @@
           {
             "symbol": "FILUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "FIL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -24913,6 +25465,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "FOGO",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -24953,6 +25512,13 @@
           {
             "symbol": "FOLKSUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "FOLKS",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -26027,6 +26593,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GBPUSD",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -26264,6 +26837,13 @@
           {
             "symbol": "GEV_USDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GEV",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -26780,6 +27360,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GME",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -27051,6 +27638,13 @@
         "Hyperliquid": [
           {
             "symbol": "23",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GMX",
             "quote": "USDC",
             "type": "swap"
           }
@@ -27343,6 +27937,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GOOGL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -27629,6 +28230,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GRAM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -27754,6 +28362,13 @@
           {
             "symbol": "GRASSUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "GRASS",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -28432,6 +29047,17 @@
         ]
       }
     },
+    "H100": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "H100",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "H3L": {
       "listings": {
         "Gate": [
@@ -28725,6 +29351,13 @@
           {
             "symbol": "HBARUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "HBAR",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -29745,6 +30378,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "HOOD",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -30491,6 +31131,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "HYPE",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -30631,6 +31278,17 @@
         ]
       }
     },
+    "HYUNDAIUSD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "HYUNDAIUSD",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "IAG": {
       "listings": {
         "Bitget": [
@@ -30746,6 +31404,13 @@
           {
             "symbol": "IBMUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "IBM",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -30952,6 +31617,13 @@
           {
             "symbol": "ICPUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ICP",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -31852,6 +32524,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "INTC",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -32716,6 +33395,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "IWM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -33421,6 +34107,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "JTO",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -33540,6 +34233,13 @@
           {
             "symbol": "JUPUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "JUP",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -33810,6 +34510,13 @@
           {
             "symbol": "KAITOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "KAITO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -35938,6 +36645,24 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LDO",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "LDO/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "LDO/USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -36256,6 +36981,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LINEA",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -36393,6 +37125,24 @@
             "symbol": "LINKUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LINK",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "LINK/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "LINK/USDC",
+            "quote": "USDC",
+            "type": "spot"
           }
         ]
       }
@@ -36640,6 +37390,24 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LIT",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "LIT/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "LIT/USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -36704,6 +37472,13 @@
           {
             "symbol": "LITEUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LITE",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -37594,6 +38369,13 @@
           {
             "symbol": "LTCUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "LTC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -39458,6 +40240,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MEGA",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -39874,6 +40663,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MET",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -39916,6 +40712,13 @@
           {
             "symbol": "METAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "META",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -40481,6 +41284,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MINIMAX",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -40879,6 +41689,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MNT",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -41094,6 +41911,13 @@
           {
             "symbol": "MONUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MON",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -41404,6 +42228,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MORPHO",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -41712,6 +42543,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MRVL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -41805,6 +42643,13 @@
           {
             "symbol": "MSFTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MSFT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -41937,6 +42782,13 @@
           {
             "symbol": "MSTRUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MSTR",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -42175,6 +43027,13 @@
           {
             "symbol": "MUUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MU",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -42599,6 +43458,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MYX",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -42782,6 +43648,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NATGAS",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -42912,6 +43785,13 @@
           {
             "symbol": "NBISUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NBIS",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -43162,6 +44042,13 @@
           {
             "symbol": "NEARUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NEAR",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -44293,6 +45180,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NMR",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -44415,6 +45309,13 @@
           {
             "symbol": "NOKUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NOK",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -44709,6 +45610,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NOW",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -44891,6 +45799,13 @@
           {
             "symbol": "NVDAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "NVDA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -45168,6 +46083,17 @@
             "symbol": "NYM-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "NZDUSD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "NZDUSD",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -45809,6 +46735,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ONDO",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -46193,6 +47126,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "OP",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -46326,6 +47266,13 @@
           {
             "symbol": "OPENAIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "OPENAI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -46695,6 +47642,13 @@
           {
             "symbol": "ORCLUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ORCL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -47658,6 +48612,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PAXG",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -47919,6 +48880,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PENDLE",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -48047,6 +49015,13 @@
           {
             "symbol": "PENGUUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PENGU",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -49202,6 +50177,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PLTR",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -49654,6 +50636,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "POL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -49924,6 +50913,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "POPCAT",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -49981,6 +50977,13 @@
           {
             "symbol": "POPMARTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "POPMART",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -50740,6 +51743,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PROVE",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -50912,13 +51922,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -50996,6 +52006,13 @@
           {
             "symbol": "PUMPUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PUMP",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -51379,6 +52396,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PYTH",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -51583,6 +52607,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "QCOM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -51730,6 +52761,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "QNT",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -51864,6 +52902,13 @@
           {
             "symbol": "QQQUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "QQQ",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -52417,6 +53462,13 @@
           {
             "symbol": "RAILUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "RAIL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -55398,6 +56450,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "RESOLV",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -56932,6 +57991,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "RIVER",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -57282,6 +58348,13 @@
           {
             "symbol": "RKLBUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "RKLB",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -58546,6 +59619,13 @@
           {
             "symbol": "ROBOUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ROBO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -61825,6 +62905,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "S",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -62157,6 +63244,17 @@
             "symbol": "SAMSUNGG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SAMSUNGUSD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "SAMSUNGUSD",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -62908,6 +64006,13 @@
           {
             "symbol": "SEIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SEI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -63929,6 +65034,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SKHY",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -64049,6 +65161,17 @@
             "symbol": "SKHYNIXG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHYNIXUSD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "SKHYNIXUSD",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -64202,6 +65325,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SKR",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -64325,6 +65455,24 @@
             "symbol": "SKYUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SKY",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SKY/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "SKY/USDC",
+            "quote": "USDC",
+            "type": "spot"
           }
         ]
       }
@@ -64752,6 +65900,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SMIC",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -64849,6 +66004,13 @@
           {
             "symbol": "SNDKUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SNDK",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -65372,6 +66534,13 @@
           {
             "symbol": "SOLUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SOL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -65923,6 +67092,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SOXL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -66206,6 +67382,13 @@
           {
             "symbol": "SPCXUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SPCX",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -66605,6 +67788,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SPX",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -66702,6 +67892,13 @@
           {
             "symbol": "SPYUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SPY",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -67105,6 +68302,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "STABLE",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -67221,6 +68425,13 @@
           {
             "symbol": "STBLUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "STBL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -67656,6 +68867,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "STRC",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -67804,6 +69022,13 @@
           {
             "symbol": "STRKUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "STRK",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -68128,6 +69353,13 @@
           {
             "symbol": "SUIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SUI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -68983,6 +70215,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SYRUP",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -69467,6 +70706,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TAO",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -69689,6 +70935,13 @@
           {
             "symbol": "TENCENTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TENCENT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -70156,6 +71409,13 @@
           {
             "symbol": "TIAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TIA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -71463,6 +72723,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TRUMP",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -71757,6 +73024,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TRX",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -71879,6 +73153,13 @@
           {
             "symbol": "TSLAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TSLA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -72019,6 +73300,13 @@
           {
             "symbol": "TSMUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TSM",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -72185,6 +73473,13 @@
           {
             "symbol": "TTWOUSDTM",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "TTWO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -73264,6 +74559,24 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "UNI",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "UNI/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "UNI/USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -73393,6 +74706,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "UNITREE",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -73509,6 +74829,17 @@
         ]
       }
     },
+    "URA": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "URA",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "URANUS": {
       "listings": {
         "Gate": [
@@ -73597,6 +74928,17 @@
         ]
       }
     },
+    "US100": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "US100",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "US2000": {
       "listings": {
         "Gate": [
@@ -73637,6 +74979,17 @@
             "symbol": "US303S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "US500": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "US500",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -73867,6 +75220,28 @@
         ]
       }
     },
+    "USDCAD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "USDCAD",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "USDCHF": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "USDCHF",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "USDD": {
       "listings": {
         "Gate": [
@@ -74013,6 +75388,17 @@
         ]
       }
     },
+    "USDHKD": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "USDHKD",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "USDHL": {
       "listings": {
         "Hyperliquid": [
@@ -74020,6 +75406,28 @@
             "symbol": "@180",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "USDJPY": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "USDJPY",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "USDKRW": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "USDKRW",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -74229,6 +75637,13 @@
           {
             "symbol": "USELESSUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "USELESS",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -75245,6 +76660,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "VIRTUAL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -75704,6 +77126,13 @@
           {
             "symbol": "VVVUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "VVV",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -76520,6 +77949,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "WEN",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -76606,6 +78042,17 @@
           {
             "symbol": "WFC_USDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "WHEAT": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "WHEAT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -76754,6 +78201,13 @@
           {
             "symbol": "WIFUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "WIF",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -77006,6 +78460,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "WLD",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -77148,6 +78609,13 @@
           {
             "symbol": "WLFIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "WLFI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -77512,6 +78980,17 @@
         ]
       }
     },
+    "WTI": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "WTI",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "WUXIAPPTEC": {
       "listings": {
         "Gate": [
@@ -77639,6 +79118,13 @@
           {
             "symbol": "XAGUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XAG",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -77930,6 +79416,13 @@
           {
             "symbol": "XAUUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XAU",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -78286,6 +79779,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XCU",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -78581,6 +80081,13 @@
           {
             "symbol": "XIAOMIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XIAOMI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -78907,6 +80414,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XLM",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -79039,6 +80553,13 @@
           {
             "symbol": "XMRUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XMR",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -79389,6 +80910,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XPD",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -79580,6 +81108,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XPL",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -79702,6 +81237,13 @@
           {
             "symbol": "XPTUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XPT",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -79912,6 +81454,13 @@
           {
             "symbol": "XRPUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "XRP",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -82130,6 +83679,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ZEC",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -82539,6 +84095,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ZHIPU",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -82829,6 +84392,13 @@
           {
             "symbol": "ZKUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ZK",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -83181,6 +84751,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ZORA",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -83301,6 +84878,13 @@
           {
             "symbol": "ZROUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "ZRO",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

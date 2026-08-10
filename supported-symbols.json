@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:23:28.537Z",
+  "generated_at": "2026-08-10T11:53:22.013Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 1986,
+      "count": 1987,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3039,
+      "count": 3040,
       "error": null
     },
     "KuCoin": {
@@ -20401,6 +20401,24 @@
         "Gate": [
           {
             "symbol": "DORA_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DOS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DOSUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "DOS_USDT",
             "quote": "USDT",
             "type": "spot"
           }

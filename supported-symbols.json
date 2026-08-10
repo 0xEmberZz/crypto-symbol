@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:44:37.467Z",
+  "generated_at": "2026-08-10T10:23:28.537Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1039,
+      "count": 1042,
       "error": null
     },
     "Bitget": {
@@ -35605,6 +35605,13 @@
     },
     "KO": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "KO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "KOUSDT",
@@ -51932,13 +51939,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -64987,6 +64994,13 @@
     },
     "SKDD": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SKDD-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SKDDUSDT",
@@ -65358,6 +65372,13 @@
     },
     "SKUU": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SKUU-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SKUUUSDT",

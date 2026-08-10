@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:15:04.887Z",
+  "generated_at": "2026-08-10T08:44:37.467Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2249,
+      "count": 2251,
       "error": null
     },
     "Hyperliquid": {
@@ -10628,6 +10628,16 @@
             "symbol": "BICO-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "BICOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BICOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -51922,13 +51932,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

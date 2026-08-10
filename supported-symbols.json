@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:53:22.013Z",
+  "generated_at": "2026-08-10T13:23:40.955Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1042,
+      "count": 1043,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 1987,
+      "count": 1990,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 580,
+      "count": 581,
       "error": null
     },
     "Aster": {
@@ -19087,6 +19087,13 @@
     },
     "DDOG": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "DDOGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "DDOG_USDT",
@@ -20409,6 +20416,13 @@
     },
     "DOS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "DOS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "DOSUSDT",
@@ -40370,6 +40384,13 @@
     },
     "MELI": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MELIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MELI_USDT",
@@ -48363,6 +48384,17 @@
         ]
       }
     },
+    "PARA-CRWD": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180020",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-GLW": {
       "listings": {
         "Hyperliquid": [
@@ -51957,13 +51989,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -74200,6 +74232,13 @@
     },
     "UBER": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "UBERUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "UBER_USDT",

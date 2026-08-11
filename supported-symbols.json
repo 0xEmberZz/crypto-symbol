@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:57:28.440Z",
+  "generated_at": "2026-08-11T07:19:13.790Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3040,
+      "count": 3048,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 526,
+      "count": 528,
       "error": null
     },
     "Lighter": {
@@ -19320,6 +19320,28 @@
         ]
       }
     },
+    "DELL3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DELL3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "DELL3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DELL3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "DELLB": {
       "listings": {
         "Binance": [
@@ -36074,6 +36096,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "KUAISHOUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -37534,6 +37563,28 @@
             "symbol": "LITE",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "LITE3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LITE3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "LITE3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LITE3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -40316,6 +40367,13 @@
         "Gate": [
           {
             "symbol": "MEITUAN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "MEITUANUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -50303,6 +50361,28 @@
         ]
       }
     },
+    "PLTRX3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PLTRX3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "PLTRX3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PLTRX3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "PLUME": {
       "listings": {
         "Binance": [
@@ -51994,13 +52074,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52685,6 +52765,28 @@
             "symbol": "QCOM",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "QCOM3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "QCOM3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "QCOM3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "QCOM3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:53:08.491Z",
+  "generated_at": "2026-08-12T06:19:42.273Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3050,
+      "count": 3056,
       "error": null
     },
     "KuCoin": {
@@ -27006,6 +27006,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "GFS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -46682,6 +46689,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "OKTA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -48178,6 +48192,13 @@
         "Bitget": [
           {
             "symbol": "OUSTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "OUST_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -67588,6 +67609,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "SPCH_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -68382,6 +68410,13 @@
         "Bitget": [
           {
             "symbol": "SSPCUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SSPC_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -77215,6 +77250,13 @@
         "Bitget": [
           {
             "symbol": "VSTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "VST_USDT",
             "quote": "USDT",
             "type": "swap"
           }

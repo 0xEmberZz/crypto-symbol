@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-12T11:53:23.683Z",
+  "generated_at": "2026-08-12T13:24:04.259Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 763,
+      "count": 764,
       "error": null
     },
     "Bybit": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 581,
+      "count": 582,
       "error": null
     },
     "Aster": {
@@ -27486,6 +27486,17 @@
         ]
       }
     },
+    "GMEB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "GMEBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "GMEE": {
       "listings": {
         "Gate": [
@@ -48456,6 +48467,17 @@
             "symbol": "PAPARAZZI_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PARA-10Y": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180015",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }

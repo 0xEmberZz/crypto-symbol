@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:28:48.483Z",
+  "generated_at": "2026-08-12T04:53:08.491Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3049,
+      "count": 3050,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2252,
+      "count": 2254,
       "error": null
     },
     "Hyperliquid": {
@@ -17984,6 +17984,28 @@
         ]
       }
     },
+    "CSOPSAMSUNG2L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CSOPSAMSUNG2L_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CSOPSKHYNIX2L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CSOPSKHYNIX2L_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CSPR": {
       "listings": {
         "Bybit": [
@@ -20474,6 +20496,16 @@
             "symbol": "DOS-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "DOSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "DOSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -52100,13 +52132,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -70155,13 +70187,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
+            "symbol": "SWELLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
+            "symbol": "SWELLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -76259,11 +76291,6 @@
             "symbol": "VANRY_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VANRY_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [

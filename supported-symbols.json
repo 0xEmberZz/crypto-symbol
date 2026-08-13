@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:57:45.450Z",
+  "generated_at": "2026-08-13T06:21:15.129Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1048,
+      "count": 1049,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3063,
+      "count": 3053,
       "error": null
     },
     "KuCoin": {
@@ -9870,17 +9870,6 @@
         ]
       }
     },
-    "BCH3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BCH3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BCH3S": {
       "listings": {
         "Gate": [
@@ -10152,17 +10141,6 @@
             "symbol": "BEATUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "BEAT3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BEAT3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -16371,17 +16349,6 @@
         "Gate": [
           {
             "symbol": "COAI3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "COAI3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "COAI3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -24164,17 +24131,6 @@
         ]
       }
     },
-    "FARTCOIN5L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "FARTCOIN5L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "FARTCOIN5S": {
       "listings": {
         "Gate": [
@@ -31794,17 +31750,6 @@
         "Gate": [
           {
             "symbol": "ICP3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ICP3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ICP3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -47009,17 +46954,6 @@
         ]
       }
     },
-    "ONDO3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ONDO3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ONDS": {
       "listings": {
         "OKX": [
@@ -50173,17 +50107,6 @@
         "Gate": [
           {
             "symbol": "PIPPIN3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PIPPIN3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "PIPPIN3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -64635,17 +64558,6 @@
         ]
       }
     },
-    "SEI3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "SEI3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "SEI3S": {
       "listings": {
         "Gate": [
@@ -66171,17 +66083,6 @@
         "Gate": [
           {
             "symbol": "SKYAI3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "SKYAI3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "SKYAI3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -74790,17 +74691,6 @@
         ]
       }
     },
-    "UB3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "UB3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "UBER": {
       "listings": {
         "Bitget": [
@@ -79723,6 +79613,17 @@
         "KuCoin": [
           {
             "symbol": "X-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XAAOI": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAAOI-USDT",
             "quote": "USDT",
             "type": "spot"
           }

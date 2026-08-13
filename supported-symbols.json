@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:03:50.114Z",
+  "generated_at": "2026-08-13T16:03:56.586Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 212,
+      "count": 217,
       "error": null
     }
   },
@@ -8260,6 +8260,13 @@
           {
             "symbol": "AXTIUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "AXTI",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -35362,6 +35369,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "KIOXIA",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -35951,6 +35965,13 @@
           {
             "symbol": "KORUUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "KORU",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -52270,13 +52291,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -67865,6 +67886,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SOXS",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -78533,6 +78561,13 @@
           {
             "symbol": "WDCUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "WDC",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

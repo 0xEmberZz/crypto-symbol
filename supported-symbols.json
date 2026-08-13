@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T08:26:01.347Z",
+  "generated_at": "2026-08-13T10:15:00.234Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1053,
+      "count": 1058,
       "error": null
     },
     "Bitget": {
@@ -20514,6 +20514,16 @@
       "listings": {
         "OKX": [
           {
+            "symbol": "DOS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "DOS-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "DOS-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -24326,13 +24336,13 @@
         ],
         "Bitget": [
           {
-            "symbol": "FETUSDC",
-            "quote": "USDC",
+            "symbol": "FETUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "FETUSDT",
-            "quote": "USDT",
+            "symbol": "FETUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -31710,13 +31720,13 @@
         ],
         "Bitget": [
           {
-            "symbol": "ICPUSDC",
-            "quote": "USDC",
+            "symbol": "ICPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "ICPUSDT",
-            "quote": "USDT",
+            "symbol": "ICPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -56639,13 +56649,13 @@
         ],
         "Bitget": [
           {
-            "symbol": "RENDERUSDC",
-            "quote": "USDC",
+            "symbol": "RENDERUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "RENDERUSDT",
-            "quote": "USDT",
+            "symbol": "RENDERUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -75938,13 +75948,13 @@
         ],
         "Bitget": [
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -80297,6 +80307,17 @@
         ]
       }
     },
+    "XBE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XBE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XBI": {
       "listings": {
         "OKX": [
@@ -80431,6 +80452,17 @@
         "OKX": [
           {
             "symbol": "XCRWD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XCRWV": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCRWV-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -82032,6 +82064,17 @@
         "Gate": [
           {
             "symbol": "ORT_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XRKLB": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XRKLB-USDT",
             "quote": "USDT",
             "type": "spot"
           }

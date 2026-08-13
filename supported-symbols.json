@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:30:23.859Z",
+  "generated_at": "2026-08-13T04:57:45.450Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3056,
+      "count": 3063,
       "error": null
     },
     "KuCoin": {
@@ -10783,6 +10783,17 @@
         ]
       }
     },
+    "BIIB": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BIIB_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BILL": {
       "listings": {
         "Bybit": [
@@ -15885,6 +15896,17 @@
         ]
       }
     },
+    "CIFR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CIFR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CINDY": {
       "listings": {
         "Hyperliquid": [
@@ -16222,6 +16244,17 @@
         "Gate": [
           {
             "symbol": "CLS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CLSK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CLSK_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -41876,6 +41909,17 @@
         ]
       }
     },
+    "MO": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MOB": {
       "listings": {
         "Gate": [
@@ -44626,6 +44670,13 @@
         "OKX": [
           {
             "symbol": "NET-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "NET_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -52172,13 +52223,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -56432,6 +56483,17 @@
             "symbol": "REFAUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "REGN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "REGN_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -77509,6 +77571,17 @@
           },
           {
             "symbol": "VRTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "VRTX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VRTX_USDT",
             "quote": "USDT",
             "type": "swap"
           }

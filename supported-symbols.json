@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:25:50.244Z",
+  "generated_at": "2026-08-13T15:03:50.114Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3063,
+      "count": 3068,
       "error": null
     },
     "KuCoin": {
@@ -29394,6 +29394,17 @@
         ]
       }
     },
+    "HANMI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HANMI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HAPPY": {
       "listings": {
         "Hyperliquid": [
@@ -35799,6 +35810,17 @@
         ]
       }
     },
+    "KODEX200": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KODEX200_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KOG": {
       "listings": {
         "Gate": [
@@ -36935,6 +36957,17 @@
             "symbol": "LF_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "LGELECTRONICS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LGELECTRONICS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -43919,6 +43952,17 @@
         "Gate": [
           {
             "symbol": "NAURA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "NAVER": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "NAVER_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -84903,6 +84947,17 @@
         "Gate": [
           {
             "symbol": "ZHIPUHKD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "ZHONGJI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZHONGJI_USDT",
             "quote": "USDT",
             "type": "swap"
           }

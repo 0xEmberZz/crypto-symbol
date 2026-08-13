@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:15:00.234Z",
+  "generated_at": "2026-08-13T11:53:25.101Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2018,
+      "count": 2019,
       "error": null
     },
     "Gate": {
@@ -4464,6 +4464,13 @@
     },
     "ANET": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "ANETUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ANET_USDT",

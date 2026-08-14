@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:54:17.286Z",
+  "generated_at": "2026-08-14T06:19:11.511Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1058,
+      "count": 1059,
       "error": null
     },
     "Bitget": {
@@ -80497,6 +80497,17 @@
             "symbol": "XCNUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XCOHR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCOHR-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:50:26.586Z",
+  "generated_at": "2026-08-14T13:20:46.079Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2022,
+      "count": 2023,
       "error": null
     },
     "Gate": {
@@ -29,12 +29,12 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2226,
+      "count": 2227,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 582,
+      "count": 583,
       "error": null
     },
     "Aster": {
@@ -35229,6 +35229,24 @@
         ]
       }
     },
+    "KII": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KIIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "KII-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "KILO": {
       "listings": {
         "Gate": [
@@ -48624,6 +48642,17 @@
         "Hyperliquid": [
           {
             "symbol": "180018",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-SMCI": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180024",
             "quote": "USDC",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:21:35.546Z",
+  "generated_at": "2026-08-14T10:10:58.132Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1062,
+      "count": 1063,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2019,
+      "count": 2022,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3068,
+      "count": 3069,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2225,
+      "count": 2226,
       "error": null
     },
     "Hyperliquid": {
@@ -1702,13 +1702,6 @@
     "ACM": {
       "listings": {
         "Binance": [
-          {
-            "symbol": "ACMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
           {
             "symbol": "ACMUSDT",
             "quote": "USDT",
@@ -5848,13 +5841,6 @@
           {
             "symbol": "ARG-USDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "ARGUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -21246,11 +21232,6 @@
           {
             "symbol": "DYMUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "DYMUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -21891,13 +21872,6 @@
     },
     "ELA": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "ELAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ELA_USDT",
@@ -27053,6 +27027,13 @@
     },
     "GHO": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "GHOUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "GHO_USDT",
@@ -29353,6 +29334,13 @@
     },
     "HANMI": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "HANMIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "HANMI_USDT",
@@ -35969,6 +35957,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "KR200USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "KR200_USDT",
@@ -36912,6 +36907,13 @@
     },
     "LGELECTRONICS": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "LGELECTRONICSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "LGELECTRONICS_USDT",
@@ -37013,13 +37015,6 @@
         "Gate": [
           {
             "symbol": "LIKE_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "LIKE-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -43876,6 +43871,13 @@
     },
     "NAVER": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "NAVERUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "NAVER_USDT",
@@ -50062,6 +50064,13 @@
     },
     "PIPEDOG": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "PIPEDOG_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "PIPEDOG-USDT",
@@ -52163,13 +52172,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -63785,6 +63794,13 @@
     },
     "SAMSUNGEM": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SAMSUNGEMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SAMSUNGEM_USDT",
@@ -79956,6 +79972,17 @@
         ]
       }
     },
+    "XAPP": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAPP-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XARM": {
       "listings": {
         "OKX": [
@@ -82227,11 +82254,33 @@
         ]
       }
     },
+    "XSHAZ": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XSHAZ-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XSKHY": {
       "listings": {
         "OKX": [
           {
             "symbol": "XSKHY-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XSMCI": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XSMCI-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -82342,22 +82391,6 @@
           {
             "symbol": "XTER-USDT",
             "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "XTESTA": {
-      "listings": {
-        "OKX": [
-          {
-            "symbol": "XTESTA-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "XTESTA-USDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -84858,9 +84891,28 @@
     },
     "ZHONGJI": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "ZHONGJIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ZHONGJI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ZHONGJIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ZHONGJIUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

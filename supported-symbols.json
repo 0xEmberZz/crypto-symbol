@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:26:33.755Z",
+  "generated_at": "2026-08-15T18:38:18.866Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 531,
+      "count": 532,
       "error": null
     },
     "Lighter": {
@@ -85913,6 +85913,17 @@
         "Aster": [
           {
             "symbol": "我踏马来了USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "牛来": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "牛来USDT",
             "quote": "USDT",
             "type": "swap"
           }

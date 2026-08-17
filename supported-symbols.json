@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:06:24.059Z",
+  "generated_at": "2026-08-17T03:57:45.040Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2022,
+      "count": 2023,
       "error": null
     },
     "Gate": {
@@ -36858,6 +36858,17 @@
         "Gate": [
           {
             "symbol": "LENOVO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "LENOVOHKD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "LENOVOHKDUSDT",
             "quote": "USDT",
             "type": "swap"
           }

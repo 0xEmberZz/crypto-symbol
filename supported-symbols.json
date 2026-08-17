@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T01:44:04.196Z",
+  "generated_at": "2026-08-17T03:06:24.059Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 762,
+      "count": 755,
       "error": null
     },
     "Bybit": {
@@ -1964,13 +1964,6 @@
     },
     "ACX": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "ACXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ACXUSDT",
@@ -29751,13 +29744,6 @@
     },
     "HFT": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "HFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bybit": [
           {
             "symbol": "HFTUSDT",
@@ -50209,17 +50195,6 @@
         ]
       }
     },
-    "PIVX": {
-      "listings": {
-        "Binance": [
-          {
-            "symbol": "PIVXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PIX": {
       "listings": {
         "KuCoin": [
@@ -52201,13 +52176,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -52555,13 +52530,6 @@
     },
     "PYR": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "PYRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PYR_USDT",
@@ -76606,18 +76574,6 @@
     },
     "VANRY": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "VANRYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "VANRYUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Bybit": [
           {
             "symbol": "VANRYUSDT",
@@ -77061,13 +77017,6 @@
     },
     "VIC": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "VICUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bybit": [
           {
             "symbol": "VICUSDT",

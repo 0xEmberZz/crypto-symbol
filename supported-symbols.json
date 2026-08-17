@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:07:37.079Z",
+  "generated_at": "2026-08-17T08:51:48.834Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1063,
+      "count": 1060,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2023,
+      "count": 2024,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3069,
+      "count": 3068,
       "error": null
     },
     "KuCoin": {
@@ -18560,6 +18560,13 @@
     },
     "CXMT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CXMTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CXMT_USDT",
@@ -20957,13 +20964,6 @@
     },
     "DUCK": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "DUCK-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DUCK_USDT",
@@ -27930,13 +27930,6 @@
         "Bybit": [
           {
             "symbol": "GODSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "OKX": [
-          {
-            "symbol": "GODS-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -51526,13 +51519,6 @@
         "Bybit": [
           {
             "symbol": "PRCLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "OKX": [
-          {
-            "symbol": "PRCL-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -85045,17 +85031,6 @@
             "symbol": "ZIX_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "ZJINNOLIGHT": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ZJINNOLIGHT_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

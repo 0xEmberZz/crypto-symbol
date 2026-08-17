@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:51:48.834Z",
+  "generated_at": "2026-08-17T09:50:08.213Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1060,
+      "count": 1063,
       "error": null
     },
     "Bitget": {
@@ -39022,6 +39022,13 @@
     },
     "LYTE": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "LYTE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "LYTEUSDT",
@@ -42277,6 +42284,13 @@
     },
     "MOONSHOT": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MOONSHOT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MOONSHOTUSDT",
@@ -48220,6 +48234,13 @@
     },
     "OUST": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "OUST-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "OUSTUSDT",
@@ -52173,13 +52194,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

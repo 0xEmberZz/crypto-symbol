@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:51:01.629Z",
+  "generated_at": "2026-08-17T05:39:59.812Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -52187,13 +52187,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

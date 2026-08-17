@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:38:10.506Z",
+  "generated_at": "2026-08-17T11:31:49.609Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2024,
+      "count": 2027,
       "error": null
     },
     "Gate": {
@@ -26731,6 +26731,13 @@
     },
     "GDX": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "GDXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "GDX_USDT",
@@ -39029,6 +39036,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "LYTEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "LYTEUSDT",
@@ -44664,6 +44678,13 @@
         "OKX": [
           {
             "symbol": "NET-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "NETUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -52194,13 +52215,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

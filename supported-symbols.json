@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:01:55.089Z",
+  "generated_at": "2026-08-18T03:50:05.467Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3068,
+      "count": 3070,
       "error": null
     },
     "KuCoin": {
@@ -52215,13 +52215,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -64999,6 +64999,17 @@
         "Aster": [
           {
             "symbol": "SHELLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SHENHUA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SHENHUA_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -83798,6 +83809,17 @@
             "symbol": "Y8U_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "YANGTZE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "YANGTZE_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

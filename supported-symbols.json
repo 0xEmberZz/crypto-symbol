@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:54:24.052Z",
+  "generated_at": "2026-08-18T07:44:12.944Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1064,
+      "count": 1066,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2027,
+      "count": 2026,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3078,
+      "count": 3082,
       "error": null
     },
     "KuCoin": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 583,
+      "count": 584,
       "error": null
     },
     "Aster": {
@@ -8242,6 +8242,28 @@
             "symbol": "AXTI",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "AXTI3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AXTI3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "AXTI3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AXTI3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -76726,13 +76748,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "VANRYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "VANRY_USDT",
@@ -78525,6 +78540,28 @@
         ]
       }
     },
+    "WDC3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WDC3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "WDC3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WDC3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "WDCB": {
       "listings": {
         "Binance": [
@@ -80219,6 +80256,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "Hyperliquid": [
+          {
+            "symbol": "@715",
+            "quote": "USDC",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -80397,6 +80441,17 @@
         "OKX": [
           {
             "symbol": "XBMNR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XBOT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XBOT-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -82404,6 +82459,17 @@
         "OKX": [
           {
             "symbol": "XSNDK-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XSNOW": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XSNOW-USDT",
             "quote": "USDT",
             "type": "spot"
           }

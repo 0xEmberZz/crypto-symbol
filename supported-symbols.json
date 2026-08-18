@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:39:40.753Z",
+  "generated_at": "2026-08-18T03:01:55.089Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -70551,13 +70551,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
+            "symbol": "SWELLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
+            "symbol": "SWELLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

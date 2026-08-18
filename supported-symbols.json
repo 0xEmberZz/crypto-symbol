@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:50:05.467Z",
+  "generated_at": "2026-08-18T04:41:33.960Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3070,
+      "count": 3078,
       "error": null
     },
     "KuCoin": {
@@ -10210,6 +10210,17 @@
         ]
       }
     },
+    "BEIGENE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BEIGENE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BEL": {
       "listings": {
         "Binance": [
@@ -11041,6 +11052,17 @@
         "Gate": [
           {
             "symbol": "BITO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "BIWIN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BIWIN_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -19423,6 +19445,17 @@
             "symbol": "DELLG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "DEMINGLI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DEMINGLI_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -29720,6 +29753,17 @@
         ]
       }
     },
+    "HENGRUI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HENGRUI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HERO": {
       "listings": {
         "Gate": [
@@ -31122,6 +31166,17 @@
             "symbol": "@127",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HYGON": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HYGON_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -41308,6 +41363,17 @@
         ]
       }
     },
+    "MIDEA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MIDEA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MILADYCULT": {
       "listings": {
         "Gate": [
@@ -42444,6 +42510,17 @@
           {
             "symbol": "MORPHO",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MOUTAI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MOUTAI_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -71119,6 +71196,17 @@
             "symbol": "TAI-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TAIJI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TAIJI_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

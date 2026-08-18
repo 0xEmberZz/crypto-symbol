@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:39:50.185Z",
+  "generated_at": "2026-08-18T15:37:59.515Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2227,
+      "count": 2229,
       "error": null
     },
     "Hyperliquid": {
@@ -17352,6 +17352,13 @@
             "symbol": "CRCLX_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "CRCLX-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -74197,6 +74204,13 @@
             "symbol": "TSLAX_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TSLAX-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ],
         "Hyperliquid": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:35:30.345Z",
+  "generated_at": "2026-08-18T06:54:24.052Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1063,
+      "count": 1064,
       "error": null
     },
     "Bitget": {
@@ -18582,6 +18582,13 @@
     },
     "CXMT": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CXMT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CXMTUSDT",

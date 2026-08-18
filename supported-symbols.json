@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:45:28.214Z",
+  "generated_at": "2026-08-18T09:39:27.482Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1068,
+      "count": 1070,
       "error": null
     },
     "Bitget": {
@@ -80573,6 +80573,17 @@
         ]
       }
     },
+    "XCRM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCRM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XCRWD": {
       "listings": {
         "OKX": [
@@ -80915,6 +80926,17 @@
         "OKX": [
           {
             "symbol": "XHOOD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XHPE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XHPE-USDT",
             "quote": "USDT",
             "type": "spot"
           }

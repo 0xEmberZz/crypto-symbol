@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:44:12.944Z",
+  "generated_at": "2026-08-18T08:45:28.214Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1066,
+      "count": 1068,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3082,
+      "count": 3083,
       "error": null
     },
     "KuCoin": {
@@ -80765,6 +80765,17 @@
         ]
       }
     },
+    "XDKNG": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XDKNG-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XEC": {
       "listings": {
         "Binance": [
@@ -81583,6 +81594,17 @@
         "KuCoin": [
           {
             "symbol": "XNO-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XNOW": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XNOW-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -86070,6 +86092,13 @@
     },
     "牛来": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "牛来_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "牛来USDT",

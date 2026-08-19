@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:36:15.311Z",
+  "generated_at": "2026-08-19T06:54:40.159Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1071,
+      "count": 1073,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2043,
+      "count": 2044,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3074,
+      "count": 3083,
       "error": null
     },
     "KuCoin": {
@@ -1525,6 +1525,17 @@
             "symbol": "ACA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ACCELINK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ACCELINK_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -15893,6 +15904,17 @@
         "Gate": [
           {
             "symbol": "CIFR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CIG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CIG_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -30979,6 +31001,17 @@
         ]
       }
     },
+    "HUAGONGTECH": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HUAGONGTECH_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HUMA": {
       "listings": {
         "Binance": [
@@ -34210,6 +34243,17 @@
             "symbol": "JUC_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "JUNZHENG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "JUNZHENG_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -52226,13 +52270,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -52494,6 +52538,17 @@
             "symbol": "PUSH-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PUYA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PUYA_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -72745,6 +72800,17 @@
         ]
       }
     },
+    "TONGGUAN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TONGGUAN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TOSHI": {
       "listings": {
         "Bybit": [
@@ -75593,6 +75659,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "UNITREEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "UNITREE_USDT",
@@ -78309,6 +78382,17 @@
             "symbol": "WAN-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "WANGSU": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "WANGSU_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -81179,6 +81263,17 @@
         ]
       }
     },
+    "XIECHUANG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "XIECHUANG_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XINTC": {
       "listings": {
         "OKX": [
@@ -82240,6 +82335,17 @@
         ]
       }
     },
+    "XPOPMART": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XPOPMART-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XPR": {
       "listings": {
         "Gate": [
@@ -83063,6 +83169,17 @@
             "symbol": "XVSUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XXIAOMI": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XXIAOMI-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -84569,6 +84686,17 @@
             "symbol": "YOM-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "YONGDING": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "YONGDING_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:43:05.485Z",
+  "generated_at": "2026-08-19T05:36:15.311Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1070,
+      "count": 1071,
       "error": null
     },
     "Bitget": {
@@ -52226,13 +52226,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -70845,13 +70845,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
+            "symbol": "SWELLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
+            "symbol": "SWELLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -75586,6 +75586,13 @@
     },
     "UNITREE": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "UNITREE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "UNITREE_USDT",

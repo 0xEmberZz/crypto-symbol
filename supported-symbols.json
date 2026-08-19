@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:40:25.767Z",
+  "generated_at": "2026-08-19T15:37:45.256Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3083,
+      "count": 3084,
       "error": null
     },
     "KuCoin": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 532,
+      "count": 533,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 217,
+      "count": 218,
       "error": null
     }
   },
@@ -42782,6 +42782,24 @@
         ]
       }
     },
+    "MRNA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MRNA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "MRNAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MRVL": {
       "listings": {
         "OKX": [
@@ -76020,6 +76038,17 @@
         "Lighter": [
           {
             "symbol": "US100",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "US10Y": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "US10Y",
             "quote": "USDC",
             "type": "swap"
           }

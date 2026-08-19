@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:44:13.642Z",
+  "generated_at": "2026-08-19T08:45:45.423Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,17 +9,17 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 470,
+      "count": 469,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 1075,
+      "count": 1077,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2044,
+      "count": 2046,
       "error": null
     },
     "Gate": {
@@ -52270,13 +52270,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -57150,6 +57150,17 @@
         "Bitget": [
           {
             "symbol": "REXODUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "REXPD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "REXPDUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -62243,6 +62254,17 @@
         "Bitget": [
           {
             "symbol": "RSUNBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RSW": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RSWUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -76993,17 +77015,6 @@
         ]
       }
     },
-    "VANRY": {
-      "listings": {
-        "Bybit": [
-          {
-            "symbol": "VANRYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "VAPOR": {
       "listings": {
         "Hyperliquid": [
@@ -81597,6 +81608,17 @@
         ]
       }
     },
+    "XLRCX": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XLRCX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XLU": {
       "listings": {
         "Bitget": [
@@ -82940,6 +82962,17 @@
         "Gate": [
           {
             "symbol": "XTTA_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XTTWO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTTWO-USDT",
             "quote": "USDT",
             "type": "spot"
           }

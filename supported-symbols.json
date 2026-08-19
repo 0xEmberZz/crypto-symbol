@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:58:47.450Z",
+  "generated_at": "2026-08-19T13:49:28.654Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 590,
+      "count": 591,
       "error": null
     },
     "Aster": {
@@ -83981,6 +83981,17 @@
         "Hyperliquid": [
           {
             "symbol": "110079",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-MRNA": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110114",
             "quote": "USDC",
             "type": "swap"
           }

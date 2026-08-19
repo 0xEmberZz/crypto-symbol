@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:39:47.277Z",
+  "generated_at": "2026-08-19T10:35:11.574Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2046,
+      "count": 2047,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2238,
+      "count": 2239,
       "error": null
     },
     "Hyperliquid": {
@@ -70888,6 +70888,24 @@
           {
             "symbol": "@242",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SWARM": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SWARMUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SWARM-USDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]

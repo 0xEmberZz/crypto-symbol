@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:31:25.720Z",
+  "generated_at": "2026-08-19T20:35:17.365Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 218,
+      "count": 219,
       "error": null
     }
   },
@@ -42795,6 +42795,13 @@
           {
             "symbol": "MRNAUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "MRNA",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

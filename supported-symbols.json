@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:35:11.574Z",
+  "generated_at": "2026-08-19T11:31:16.814Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2047,
+      "count": 2046,
       "error": null
     },
     "Gate": {
@@ -70895,13 +70895,6 @@
     },
     "SWARM": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "SWARMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "SWARM-USDT",

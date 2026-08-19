@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:45:45.423Z",
+  "generated_at": "2026-08-19T09:39:47.277Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1077,
+      "count": 1079,
       "error": null
     },
     "Bitget": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2229,
+      "count": 2238,
       "error": null
     },
     "Hyperliquid": {
@@ -29347,6 +29347,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "HANMIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "HANMIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -35752,6 +35764,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "KOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "KOUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -39061,6 +39085,18 @@
         "Bitget": [
           {
             "symbol": "LYTEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "LYTEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "LYTEUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -45381,6 +45417,17 @@
             "symbol": "NIOUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "NIULAI": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "NIULAI-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -52270,13 +52317,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -64148,6 +64195,18 @@
         "Gate": [
           {
             "symbol": "SAMSUNGEM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "SAMSUNGEMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SAMSUNGEMUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -80761,6 +80820,17 @@
         ]
       }
     },
+    "XCIEN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCIEN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XCN": {
       "listings": {
         "Gate": [
@@ -82529,6 +82599,17 @@
         "KuCoin": [
           {
             "symbol": "XRD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XRDDT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XRDDT-USDT",
             "quote": "USDT",
             "type": "spot"
           }

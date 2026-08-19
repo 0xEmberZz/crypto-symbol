@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:53:05.670Z",
+  "generated_at": "2026-08-19T04:43:05.485Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2047,
+      "count": 2043,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3064,
+      "count": 3074,
       "error": null
     },
     "KuCoin": {
@@ -9329,13 +9329,6 @@
     },
     "BAS": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "BASUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "BAS_USDT",
@@ -43268,6 +43261,28 @@
         ]
       }
     },
+    "MU5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MU5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "MU5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MU5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "MUB": {
       "listings": {
         "Binance": [
@@ -52211,13 +52226,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -65972,6 +65987,28 @@
         ]
       }
     },
+    "SKHYNIX5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYNIX5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SKHYNIX5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SKHYNIX5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SKHYNIXG": {
       "listings": {
         "Gate": [
@@ -66857,6 +66894,28 @@
         "Gate": [
           {
             "symbol": "SNDK3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SNDK5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SNDK5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SNDK5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SNDK5S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -68246,6 +68305,28 @@
         ]
       }
     },
+    "SPCX5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPCX5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SPCX5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SPCX5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SPCXB": {
       "listings": {
         "Binance": [
@@ -69215,13 +69296,6 @@
     },
     "STBL": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "STBLUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "STBL_USDT",
@@ -71215,11 +71289,6 @@
             "symbol": "TACUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "TACUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -73019,11 +73088,6 @@
             "symbol": "TRADOORUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "TRADOORUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -75541,6 +75605,28 @@
             "symbol": "UNITREE",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "UNITREE3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UNITREE3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "UNITREE3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "UNITREE3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

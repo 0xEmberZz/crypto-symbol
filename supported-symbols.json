@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:49:40.662Z",
+  "generated_at": "2026-08-20T19:36:19.897Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2050,
+      "count": 2051,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3084,
+      "count": 3085,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2239,
+      "count": 2240,
       "error": null
     },
     "Hyperliquid": {
@@ -3741,6 +3741,31 @@
             "symbol": "ALICEUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ALIGN": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "ALIGNUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ALIGN_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "ALIGN-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

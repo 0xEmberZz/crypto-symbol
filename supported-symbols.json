@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T16:41:21.578Z",
+  "generated_at": "2026-08-20T17:35:47.466Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 219,
+      "count": 222,
       "error": null
     }
   },
@@ -58151,6 +58151,28 @@
         ]
       }
     },
+    "RHQQQ/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "rhQQQ/USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RHSPY/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "rhSPY/USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RHSY": {
       "listings": {
         "Bitget": [
@@ -80744,6 +80766,17 @@
           {
             "symbol": "@209",
             "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XAUT/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "XAUT/USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

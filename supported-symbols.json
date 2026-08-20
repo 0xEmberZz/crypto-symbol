@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:47:32.974Z",
+  "generated_at": "2026-08-20T08:48:37.879Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1083,
+      "count": 1085,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2046,
+      "count": 2049,
       "error": null
     },
     "Gate": {
@@ -42762,6 +42762,13 @@
     },
     "MRK": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MRKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MRK_USDT",
@@ -42784,6 +42791,13 @@
     },
     "MRNA": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MRNAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MRNA_USDT",
@@ -52342,13 +52356,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -71981,6 +71995,17 @@
         ]
       }
     },
+    "TEM": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TEMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TENCENT": {
       "listings": {
         "Bitget": [
@@ -81457,6 +81482,17 @@
         ]
       }
     },
+    "XISRG": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XISRG-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XIWM": {
       "listings": {
         "OKX": [
@@ -82690,6 +82726,17 @@
         "Gate": [
           {
             "symbol": "ORT_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XRIVN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XRIVN-USDT",
             "quote": "USDT",
             "type": "spot"
           }

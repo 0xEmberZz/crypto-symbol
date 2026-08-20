@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:48:37.879Z",
+  "generated_at": "2026-08-20T09:41:23.411Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1085,
+      "count": 1087,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2049,
+      "count": 2050,
       "error": null
     },
     "Gate": {
@@ -52356,13 +52356,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -70934,6 +70934,13 @@
     },
     "SWARM": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SWARMUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "SWARM-USDT",
@@ -82143,6 +82150,17 @@
         ]
       }
     },
+    "XOKTA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XOKTA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XOM": {
       "listings": {
         "Bitget": [
@@ -83432,6 +83450,17 @@
             "symbol": "XVSUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XWDC": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XWDC-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

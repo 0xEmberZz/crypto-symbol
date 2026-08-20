@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:55:53.961Z",
+  "generated_at": "2026-08-20T07:47:32.974Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1081,
+      "count": 1083,
       "error": null
     },
     "Bitget": {
@@ -80478,6 +80478,17 @@
         ]
       }
     },
+    "XAPLD": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAPLD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAPP": {
       "listings": {
         "OKX": [
@@ -83246,6 +83257,17 @@
             "symbol": "XUNCE_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XUNH": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XUNH-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

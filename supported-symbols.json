@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:57:18.296Z",
+  "generated_at": "2026-08-21T07:49:13.771Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1089,
+      "count": 1091,
       "error": null
     },
     "Bitget": {
@@ -70990,13 +70990,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
+            "symbol": "SWELLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
+            "symbol": "SWELLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -81479,6 +81479,28 @@
         "OKX": [
           {
             "symbol": "XIWM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XJNJ": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XJNJ-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XKLAC": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XKLAC-USDT",
             "quote": "USDT",
             "type": "spot"
           }

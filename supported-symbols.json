@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:37:58.549Z",
+  "generated_at": "2026-08-21T06:57:18.296Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1087,
+      "count": 1089,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3085,
+      "count": 3077,
       "error": null
     },
     "KuCoin": {
@@ -5815,17 +5815,6 @@
         ]
       }
     },
-    "ARC3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ARC3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ARCH": {
       "listings": {
         "Gate": [
@@ -10173,17 +10162,6 @@
         ]
       }
     },
-    "BEAT3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BEAT3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "BEAT3S": {
       "listings": {
         "Gate": [
@@ -12116,17 +12094,6 @@
         "Gate": [
           {
             "symbol": "BOME3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "BOME3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "BOME3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -23380,17 +23347,6 @@
         ]
       }
     },
-    "ETHFI3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ETHFI3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "ETHW": {
       "listings": {
         "Bybit": [
@@ -26508,17 +26464,6 @@
             "symbol": "GALAUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "GALA3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "GALA3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -36474,17 +36419,6 @@
             "symbol": "LABUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "LAB3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "LAB3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }
@@ -48271,17 +48205,6 @@
         "Gate": [
           {
             "symbol": "ORDI3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ORDI3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ORDI3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -71067,13 +70990,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
+            "symbol": "SWELLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SWELLUSDT",
-            "quote": "USDT",
+            "symbol": "SWELLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -81339,6 +81262,17 @@
         ]
       }
     },
+    "XGLW": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XGLW-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XGME": {
       "listings": {
         "OKX": [
@@ -82715,6 +82649,17 @@
         "Gate": [
           {
             "symbol": "XPT3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XQCOM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XQCOM-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -85375,17 +85320,6 @@
         "Gate": [
           {
             "symbol": "ZEC3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ZEC3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ZEC3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }

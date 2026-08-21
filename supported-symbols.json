@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:43:32.066Z",
+  "generated_at": "2026-08-21T10:36:26.477Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2051,
+      "count": 2046,
       "error": null
     },
     "Gate": {
@@ -1975,13 +1975,6 @@
     },
     "ACX": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "ACXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ACX_USDT",
@@ -29797,13 +29790,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "HFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "HFT_USDT",
@@ -51573,13 +51559,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "PORTOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PORTO_USDT",
@@ -52366,13 +52345,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -64111,11 +64090,6 @@
           {
             "symbol": "SAHARAUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "SAHARAUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -75039,13 +75013,6 @@
     },
     "TX": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "TXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TX_USDT",

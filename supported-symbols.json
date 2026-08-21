@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:49:18.803Z",
+  "generated_at": "2026-08-21T09:43:32.066Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1093,
+      "count": 1095,
       "error": null
     },
     "Bitget": {
@@ -42792,6 +42792,13 @@
     },
     "MRNA": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MRNA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MRNAUSDT",
@@ -52359,13 +52366,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52570,6 +52577,13 @@
     },
     "PURR": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "PURR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PURR_USDT",

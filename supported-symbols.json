@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-21T01:45:12.955Z",
+  "generated_at": "2026-08-21T03:09:32.981Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 755,
+      "count": 750,
       "error": null
     },
     "Bybit": {
@@ -23961,11 +23961,6 @@
             "symbol": "FUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "FUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bybit": [
@@ -30007,11 +30002,6 @@
             "symbol": "HIVEUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "HIVEUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bitget": [
@@ -32118,11 +32108,6 @@
           {
             "symbol": "ILVUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "ILVUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -45542,11 +45527,6 @@
           {
             "symbol": "NMRUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "NMRUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -69587,11 +69567,6 @@
           {
             "symbol": "STEEMUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "STEEMUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],

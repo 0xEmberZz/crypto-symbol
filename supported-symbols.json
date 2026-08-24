@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:43:23.514Z",
+  "generated_at": "2026-08-24T07:10:54.428Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2045,
+      "count": 2044,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3081,
+      "count": 3082,
       "error": null
     },
     "KuCoin": {
@@ -13451,6 +13451,11 @@
           }
         ],
         "Gate": [
+          {
+            "symbol": "BTW_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "BTW_USDT",
             "quote": "USDT",
@@ -43189,17 +43194,6 @@
         ]
       }
     },
-    "MSTU": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "MSTUUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "MTL": {
       "listings": {
         "Binance": [
@@ -52356,13 +52350,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

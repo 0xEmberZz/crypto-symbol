@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:35:17.683Z",
+  "generated_at": "2026-08-24T13:03:03.437Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2048,
+      "count": 2049,
       "error": null
     },
     "Gate": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 591,
+      "count": 592,
       "error": null
     },
     "Aster": {
@@ -48847,6 +48847,17 @@
         ]
       }
     },
+    "PARA-MELI": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180023",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-NET": {
       "listings": {
         "Hyperliquid": [
@@ -52408,13 +52419,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52714,6 +52725,17 @@
         "KuCoin": [
           {
             "symbol": "PVT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "PWT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "PWTUSDT",
             "quote": "USDT",
             "type": "spot"
           }

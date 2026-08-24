@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:10:54.428Z",
+  "generated_at": "2026-08-24T08:55:52.429Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2044,
+      "count": 2046,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3082,
+      "count": 3083,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2240,
+      "count": 2241,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 536,
+      "count": 535,
       "error": null
     },
     "Lighter": {
@@ -19632,6 +19632,31 @@
             "symbol": "DFENUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "DGAI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DGAIUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "DGAI_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "DGAI-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -43194,6 +43219,17 @@
         ]
       }
     },
+    "MSTU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MSTUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MTL": {
       "listings": {
         "Binance": [
@@ -52350,13 +52386,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -69856,13 +69892,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "STORJUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -76426,13 +76455,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

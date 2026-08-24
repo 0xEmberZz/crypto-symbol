@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:55:52.429Z",
+  "generated_at": "2026-08-24T09:55:18.549Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2046,
+      "count": 2048,
       "error": null
     },
     "Gate": {
@@ -19231,6 +19231,17 @@
         ]
       }
     },
+    "DE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "DEEP": {
       "listings": {
         "Bybit": [
@@ -33984,6 +33995,17 @@
           },
           {
             "symbol": "JOEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "JP225": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "JP225USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -76455,13 +76477,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:34:20.622Z",
+  "generated_at": "2026-08-25T12:59:07.715Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3087,
+      "count": 3086,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 537,
+      "count": 538,
       "error": null
     },
     "Lighter": {
@@ -14437,13 +14437,6 @@
     },
     "CATE": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "CATE_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Aster": [
           {
             "symbol": "CATEUSDT",
@@ -72950,6 +72943,13 @@
             "symbol": "TMX-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "TMXUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

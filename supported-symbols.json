@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:41:47.976Z",
+  "generated_at": "2026-08-25T10:39:11.614Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,17 +19,17 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2051,
+      "count": 2052,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3086,
+      "count": 3087,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2241,
+      "count": 2244,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 536,
+      "count": 537,
       "error": null
     },
     "Lighter": {
@@ -14327,6 +14327,16 @@
             "symbol": "CASHCAT-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "CASHCATUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "CASHCATUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Hyperliquid": [
@@ -49711,6 +49721,13 @@
             "quote": "USDC",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "PEOPLEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -72919,6 +72936,24 @@
         ]
       }
     },
+    "TMX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TMXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TMX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "TNK": {
       "listings": {
         "Gate": [
@@ -86965,6 +87000,11 @@
     "牛来": {
       "listings": {
         "Gate": [
+          {
+            "symbol": "牛来_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "牛来_USDT",
             "quote": "USDT",

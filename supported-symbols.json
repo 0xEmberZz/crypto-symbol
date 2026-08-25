@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:40:32.946Z",
+  "generated_at": "2026-08-25T03:05:21.163Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2049,
+      "count": 2050,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3083,
+      "count": 3084,
       "error": null
     },
     "KuCoin": {
@@ -19668,6 +19668,11 @@
             "symbol": "DGAI_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "DGAI_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -52426,13 +52431,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -60049,6 +60054,17 @@
         "Bitget": [
           {
             "symbol": "RMSTRUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RMSTU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RMSTUUSDT",
             "quote": "USDT",
             "type": "spot"
           }

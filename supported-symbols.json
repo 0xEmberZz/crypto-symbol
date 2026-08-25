@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:49:50.256Z",
+  "generated_at": "2026-08-25T08:51:01.914Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3075,
+      "count": 3086,
       "error": null
     },
     "KuCoin": {
@@ -5012,6 +5012,17 @@
         "Gate": [
           {
             "symbol": "APE3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "APE3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "APE3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -14303,6 +14314,11 @@
           {
             "symbol": "CASHCAT_USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "CASHCAT_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -23274,6 +23290,17 @@
         ]
       }
     },
+    "ETH5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ETH5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ETHBTC": {
       "listings": {
         "KuCoin": [
@@ -24231,6 +24258,17 @@
         ]
       }
     },
+    "FARTCOIN5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FARTCOIN5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "FATCAT": {
       "listings": {
         "Hyperliquid": [
@@ -24877,6 +24915,17 @@
         "Gate": [
           {
             "symbol": "FIL5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "FIL5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FIL5S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -37669,6 +37718,17 @@
         ]
       }
     },
+    "LIT3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LIT3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "LITE": {
       "listings": {
         "OKX": [
@@ -49510,6 +49570,17 @@
         ]
       }
     },
+    "PENGU3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PENGU3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "PENGUIN": {
       "listings": {
         "Gate": [
@@ -49834,6 +49905,17 @@
         "Gate": [
           {
             "symbol": "PEPE5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "PEPE5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PEPE5S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -52462,6 +52544,17 @@
         "Gate": [
           {
             "symbol": "PUMP3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "PUMP3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PUMP3S_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -73054,6 +73147,17 @@
         ]
       }
     },
+    "TOSHI3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TOSHI3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "TOWER": {
       "listings": {
         "KuCoin": [
@@ -82991,6 +83095,17 @@
         "Gate": [
           {
             "symbol": "XRP5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XRP5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "XRP5S_USDT",
             "quote": "USDT",
             "type": "spot"
           }

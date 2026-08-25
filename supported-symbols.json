@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:44:50.943Z",
+  "generated_at": "2026-08-25T17:36:43.678Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 538,
+      "count": 540,
       "error": null
     },
     "Lighter": {
@@ -17141,6 +17141,13 @@
           },
           {
             "symbol": "COTIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "COTIUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -51378,6 +51385,17 @@
             "symbol": "PONKE-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PONS": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "PONSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

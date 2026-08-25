@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:51:01.914Z",
+  "generated_at": "2026-08-25T09:41:47.976Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2050,
+      "count": 2051,
       "error": null
     },
     "Gate": {
@@ -19929,6 +19929,17 @@
         "Bitget": [
           {
             "symbol": "DISKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "DJT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DJTUSDT",
             "quote": "USDT",
             "type": "swap"
           }

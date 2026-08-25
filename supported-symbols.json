@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:58:44.597Z",
+  "generated_at": "2026-08-25T07:49:50.256Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3074,
+      "count": 3075,
       "error": null
     },
     "KuCoin": {
@@ -14299,6 +14299,13 @@
     },
     "CASHCAT": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "CASHCAT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "CASHCAT-USDT",
@@ -76423,13 +76430,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

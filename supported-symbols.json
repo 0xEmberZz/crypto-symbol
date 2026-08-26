@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:04:58.880Z",
+  "generated_at": "2026-08-26T13:59:32.640Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2065,
+      "count": 2067,
       "error": null
     },
     "Gate": {
@@ -52520,13 +52520,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -56286,6 +56286,17 @@
         "Bitget": [
           {
             "symbol": "RDISUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RDJT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RDJTUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -61541,6 +61552,17 @@
         "Bitget": [
           {
             "symbol": "RPSXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RPURR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RPURRUSDT",
             "quote": "USDT",
             "type": "spot"
           }

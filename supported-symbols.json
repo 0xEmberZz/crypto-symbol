@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:40:48.898Z",
+  "generated_at": "2026-08-26T11:35:36.428Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2063,
+      "count": 2064,
       "error": null
     },
     "Gate": {
@@ -52496,13 +52496,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52710,6 +52710,13 @@
         "OKX": [
           {
             "symbol": "PURR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "PURRUSDT",
             "quote": "USDT",
             "type": "swap"
           }

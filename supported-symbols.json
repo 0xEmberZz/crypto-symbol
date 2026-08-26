@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T11:35:36.428Z",
+  "generated_at": "2026-08-26T13:04:58.880Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 751,
+      "count": 752,
       "error": null
     },
     "Bybit": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2064,
+      "count": 2065,
       "error": null
     },
     "Gate": {
@@ -9678,11 +9678,6 @@
         ],
         "KuCoin": [
           {
-            "symbol": "BB-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
             "symbol": "BBUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -19285,6 +19280,24 @@
         ]
       }
     },
+    "DEBIT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DEBITUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "DEBIT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "DEEP": {
       "listings": {
         "Bybit": [
@@ -19966,6 +19979,17 @@
             "symbol": "DJTUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "DJTB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "DJTBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

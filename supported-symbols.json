@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:59:03.018Z",
+  "generated_at": "2026-08-26T07:51:30.293Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2244,
+      "count": 2240,
       "error": null
     },
     "Hyperliquid": {
@@ -31939,16 +31939,6 @@
             "symbol": "ICX-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ICXUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "ICXUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -52488,13 +52478,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -69993,16 +69983,6 @@
             "symbol": "STORJ-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "STORJUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "STORJUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

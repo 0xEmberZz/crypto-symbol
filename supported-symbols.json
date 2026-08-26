@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:52:13.742Z",
+  "generated_at": "2026-08-26T09:50:11.783Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2049,
+      "count": 2050,
       "error": null
     },
     "Gate": {
@@ -39830,6 +39830,17 @@
         "Gate": [
           {
             "symbol": "MAR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MARA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MARAUSDT",
             "quote": "USDT",
             "type": "swap"
           }

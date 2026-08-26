@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:59:32.640Z",
+  "generated_at": "2026-08-26T14:51:15.976Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 592,
+      "count": 594,
       "error": null
     },
     "Aster": {
@@ -41818,11 +41818,33 @@
         ]
       }
     },
+    "MKTS-SMALL2000": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "190004",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MKTS-US500": {
       "listings": {
         "Hyperliquid": [
           {
             "symbol": "190000",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MKTS-USBOND": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "190003",
             "quote": "USDC",
             "type": "swap"
           }

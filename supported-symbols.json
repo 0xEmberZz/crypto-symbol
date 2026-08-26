@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-26T07:51:30.293Z",
+  "generated_at": "2026-08-26T08:52:13.742Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 750,
+      "count": 751,
       "error": null
     },
     "Bybit": {
       "ok": true,
-      "count": 469,
+      "count": 465,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 1097,
+      "count": 1098,
       "error": null
     },
     "Bitget": {
@@ -1546,6 +1546,11 @@
           {
             "symbol": "ACEUSDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "ACEUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -9427,6 +9432,11 @@
           {
             "symbol": "BASED-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "BASED-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -18388,13 +18398,6 @@
     },
     "CUDIS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "CUDISUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "CUDISUSDT",
@@ -50473,13 +50476,6 @@
     },
     "PIRATE": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PIRATEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PIRATE_USDT",
@@ -52478,13 +52474,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -71005,13 +71001,6 @@
     },
     "SVL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SVLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SVL_USDT",
@@ -71689,13 +71678,6 @@
     },
     "TAI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TAIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "TAI_USDT",

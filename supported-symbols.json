@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:14:53.058Z",
+  "generated_at": "2026-08-27T08:48:49.791Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1098,
+      "count": 1099,
       "error": null
     },
     "Bitget": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 594,
+      "count": 595,
       "error": null
     },
     "Aster": {
@@ -68362,6 +68362,11 @@
             "type": "spot"
           },
           {
+            "symbol": "SOPH-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "SOPH-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -84840,6 +84845,17 @@
         "Hyperliquid": [
           {
             "symbol": "110098",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-SHEIN": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110116",
             "quote": "USDC",
             "type": "swap"
           }

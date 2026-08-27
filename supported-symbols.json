@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T08:48:49.791Z",
+  "generated_at": "2026-08-27T19:45:57.509Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,27 +14,27 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1099,
+      "count": 1104,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2067,
+      "count": 2069,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3087,
+      "count": 3089,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2240,
+      "count": 2245,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 595,
+      "count": 596,
       "error": null
     },
     "Aster": {
@@ -19866,6 +19866,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "DIAM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -30940,6 +30947,17 @@
         ]
       }
     },
+    "HPQ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "HPQUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HPSP": {
       "listings": {
         "Gate": [
@@ -38210,6 +38228,27 @@
         ]
       }
     },
+    "LONGXIA": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "LONGXIA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "LONGXIAUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "LONGXIAUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "LORA": {
       "listings": {
         "Hyperliquid": [
@@ -39873,6 +39912,13 @@
     },
     "MARA": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MARA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MARAUSDT",
@@ -39884,6 +39930,13 @@
     },
     "MARSCOIN": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "MARSCOIN_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "MARSCOINUSDT",
@@ -42913,6 +42966,13 @@
     },
     "MRK": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MRK-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MRKUSDT",
@@ -46446,6 +46506,13 @@
     },
     "NVDL": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "NVDL-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "NVDLUSDT",
@@ -51440,6 +51507,20 @@
     },
     "PONS": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "PONS_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "PONS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "PONSUSDT",
@@ -65725,6 +65806,17 @@
         ]
       }
     },
+    "SHEIN": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SHEINUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SHELL": {
       "listings": {
         "Binance": [
@@ -74738,6 +74830,13 @@
     },
     "TSLL": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "TSLL-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "TSLLUSDT",
@@ -80168,6 +80267,13 @@
     },
     "WMT": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "WMT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "WMTUSDT",
@@ -85043,6 +85149,17 @@
         "Hyperliquid": [
           {
             "symbol": "110087",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-XBI": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110115",
             "quote": "USDC",
             "type": "swap"
           }

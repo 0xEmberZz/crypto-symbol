@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T04:09:59.037Z",
+  "generated_at": "2026-08-28T17:17:11.817Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 465,
+      "count": 462,
       "error": null
     },
     "OKX": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3089,
+      "count": 3094,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2245,
+      "count": 2246,
       "error": null
     },
     "Hyperliquid": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 540,
+      "count": 538,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 223,
+      "count": 224,
       "error": null
     }
   },
@@ -502,17 +502,6 @@
           {
             "symbol": "1000SHIB",
             "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "1000WOJAK": {
-      "listings": {
-        "Aster": [
-          {
-            "symbol": "1000WOJAKUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -11285,6 +11274,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "BLESS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "BLESSUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -13338,13 +13332,6 @@
     },
     "BTR": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "BTRUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "BTR_USDT",
@@ -19987,6 +19974,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "DJT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -22097,13 +22091,6 @@
     },
     "ELIZAOS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ELIZAOSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ELIZAOS_USDT",
@@ -25808,6 +25795,17 @@
           {
             "symbol": "FOLKS",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "FONE": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "FONEUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -33320,13 +33318,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "IRUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -39922,6 +39913,13 @@
         "Bitget": [
           {
             "symbol": "MARAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "MARA_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -47117,6 +47115,13 @@
             "type": "swap"
           }
         ],
+        "Bitget": [
+          {
+            "symbol": "OKTAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "OKTA_USDT",
@@ -51966,13 +51971,6 @@
     },
     "PRCL": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "PRCLUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PRCL_USDT",
@@ -54221,13 +54219,6 @@
     },
     "RAIL": {
       "listings": {
-        "Aster": [
-          {
-            "symbol": "RAILUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Lighter": [
           {
             "symbol": "RAIL",
@@ -54355,6 +54346,13 @@
         "Bitget": [
           {
             "symbol": "RAMUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "RAM_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -65814,6 +65812,20 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "SHEIN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "SHEIN",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -72458,6 +72470,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "TEM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -75299,13 +75318,6 @@
             "type": "spot"
           }
         ],
-        "Bybit": [
-          {
-            "symbol": "TUSDUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "TUSDUSDT",
@@ -77699,6 +77711,17 @@
             "symbol": "VDR_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "VEEV": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "VEEVUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -86730,13 +86753,6 @@
         "OKX": [
           {
             "symbol": "ZKJ-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "ZKJUSDT",
             "quote": "USDT",
             "type": "spot"
           }

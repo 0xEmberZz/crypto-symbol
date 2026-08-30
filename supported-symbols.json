@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:17:42.007Z",
+  "generated_at": "2026-08-30T19:14:43.221Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 538,
+      "count": 540,
       "error": null
     },
     "Lighter": {
@@ -19549,6 +19549,17 @@
             "symbol": "DELLG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "DELTA": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "DELTAUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -52638,13 +52649,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -70307,6 +70318,17 @@
             "symbol": "STOC_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "STONKBROKER": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "STONKBROKERUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

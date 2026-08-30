@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:25:32.458Z",
+  "generated_at": "2026-08-30T15:17:42.007Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2069,
+      "count": 2070,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3095,
+      "count": 3097,
       "error": null
     },
     "KuCoin": {
@@ -14429,6 +14429,13 @@
     },
     "CATE": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "CATE_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "CATEUSDT",
@@ -39933,6 +39940,11 @@
             "symbol": "MARSCOIN_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "MARSCOIN_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -52626,13 +52638,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -87371,6 +87383,13 @@
     },
     "牛来": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "牛来USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "牛来_USDT",

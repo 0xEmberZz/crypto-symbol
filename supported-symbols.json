@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:02:19.889Z",
+  "generated_at": "2026-08-30T04:59:39.195Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3094,
+      "count": 3095,
       "error": null
     },
     "KuCoin": {
@@ -51517,6 +51517,11 @@
             "symbol": "PONS_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "PONS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "KuCoin": [

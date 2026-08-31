@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T08:31:50.295Z",
+  "generated_at": "2026-08-31T16:59:09.612Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2071,
+      "count": 2072,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3097,
+      "count": 3103,
       "error": null
     },
     "KuCoin": {
@@ -4312,6 +4312,13 @@
         "Bitget": [
           {
             "symbol": "AMZNUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "AMZN_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -13317,6 +13324,17 @@
             "symbol": "BTG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BTGO": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BTGO_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -33874,6 +33892,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "JD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -48300,6 +48325,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "ORCL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "KuCoin": [
           {
             "symbol": "ORCLUSDTM",
@@ -51563,6 +51595,13 @@
     },
     "PONS": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PONSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PONS_USDT",
@@ -56339,6 +56378,13 @@
         "Bitget": [
           {
             "symbol": "RDDTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "RDDT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -67235,6 +67281,13 @@
     },
     "SLV": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "SLV_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "@265",

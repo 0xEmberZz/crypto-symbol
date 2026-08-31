@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T01:18:48.461Z",
+  "generated_at": "2026-08-31T08:31:50.295Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1104,
+      "count": 1105,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2070,
+      "count": 2071,
       "error": null
     },
     "Gate": {
@@ -29,17 +29,17 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2246,
+      "count": 2248,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 596,
+      "count": 597,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 540,
+      "count": 541,
       "error": null
     },
     "Lighter": {
@@ -2825,6 +2825,13 @@
             "symbol": "AI-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "AIUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -31062,6 +31069,17 @@
         ]
       }
     },
+    "HSI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "HSIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HSK": {
       "listings": {
         "Gate": [
@@ -45706,6 +45724,16 @@
             "symbol": "NIULAI-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "NIULAIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "NIULAIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -51552,6 +51580,13 @@
             "symbol": "PONS-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Hyperliquid": [
+          {
+            "symbol": "232",
+            "quote": "USDC",
+            "type": "swap"
           }
         ],
         "Aster": [
@@ -86093,6 +86128,11 @@
           {
             "symbol": "ZENT-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "ZENT-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

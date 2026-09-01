@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:10:44.266Z",
+  "generated_at": "2026-09-01T07:38:28.677Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3103,
+      "count": 3107,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2248,
+      "count": 2253,
       "error": null
     },
     "Hyperliquid": {
@@ -11578,6 +11578,28 @@
             "symbol": "BMNR",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "BMNR3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BMNR3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "BMNR3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BMNR3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -36402,6 +36424,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "KUAISHOUUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "KUAISHOUUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "KUAISHOUUSDT",
@@ -51619,6 +51653,16 @@
             "symbol": "PONS-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "PONSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "PONSUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Hyperliquid": [
@@ -65933,6 +65977,22 @@
           {
             "symbol": "SHEIN",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "SHEINHKD": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "SHEINHKDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "SHEINHKDUSDTM",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -83391,13 +83451,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "XRD-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -86480,6 +86533,28 @@
             "symbol": "ZHIPU",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "ZHIPU3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZHIPU3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "ZHIPU3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZHIPU3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

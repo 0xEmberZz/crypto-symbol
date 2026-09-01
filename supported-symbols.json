@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:38:28.677Z",
+  "generated_at": "2026-09-01T13:24:23.062Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2072,
+      "count": 2071,
       "error": null
     },
     "Gate": {
@@ -29,17 +29,17 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2253,
+      "count": 2255,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 597,
+      "count": 598,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 541,
+      "count": 542,
       "error": null
     },
     "Lighter": {
@@ -3168,6 +3168,13 @@
             "symbol": "@590",
             "quote": "USDC",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "AIW3USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -40023,6 +40030,13 @@
     },
     "MARSCOIN": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MARSCOINUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MARSCOIN_USDT",
@@ -40031,6 +40045,18 @@
           },
           {
             "symbol": "MARSCOIN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "MARSCOINUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "MARSCOINUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -49203,6 +49229,17 @@
         ]
       }
     },
+    "PARA-SOFI": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180030",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-STX": {
       "listings": {
         "Hyperliquid": [
@@ -55805,17 +55842,6 @@
         ]
       }
     },
-    "RCEG": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RCEGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RCELH": {
       "listings": {
         "Bitget": [
@@ -61291,17 +61317,6 @@
         "Bitget": [
           {
             "symbol": "ROPRAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RORCL": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RORCLUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -77108,13 +77123,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

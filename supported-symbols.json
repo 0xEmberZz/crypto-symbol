@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:05:08.019Z",
+  "generated_at": "2026-09-02T08:43:08.774Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1105,
+      "count": 1108,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3083,
+      "count": 3085,
       "error": null
     },
     "KuCoin": {
@@ -17278,6 +17278,17 @@
         ]
       }
     },
+    "CP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CP_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CPNG": {
       "listings": {
         "Bitget": [
@@ -25834,6 +25845,13 @@
     },
     "FONE": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "FONE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "FONEUSDT",
@@ -28857,6 +28875,11 @@
           {
             "symbol": "GRVT-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "GRVT-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -65814,6 +65837,13 @@
     },
     "SHEIN": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SHEIN-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SHEINUSDT",
@@ -68914,6 +68944,13 @@
     },
     "SPCH": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SPCH-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SPCHUSDT",
@@ -76930,13 +76967,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

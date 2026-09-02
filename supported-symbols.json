@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:54:08.984Z",
+  "generated_at": "2026-09-02T23:13:06.923Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 542,
+      "count": 540,
       "error": null
     },
     "Lighter": {
@@ -29886,13 +29886,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "HDUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -53572,13 +53565,6 @@
           },
           {
             "symbol": "QCOMUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "QCOMUSDT",
             "quote": "USDT",
             "type": "swap"
           }

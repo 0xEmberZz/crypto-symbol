@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:28:56.046Z",
+  "generated_at": "2026-09-03T17:45:56.623Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2092,
+      "count": 2093,
       "error": null
     },
     "Gate": {
@@ -28519,6 +28519,13 @@
     },
     "GPRO": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "GPROUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "GPRO_USDT",
@@ -53015,13 +53022,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

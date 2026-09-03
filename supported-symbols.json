@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:50:51.628Z",
+  "generated_at": "2026-09-03T13:28:56.046Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1114,
+      "count": 1117,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2090,
+      "count": 2092,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3111,
+      "count": 3114,
       "error": null
     },
     "KuCoin": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 599,
+      "count": 600,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 542,
+      "count": 543,
       "error": null
     },
     "Lighter": {
@@ -19432,6 +19432,13 @@
     },
     "DDOG": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "DDOG-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "DDOGUSDT",
@@ -25552,6 +25559,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "FLORKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -26006,6 +26020,11 @@
     "FONE": {
       "listings": {
         "Gate": [
+          {
+            "symbol": "FONE_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "FONE_USDT",
             "quote": "USDT",
@@ -33335,6 +33354,13 @@
     },
     "IONQ": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "IONQ-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "IONQUSDT",
@@ -49433,6 +49459,17 @@
         ]
       }
     },
+    "PARA-TTWO": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180032",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-UNITREE": {
       "listings": {
         "Hyperliquid": [
@@ -51182,6 +51219,28 @@
             "symbol": "PLTR",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "PLTR3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PLTR3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "PLTR3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PLTR3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -53303,6 +53362,13 @@
     },
     "PYPL": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "PYPL-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "PYPLUSDT",
@@ -54887,6 +54953,17 @@
         "Bitget": [
           {
             "symbol": "RAPDUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RAPH": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RAPHUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -59322,6 +59399,17 @@
           {
             "symbol": "@75",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RIQQQ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RIQQQUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]

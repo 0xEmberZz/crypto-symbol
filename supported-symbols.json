@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:04:11.870Z",
+  "generated_at": "2026-09-03T08:50:51.628Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1112,
+      "count": 1114,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3105,
+      "count": 3111,
       "error": null
     },
     "KuCoin": {
@@ -18287,6 +18287,13 @@
     },
     "CSOPSAMSUNG2L": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CSOPSAMSUNG2L-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CSOPSAMSUNG2L_USDT",
@@ -18309,6 +18316,13 @@
     },
     "CSOPSKHYNIX2L": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CSOPSKHYNIX2L-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CSOPSKHYNIX2L_USDT",
@@ -19726,6 +19740,13 @@
     },
     "DELTA": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "DELTA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "DELTAUSDT",
@@ -28477,6 +28498,17 @@
         ]
       }
     },
+    "GPRO": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GPRO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GPS": {
       "listings": {
         "Binance": [
@@ -29215,6 +29247,13 @@
         "Bitget": [
           {
             "symbol": "GTLBUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "GTLB_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -32700,6 +32739,17 @@
         "Bitget": [
           {
             "symbol": "INDAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "INDEX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "INDEX_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -36884,6 +36934,17 @@
             "symbol": "@304",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "LAOPU": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "LAOPU_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -51169,28 +51230,6 @@
         ]
       }
     },
-    "PLTRX3L": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "PLTRX3L_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "PLTRX3S": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "PLTRX3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "PLUME": {
       "listings": {
         "Binance": [
@@ -52407,6 +52446,17 @@
             "symbol": "PRO-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PROLOGUE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "PROLOGUE_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -72894,6 +72944,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "TEAM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -87682,6 +87739,13 @@
         "Bitget": [
           {
             "symbol": "ZSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ZS_USDT",
             "quote": "USDT",
             "type": "swap"
           }

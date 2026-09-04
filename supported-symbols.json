@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:06:42.433Z",
+  "generated_at": "2026-09-04T08:48:01.127Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1117,
+      "count": 1118,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3114,
+      "count": 3109,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 543,
+      "count": 544,
       "error": null
     },
     "Lighter": {
@@ -4139,6 +4139,13 @@
     },
     "AMC": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "AMC-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AMCUSDT",
@@ -4453,11 +4460,6 @@
             "symbol": "AMZNX_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "AMZNX_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -13419,11 +13421,6 @@
             "symbol": "BTGOON_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "BTGOON_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -34143,17 +34140,6 @@
         ]
       }
     },
-    "JDON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "JDON_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "JEET": {
       "listings": {
         "Hyperliquid": [
@@ -41130,6 +41116,24 @@
           {
             "symbol": "75",
             "quote": "USDC",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "MEMEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MEMECOIN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MEMECOIN_USDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ]
@@ -48642,17 +48646,6 @@
         ]
       }
     },
-    "ORCLX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "ORCLX_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "ORDER": {
       "listings": {
         "Bybit": [
@@ -53022,13 +53015,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -56718,17 +56711,6 @@
           },
           {
             "symbol": "RDDTUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "RDDTON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "RDDTON_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -67780,11 +67762,6 @@
             "symbol": "SLVON_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "SLVON_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

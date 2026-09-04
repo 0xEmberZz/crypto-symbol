@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T08:48:01.127Z",
+  "generated_at": "2026-09-04T13:23:20.108Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 753,
+      "count": 755,
       "error": null
     },
     "Bybit": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2093,
+      "count": 2089,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3109,
+      "count": 3110,
       "error": null
     },
     "KuCoin": {
@@ -20809,11 +20809,6 @@
           {
             "symbol": "DOODUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "DOODUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -27578,6 +27573,17 @@
         ]
       }
     },
+    "GIGGLEMAX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GIGGLEMAX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GILD": {
       "listings": {
         "Bitget": [
@@ -32455,13 +32461,6 @@
     },
     "IKA": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "IKAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "IKA_USDT",
@@ -40173,6 +40172,18 @@
     },
     "MARSCOIN": {
       "listings": {
+        "Binance": [
+          {
+            "symbol": "MARSCOINUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "MARSCOINUSDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MARSCOINUSDT",
@@ -41730,13 +41741,6 @@
     },
     "MEZO": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "MEZOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MEZO_USDT",
@@ -70888,13 +70892,6 @@
           {
             "symbol": "STORJ-USDC",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "STORJUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T05:31:25.857Z",
+  "generated_at": "2026-09-05T10:24:21.348Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 462,
+      "count": 459,
       "error": null
     },
     "OKX": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3112,
+      "count": 3113,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2258,
+      "count": 2257,
       "error": null
     },
     "Hyperliquid": {
@@ -6517,16 +6517,6 @@
             "symbol": "ASP-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ASPUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "ASPUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -28349,13 +28339,6 @@
     },
     "GODS": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "GODSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "GODS-USDT",
@@ -30230,11 +30213,6 @@
           {
             "symbol": "HFTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "HFTUSDC",
-            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -40232,6 +40210,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "MARSCOIN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "MARSCOINUSDTM",
             "quote": "USDT",
@@ -53054,13 +53037,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -65835,13 +65818,6 @@
     },
     "SCRT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SCRTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SCRT_USDT",
@@ -66774,6 +66750,17 @@
             "symbol": "@84",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "SHROOM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SHROOM_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:47:49.311Z",
+  "generated_at": "2026-09-05T05:31:25.857Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1119,
+      "count": 1121,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3110,
+      "count": 3112,
       "error": null
     },
     "KuCoin": {
@@ -24529,6 +24529,17 @@
         ]
       }
     },
+    "FATCOIN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FATCOIN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "FB": {
       "listings": {
         "Gate": [
@@ -24661,6 +24672,11 @@
             "symbol": "FET-USDC",
             "quote": "USDC",
             "type": "spot"
+          },
+          {
+            "symbol": "FET-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Bitget": [
@@ -51886,6 +51902,13 @@
     },
     "PONS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "PONS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "PONSUSDT",
@@ -70887,6 +70910,17 @@
         "Aster": [
           {
             "symbol": "STONKBROKERUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "STONKS": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "STONKS_USDT",
             "quote": "USDT",
             "type": "swap"
           }

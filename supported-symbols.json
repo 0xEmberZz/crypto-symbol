@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:43:08.920Z",
+  "generated_at": "2026-09-06T14:04:27.666Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2090,
+      "count": 2091,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3116,
+      "count": 3117,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 550,
+      "count": 551,
       "error": null
     },
     "Lighter": {
@@ -53077,13 +53077,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -86507,6 +86507,17 @@
         ]
       }
     },
+    "ZCAT": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "ZCATUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ZEC": {
       "listings": {
         "Binance": [
@@ -88012,7 +88023,19 @@
     },
     "哈基米": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "哈基米USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
+          {
+            "symbol": "哈基米_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "哈基米_USDT",
             "quote": "USDT",

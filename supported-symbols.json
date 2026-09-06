@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:44:12.221Z",
+  "generated_at": "2026-09-06T10:43:08.920Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3113,
+      "count": 3116,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 547,
+      "count": 550,
       "error": null
     },
     "Lighter": {
@@ -1997,13 +1997,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ADAUSDT",
-            "quote": "USDT",
+            "symbol": "ADAUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "ADAUSDC",
-            "quote": "USDC",
+            "symbol": "ADAUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -8509,6 +8509,17 @@
         "Aster": [
           {
             "symbol": "BUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "B-MONEY": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "B-MONEYUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -41161,6 +41172,17 @@
         ]
       }
     },
+    "MEMESTOCK": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "MEMESTOCKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MENGO": {
       "listings": {
         "OKX": [
@@ -49172,6 +49194,13 @@
     },
     "PAIR": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "PAIR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "PAIRUSDT",
@@ -53048,13 +53077,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -71430,6 +71459,17 @@
         ]
       }
     },
+    "SUE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SUE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SUI": {
       "listings": {
         "Binance": [
@@ -87966,6 +88006,24 @@
             "symbol": "ZYRA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "哈基米": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "哈基米_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "哈基米USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:05:07.231Z",
+  "generated_at": "2026-09-07T15:45:17.759Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1123,
+      "count": 1124,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2092,
+      "count": 2094,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3121,
+      "count": 3124,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 552,
+      "count": 555,
       "error": null
     },
     "Lighter": {
@@ -10388,6 +10388,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "BENUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -12232,6 +12239,13 @@
         "Gate": [
           {
             "symbol": "BONER_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "BONERUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -16486,6 +16500,36 @@
         "Gate": [
           {
             "symbol": "CMOC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CNPY": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "CNPY-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Bitget": [
+          {
+            "symbol": "CNPYUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CNPY_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "CNPY_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -51871,6 +51915,11 @@
           {
             "symbol": "PONSUSDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "PONSUSDT",
+            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -70857,11 +70906,25 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "STONKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
     "STONKBROKER": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "STONKBROKER_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "STONKBROKERUSDT",

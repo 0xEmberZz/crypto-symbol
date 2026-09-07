@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:48:05.738Z",
+  "generated_at": "2026-09-07T22:43:25.352Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 555,
+      "count": 554,
       "error": null
     },
     "Lighter": {
@@ -80052,13 +80052,6 @@
           },
           {
             "symbol": "WDCUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "WDCUSDT",
             "quote": "USDT",
             "type": "swap"
           }

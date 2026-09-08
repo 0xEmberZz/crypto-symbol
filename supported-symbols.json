@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:27:48.601Z",
+  "generated_at": "2026-09-08T21:44:46.189Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -5098,13 +5098,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "APEXUSDC",
-            "quote": "USDC",
+            "symbol": "APEXUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "APEXUSDT",
-            "quote": "USDT",
+            "symbol": "APEXUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:59:21.022Z",
+  "generated_at": "2026-09-09T04:17:23.401Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1150,
+      "count": 1151,
       "error": null
     },
     "Bitget": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3125,
+      "count": 3126,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2242,
+      "count": 2248,
       "error": null
     },
     "Hyperliquid": {
@@ -8583,6 +8583,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "B200_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -11950,6 +11957,16 @@
             "symbol": "BNC-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "BNCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BNCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -13857,6 +13874,18 @@
         "Gate": [
           {
             "symbol": "BYD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "BYDUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "BYDUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -29652,6 +29681,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "H100_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "H100",
@@ -29772,6 +29808,22 @@
             "symbol": "HAI-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HAJIMI": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "HAJIMIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "HAJIMIUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -34409,6 +34461,13 @@
     },
     "JP225": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "JP225-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "JP225USDT",
@@ -52028,17 +52087,6 @@
         ]
       }
     },
-    "POOLX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "POOLX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "POP": {
       "listings": {
         "KuCoin": [
@@ -53096,13 +53144,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

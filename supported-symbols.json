@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T14:20:47.658Z",
+  "generated_at": "2026-09-09T18:27:23.758Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 757,
+      "count": 759,
       "error": null
     },
     "Bybit": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 558,
+      "count": 559,
       "error": null
     },
     "Lighter": {
@@ -37135,6 +37135,13 @@
             "symbol": "LAPTOP-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "LAPTOPUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -88538,6 +88545,18 @@
     },
     "牛来": {
       "listings": {
+        "Binance": [
+          {
+            "symbol": "牛来USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "牛来USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "牛来USDT",

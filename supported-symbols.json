@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:36:23.237Z",
+  "generated_at": "2026-09-10T00:00:54.015Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2107,
+      "count": 2106,
       "error": null
     },
     "Gate": {
@@ -60380,17 +60380,6 @@
         "Bitget": [
           {
             "symbol": "RLENUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RLGHL": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RLGHLUSDT",
             "quote": "USDT",
             "type": "spot"
           }

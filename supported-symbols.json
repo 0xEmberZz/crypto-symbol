@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:13:43.100Z",
+  "generated_at": "2026-09-10T18:16:19.716Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3123,
+      "count": 3125,
       "error": null
     },
     "KuCoin": {
@@ -26489,6 +26489,17 @@
         ]
       }
     },
+    "FRONG": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FRONG_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "FRUDO": {
       "listings": {
         "Hyperliquid": [
@@ -34819,6 +34830,17 @@
             "symbol": "JUC_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "JUGGERNAUT": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "JUGGERNAUT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

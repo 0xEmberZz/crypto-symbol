@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:00:54.015Z",
+  "generated_at": "2026-09-10T04:14:24.116Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3117,
+      "count": 3118,
       "error": null
     },
     "KuCoin": {
@@ -834,6 +834,11 @@
     "4STOCK": {
       "listings": {
         "Gate": [
+          {
+            "symbol": "4STOCK_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "4STOCK_USDT",
             "quote": "USDT",
@@ -53224,13 +53229,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

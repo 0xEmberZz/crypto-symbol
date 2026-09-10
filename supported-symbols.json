@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T04:14:24.116Z",
+  "generated_at": "2026-09-10T09:31:59.694Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1152,
+      "count": 1155,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3118,
+      "count": 3122,
       "error": null
     },
     "KuCoin": {
@@ -10695,6 +10695,13 @@
         "Bitget": [
           {
             "symbol": "BHPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "BHP_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -32401,11 +32408,6 @@
             "symbol": "ICX_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ICX_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -53454,6 +53456,13 @@
             "type": "swap"
           }
         ],
+        "Gate": [
+          {
+            "symbol": "PURR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "PURR/USDC",
@@ -59560,6 +59569,13 @@
         "Bitget": [
           {
             "symbol": "RIOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "RIO_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -68741,6 +68757,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "SOFTBANK_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -77438,6 +77461,13 @@
     },
     "US100": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "US100-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "US100",
@@ -77504,6 +77534,13 @@
     },
     "US500": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "US500-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "US500",
@@ -78458,6 +78495,13 @@
         "Bitget": [
           {
             "symbol": "VALEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "VALE_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -83699,6 +83743,13 @@
     },
     "XOM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "XOM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "XOMUSDT",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:29:03.615Z",
+  "generated_at": "2026-09-11T14:13:31.916Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2576,
+      "count": 2557,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3126,
+      "count": 3127,
       "error": null
     },
     "KuCoin": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 602,
+      "count": 603,
       "error": null
     },
     "Aster": {
@@ -3272,11 +3272,6 @@
           {
             "symbol": "AIXBTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "AIXBTUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -4022,11 +4017,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "ALTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "ALTUSDT",
             "quote": "USDT",
@@ -9016,11 +9006,6 @@
           {
             "symbol": "BANUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BANUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -11248,13 +11233,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "BLASTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "BLAST_USDT",
@@ -11538,11 +11516,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "BLURUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "BLURUSDT",
             "quote": "USDT",
@@ -12982,11 +12955,6 @@
     "BROCCOLI": {
       "listings": {
         "Bitget": [
-          {
-            "symbol": "BROCCOLIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "BROCCOLIUSDT",
             "quote": "USDT",
@@ -15248,13 +15216,6 @@
     },
     "CESS": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "CESSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "CESS_USDT",
@@ -22224,11 +22185,6 @@
           {
             "symbol": "EGLDUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "EGLDUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -22564,6 +22520,17 @@
             "symbol": "ELX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "EMBER": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EMBER_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -25081,11 +25048,6 @@
           {
             "symbol": "FIDAUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "FIDAUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -26559,13 +26521,6 @@
           }
         ],
         "Bybit": [
-          {
-            "symbol": "FTTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
           {
             "symbol": "FTTUSDT",
             "quote": "USDT",
@@ -29200,11 +29155,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "GRTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "GRTUSDT",
             "quote": "USDT",
@@ -34340,13 +34290,6 @@
             "type": "swap"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "JELLYJELLYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "JELLYJELLY_USDT",
@@ -38811,11 +38754,6 @@
           {
             "symbol": "LPTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "LPTUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -39995,13 +39933,6 @@
     },
     "MAK": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "MAKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "MAK_USDT",
@@ -49572,6 +49503,17 @@
         ]
       }
     },
+    "PARA-CIFR": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180033",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "PARA-COHR": {
       "listings": {
         "Hyperliquid": [
@@ -53294,13 +53236,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -68895,11 +68837,6 @@
           {
             "symbol": "RUNEUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "RUNEUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -71024,13 +70961,6 @@
             "symbol": "SATS-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "SATSUSDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ],
         "Gate": [
@@ -84118,13 +84048,6 @@
     },
     "VERT": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "VERTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "VERT_USDT",
@@ -84223,13 +84146,6 @@
     "VIC": {
       "listings": {
         "Bybit": [
-          {
-            "symbol": "VICUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
           {
             "symbol": "VICUSDT",
             "quote": "USDT",
@@ -85243,13 +85159,6 @@
     "WAVES": {
       "listings": {
         "Bybit": [
-          {
-            "symbol": "WAVESUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
           {
             "symbol": "WAVESUSDT",
             "quote": "USDT",

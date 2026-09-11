@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:14:03.156Z",
+  "generated_at": "2026-09-11T09:29:03.615Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3125,
+      "count": 3126,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2251,
+      "count": 2252,
       "error": null
     },
     "Hyperliquid": {
@@ -9746,6 +9746,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "BB-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "BBUSDTM",
             "quote": "USDT",
@@ -26005,6 +26010,17 @@
             "symbol": "@137",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "FLYBRAIN": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FLYBRAIN_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

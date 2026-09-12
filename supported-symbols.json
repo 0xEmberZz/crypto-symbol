@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:09:22.893Z",
+  "generated_at": "2026-09-12T13:29:58.588Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1155,
+      "count": 1156,
       "error": null
     },
     "Bitget": {
@@ -25502,6 +25502,13 @@
             "symbol": "FLOCKUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "OKX": [
+          {
+            "symbol": "FLOCK-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Bitget": [
@@ -53236,13 +53243,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

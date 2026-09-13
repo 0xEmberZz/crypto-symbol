@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:25:19.475Z",
+  "generated_at": "2026-09-13T10:06:36.289Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3127,
+      "count": 3128,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 560,
+      "count": 562,
       "error": null
     },
     "Lighter": {
@@ -26107,6 +26107,17 @@
         ]
       }
     },
+    "FOLD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "FOLD_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "FOLKS": {
       "listings": {
         "Bitget": [
@@ -39077,6 +39088,13 @@
             "symbol": "LSK-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "LSKUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -52561,6 +52579,13 @@
           },
           {
             "symbol": "POWRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "POWRUSDT",
             "quote": "USDT",
             "type": "swap"
           }

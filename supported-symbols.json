@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:55:19.230Z",
+  "generated_at": "2026-09-14T05:59:56.512Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 2557,
+      "count": 2556,
       "error": null
     },
     "Gate": {
@@ -51336,17 +51336,6 @@
         "Aster": [
           {
             "symbol": "PIXELUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PKX": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "PKXUSDT",
             "quote": "USDT",
             "type": "swap"
           }

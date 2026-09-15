@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:23:16.051Z",
+  "generated_at": "2026-09-15T18:05:11.867Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1157,
+      "count": 1158,
       "error": null
     },
     "Bitget": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 603,
+      "count": 605,
       "error": null
     },
     "Aster": {
@@ -13264,13 +13264,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "BTCUSDC",
-            "quote": "USDC",
+            "symbol": "BTCUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "BTCUSDT",
-            "quote": "USDT",
+            "symbol": "BTCUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -52152,6 +52152,11 @@
       "listings": {
         "OKX": [
           {
+            "symbol": "PONS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "PONS-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
@@ -90978,6 +90983,17 @@
         ]
       }
     },
+    "XYZ-KSTR": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110100",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-LITE": {
       "listings": {
         "Hyperliquid": [
@@ -91379,6 +91395,17 @@
         "Hyperliquid": [
           {
             "symbol": "110016",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-SNXX": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110119",
             "quote": "USDC",
             "type": "swap"
           }

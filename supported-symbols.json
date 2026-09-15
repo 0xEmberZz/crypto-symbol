@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:19:59.525Z",
+  "generated_at": "2026-09-15T07:33:31.301Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3130,
+      "count": 3131,
       "error": null
     },
     "KuCoin": {
@@ -75951,6 +75951,17 @@
             "symbol": "@69",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "STANDARD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "STANDARD_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

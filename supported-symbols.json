@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:33:31.301Z",
+  "generated_at": "2026-09-15T13:23:16.051Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1156,
+      "count": 1157,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 2556,
+      "count": 2557,
       "error": null
     },
     "Gate": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 562,
+      "count": 563,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 227,
+      "count": 228,
       "error": null
     }
   },
@@ -18920,6 +18920,17 @@
             "symbol": "CVXON_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CVXSTOCK": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "CVXSTOCKUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -44033,6 +44044,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Aster": [
+          {
+            "symbol": "MTLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -53273,13 +53291,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -76363,6 +76381,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "STONK",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -83037,13 +83062,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -84796,6 +84821,11 @@
           }
         ],
         "OKX": [
+          {
+            "symbol": "VVV-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "VVV-USDT-SWAP",
             "quote": "USDT",

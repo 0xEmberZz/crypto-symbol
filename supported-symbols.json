@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:47:18.088Z",
+  "generated_at": "2026-09-16T22:00:59.623Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,12 +39,12 @@
     },
     "Aster": {
       "ok": true,
-      "count": 563,
+      "count": 561,
       "error": null
     },
     "Lighter": {
       "ok": true,
-      "count": 228,
+      "count": 227,
       "error": null
     }
   },
@@ -17840,13 +17840,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "CRMUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -31345,13 +31338,6 @@
           },
           {
             "symbol": "HPEUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "HPEUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -53238,13 +53224,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -91004,17 +90990,6 @@
           {
             "symbol": "WFC_USDT",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "WHEAT": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "WHEAT",
-            "quote": "USDC",
             "type": "swap"
           }
         ]

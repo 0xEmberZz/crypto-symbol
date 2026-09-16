@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:45:50.430Z",
+  "generated_at": "2026-09-16T18:47:18.088Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 562,
+      "count": 563,
       "error": null
     },
     "Lighter": {
@@ -5933,6 +5933,13 @@
         "Gate": [
           {
             "symbol": "ARGUS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "ARGUSUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -38641,17 +38648,6 @@
         "Gate": [
           {
             "symbol": "LOGX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "LONG": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "LONG_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -84779,6 +84775,17 @@
         "Bitget": [
           {
             "symbol": "TOKYOELUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "TOLLY": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TOLLY_USDT",
             "quote": "USDT",
             "type": "swap"
           }

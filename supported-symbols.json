@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:58:21.192Z",
+  "generated_at": "2026-09-17T11:26:13.782Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1164,
+      "count": 1165,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 3037,
+      "count": 3040,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3118,
+      "count": 3121,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2254,
+      "count": 2248,
       "error": null
     },
     "Hyperliquid": {
@@ -2668,16 +2668,6 @@
             "symbol": "AGI-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "AGIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "AGIUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -16506,6 +16496,13 @@
     },
     "CLSK": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CLSKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CLSK_USDT",
@@ -17455,6 +17452,11 @@
           {
             "symbol": "CP-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "CP-USDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
@@ -32110,6 +32112,13 @@
     },
     "IBIT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "IBITUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "IBIT_USDT",
@@ -32424,11 +32433,6 @@
             "symbol": "ICX-USDC",
             "quote": "USDC",
             "type": "spot"
-          },
-          {
-            "symbol": "ICX-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Bitget": [
@@ -44302,6 +44306,17 @@
         ]
       }
     },
+    "MUSEBOOK": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MUSEBOOK_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MUU": {
       "listings": {
         "OKX": [
@@ -47436,16 +47451,6 @@
             "symbol": "OFC-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "OFCUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "OFCUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -47778,6 +47783,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "ON-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "ONUSDTM",
             "quote": "USDT",
@@ -54061,6 +54071,17 @@
             "symbol": "QKC-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "QLD": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "QLDUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -84409,6 +84430,17 @@
         ]
       }
     },
+    "TINA": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "TINA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "TITN": {
       "listings": {
         "Gate": [
@@ -88282,13 +88314,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -90430,16 +90462,6 @@
             "symbol": "WARD-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "WARDUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "WARDUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -93788,6 +93810,11 @@
           {
             "symbol": "XMETA-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "XMETA-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -97539,6 +97566,28 @@
         ]
       }
     },
+    "ZEC5L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZEC5L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "ZEC5S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ZEC5S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "ZEN": {
       "listings": {
         "Binance": [
@@ -98032,16 +98081,6 @@
             "symbol": "ZIG-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "ZIGUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "ZIGUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

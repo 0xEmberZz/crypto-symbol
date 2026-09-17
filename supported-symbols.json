@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:45:07.294Z",
+  "generated_at": "2026-09-17T20:08:28.203Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 606,
+      "count": 608,
       "error": null
     },
     "Aster": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 227,
+      "count": 224,
       "error": null
     }
   },
@@ -2272,13 +2272,6 @@
             "symbol": "ADI-USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "ADI",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }
@@ -12521,13 +12514,6 @@
           {
             "symbol": "BOTZ_USDT",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "BOTZ",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -53271,13 +53257,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -87855,17 +87841,6 @@
         ]
       }
     },
-    "URA": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "URA",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "URANUS": {
       "listings": {
         "Gate": [
@@ -95934,6 +95909,17 @@
         ]
       }
     },
+    "XYZ-CVX": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110120",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-CXMT": {
       "listings": {
         "Hyperliquid": [
@@ -96709,6 +96695,17 @@
         "Hyperliquid": [
           {
             "symbol": "110093",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-TLT": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110121",
             "quote": "USDC",
             "type": "swap"
           }

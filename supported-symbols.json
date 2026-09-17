@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:26:13.782Z",
+  "generated_at": "2026-09-17T16:45:07.294Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 3040,
+      "count": 3041,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2248,
+      "count": 2249,
       "error": null
     },
     "Hyperliquid": {
@@ -42038,6 +42038,24 @@
         "Gate": [
           {
             "symbol": "MGT_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "MHA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MHAUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "MHA-USDT",
             "quote": "USDT",
             "type": "spot"
           }

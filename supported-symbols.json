@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:16:24.648Z",
+  "generated_at": "2026-09-17T05:58:21.192Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3116,
+      "count": 3118,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 561,
+      "count": 563,
       "error": null
     },
     "Lighter": {
@@ -5931,6 +5931,11 @@
     "ARGUS": {
       "listings": {
         "Gate": [
+          {
+            "symbol": "ARGUS_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "ARGUS_USDT",
             "quote": "USDT",
@@ -17837,6 +17842,13 @@
           },
           {
             "symbol": "CRMUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "CRMUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31338,6 +31350,13 @@
           },
           {
             "symbol": "HPEUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "HPEUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -84770,6 +84789,11 @@
     "TOLLY": {
       "listings": {
         "Gate": [
+          {
+            "symbol": "TOLLY_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "TOLLY_USDT",
             "quote": "USDT",

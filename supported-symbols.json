@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:18:52.237Z",
+  "generated_at": "2026-09-18T18:16:10.073Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 3037,
+      "count": 3044,
       "error": null
     },
     "Gate": {
@@ -2743,6 +2743,13 @@
     },
     "AGPU": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "AGPUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "AGPU_USDT",
@@ -19160,6 +19167,13 @@
     },
     "CYPH": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CYPHUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CYPH_USDT",
@@ -28369,6 +28383,17 @@
         ]
       }
     },
+    "GNRC": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "GNRCUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "GNS": {
       "listings": {
         "Binance": [
@@ -31769,6 +31794,13 @@
     },
     "HUT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "HUTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "HUT_USDT",
@@ -49892,6 +49924,13 @@
     },
     "PATH": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PATHUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PATH_USDT",
@@ -53316,13 +53355,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -76635,6 +76674,17 @@
         ]
       }
     },
+    "SDGR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SDGRUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SEDA": {
       "listings": {
         "Hyperliquid": [
@@ -81652,6 +81702,13 @@
     },
     "STONK": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "STONKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "STONK_USDT",

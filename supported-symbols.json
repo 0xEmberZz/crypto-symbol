@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T09:33:43.538Z",
+  "generated_at": "2026-09-18T14:18:52.237Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 3041,
+      "count": 3037,
       "error": null
     },
     "Gate": {
@@ -14269,13 +14269,6 @@
     },
     "CAMP": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "CAMPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "CAMP_USDT",
@@ -48753,13 +48746,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "ORBSUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ORBS_USDT",
@@ -53330,13 +53316,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -63383,13 +63369,6 @@
     },
     "RHEA": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "RHEAUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "RHEA_USDT",
@@ -86619,11 +86598,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "TURBOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "TURBOUSDT",
             "quote": "USDT",

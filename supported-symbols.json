@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:03:47.609Z",
+  "generated_at": "2026-09-21T04:42:49.941Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3129,
+      "count": 3130,
       "error": null
     },
     "KuCoin": {
@@ -48750,6 +48750,17 @@
         ]
       }
     },
+    "ORBIO": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "ORBIO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ORBR": {
       "listings": {
         "Gate": [
@@ -53352,13 +53363,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

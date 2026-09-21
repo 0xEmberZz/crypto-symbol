@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T04:42:49.941Z",
+  "generated_at": "2026-09-21T10:34:53.543Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1167,
+      "count": 1172,
       "error": null
     },
     "Bitget": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 569,
+      "count": 570,
       "error": null
     },
     "Lighter": {
@@ -24007,6 +24007,17 @@
         ]
       }
     },
+    "EURC": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "EURC-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "EURI": {
       "listings": {
         "Binance": [
@@ -31791,6 +31802,13 @@
     },
     "HUT": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "HUT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "HUTUSDT",
@@ -47712,6 +47730,13 @@
     },
     "OKLO": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "OKLO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "OKLOUSDT",
@@ -53363,13 +53388,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -89115,6 +89140,13 @@
     },
     "TEAM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "TEAM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "TEAMUSDT",
@@ -89167,6 +89199,13 @@
     },
     "TEM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "TEM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "TEMUSDT",
@@ -94678,6 +94717,13 @@
             "symbol": "VERONA-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "VERONAUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

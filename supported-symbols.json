@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:34:53.543Z",
+  "generated_at": "2026-09-21T16:56:31.166Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 3516,
+      "count": 3522,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3130,
+      "count": 3133,
       "error": null
     },
     "KuCoin": {
@@ -4162,6 +4162,17 @@
             "symbol": "AMCUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "AMCLUB": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AMCLUB_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -11410,6 +11421,17 @@
         ]
       }
     },
+    "BLSH": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "BLSHUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BLUAI": {
       "listings": {
         "Bitget": [
@@ -17246,6 +17268,17 @@
             "symbol": "CORN_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "CORZ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "CORZUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -34471,6 +34504,17 @@
         ]
       }
     },
+    "JEPQ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "JEPQUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "JFI": {
       "listings": {
         "Gate": [
@@ -49279,6 +49323,17 @@
         ]
       }
     },
+    "OURA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "OURA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "OUST": {
       "listings": {
         "OKX": [
@@ -53388,13 +53443,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -81910,6 +81965,17 @@
         ]
       }
     },
+    "SECZ": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SECZUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SEDA": {
       "listings": {
         "Hyperliquid": [
@@ -86537,6 +86603,17 @@
         ]
       }
     },
+    "STAMP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "STAMP_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "STANDARD": {
       "listings": {
         "Gate": [
@@ -89927,6 +90004,13 @@
     },
     "TLT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "TLTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "TLT_USDT",
@@ -93514,6 +93598,17 @@
         "Aster": [
           {
             "symbol": "USD1USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "USDBRL": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "USDBRLUSDT",
             "quote": "USDT",
             "type": "swap"
           }

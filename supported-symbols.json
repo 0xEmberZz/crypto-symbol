@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:28:35.119Z",
+  "generated_at": "2026-09-22T09:47:37.626Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1172,
+      "count": 1173,
       "error": null
     },
     "Bitget": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3134,
+      "count": 3135,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2246,
+      "count": 2250,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 570,
+      "count": 567,
       "error": null
     },
     "Lighter": {
@@ -8150,6 +8150,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "AXL-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "AXLUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -10438,13 +10443,6 @@
         "Gate": [
           {
             "symbol": "BEN_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "BENUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -13201,6 +13199,16 @@
         ],
         "KuCoin": [
           {
+            "symbol": "BSV-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "BSV-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
+          {
             "symbol": "BSVUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -14394,6 +14402,11 @@
           {
             "symbol": "CARDS-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "CARDS-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -27049,6 +27062,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "GALA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "GALAUSDTM",
             "quote": "USDT",
@@ -43267,6 +43285,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "MOONSHOT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -50560,13 +50585,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "PENGUINUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -53443,13 +53461,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -86859,13 +86877,6 @@
           },
           {
             "symbol": "STGUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "STGUSDT",
             "quote": "USDT",
             "type": "swap"
           }

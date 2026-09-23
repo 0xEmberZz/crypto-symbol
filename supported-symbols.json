@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:14:12.095Z",
+  "generated_at": "2026-09-23T05:45:58.504Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3136,
+      "count": 3137,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2250,
+      "count": 2252,
       "error": null
     },
     "Hyperliquid": {
@@ -5365,13 +5365,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "APTUSDC",
-            "quote": "USDC",
+            "symbol": "APTUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "APTUSDT",
-            "quote": "USDT",
+            "symbol": "APTUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -43120,6 +43120,17 @@
         ]
       }
     },
+    "MONITOR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MONITOR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MONTAGE": {
       "listings": {
         "Gate": [
@@ -43286,6 +43297,18 @@
         "Gate": [
           {
             "symbol": "MOONSHOT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "MOONSHOTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "MOONSHOTUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:39:26.514Z",
+  "generated_at": "2026-09-23T20:07:02.692Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 219,
+      "count": 220,
       "error": null
     }
   },
@@ -49536,6 +49536,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Lighter": [
+          {
+            "symbol": "OURA",
+            "quote": "USDC",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -53648,13 +53655,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

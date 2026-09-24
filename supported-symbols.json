@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T01:16:41.452Z",
+  "generated_at": "2026-09-24T07:30:13.582Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 760,
+      "count": 759,
       "error": null
     },
     "Bybit": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3140,
+      "count": 3150,
       "error": null
     },
     "KuCoin": {
@@ -11485,6 +11485,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "BLSH_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -17353,6 +17360,13 @@
         "Bitget": [
           {
             "symbol": "CORZUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CORZ_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -28522,6 +28536,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "GNRC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -28842,6 +28863,17 @@
             "symbol": "GOOGLX_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "GP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "GP_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -34629,6 +34661,13 @@
         "Bitget": [
           {
             "symbol": "JEPQUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "JEPQ_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -44276,6 +44315,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "MSTU_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -47963,6 +48009,13 @@
         "Bitget": [
           {
             "symbol": "OKLOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "OKLO_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -53655,13 +53708,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -87234,6 +87287,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "SDGR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -87242,6 +87302,13 @@
         "Bitget": [
           {
             "symbol": "SECZUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "SECZ_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -98891,6 +98958,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "USDBRL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -99186,13 +99260,6 @@
     },
     "USDP": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "USDPUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "USDP_USDT",

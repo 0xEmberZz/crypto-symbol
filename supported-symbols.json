@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:32:16.901Z",
+  "generated_at": "2026-09-25T13:33:24.949Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 457,
+      "count": 451,
       "error": null
     },
     "OKX": {
@@ -32700,13 +32700,6 @@
     },
     "ICX": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "ICXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "OKX": [
           {
             "symbol": "ICX-USDT",
@@ -39782,11 +39775,6 @@
             "symbol": "LUNCUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "LUNCUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bitget": [
@@ -45851,13 +45839,6 @@
     },
     "NEON": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "NEONUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "NEON_USDT",
@@ -86734,11 +86715,6 @@
             "symbol": "SANDUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "SANDUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "OKX": [
@@ -93661,11 +93637,6 @@
             "symbol": "SWELLUSDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "SWELLUSDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Bitget": [
@@ -94090,13 +94061,6 @@
     },
     "TAC": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "TACUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "TACUSDT",

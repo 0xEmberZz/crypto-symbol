@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:13:51.876Z",
+  "generated_at": "2026-09-27T21:59:05.775Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -2037,13 +2037,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ADAUSDT",
-            "quote": "USDT",
+            "symbol": "ADAUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "ADAUSDC",
-            "quote": "USDC",
+            "symbol": "ADAUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

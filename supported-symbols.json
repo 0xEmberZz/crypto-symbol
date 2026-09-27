@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:16:43.786Z",
+  "generated_at": "2026-09-27T07:56:55.116Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3150,
+      "count": 3151,
       "error": null
     },
     "KuCoin": {
@@ -22010,6 +22010,17 @@
             "symbol": "@228",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "EACC": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "EACC_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

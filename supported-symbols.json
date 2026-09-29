@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:16:16.015Z",
+  "generated_at": "2026-09-29T15:37:21.658Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3160,
+      "count": 3169,
       "error": null
     },
     "KuCoin": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 611,
+      "count": 612,
       "error": null
     },
     "Aster": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 220,
+      "count": 221,
       "error": null
     }
   },
@@ -13916,6 +13916,17 @@
         ]
       }
     },
+    "BWET": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BWET_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "BWXT": {
       "listings": {
         "Gate": [
@@ -14517,6 +14528,18 @@
             "symbol": "CARDS-USDC",
             "quote": "USDC",
             "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "CARDS_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "CARDS_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -18023,6 +18046,17 @@
         ]
       }
     },
+    "CRML": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CRML_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CRO": {
       "listings": {
         "OKX": [
@@ -19003,6 +19037,17 @@
           },
           {
             "symbol": "CVCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CVNA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CVNA_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -42809,6 +42854,17 @@
         ]
       }
     },
+    "MKTS-BVIV": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "190023",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MKTS-SMALL2000": {
       "listings": {
         "Hyperliquid": [
@@ -53285,6 +53341,13 @@
           {
             "symbol": "PRLUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "PRL",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -85493,6 +85556,17 @@
         ]
       }
     },
+    "RUM": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "RUM_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "RUMAC": {
       "listings": {
         "Bitget": [
@@ -100138,6 +100212,17 @@
         ]
       }
     },
+    "TWST": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "TWST_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TWT": {
       "listings": {
         "Binance": [
@@ -103924,6 +104009,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "WBD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -106421,6 +106513,13 @@
           },
           {
             "symbol": "XDP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "XDP_USDT",
             "quote": "USDT",
             "type": "swap"
           }

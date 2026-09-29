@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:43:26.302Z",
+  "generated_at": "2026-09-29T08:16:16.015Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2264,
+      "count": 2266,
       "error": null
     },
     "Hyperliquid": {
@@ -36250,6 +36250,18 @@
         "Gate": [
           {
             "symbol": "KIOXIA_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "KIOXIAUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "KIOXIAUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -101623,13 +101635,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "USDEUSDT",
-            "quote": "USDT",
+            "symbol": "USDEUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "USDEUSDC",
-            "quote": "USDC",
+            "symbol": "USDEUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

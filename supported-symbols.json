@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:57:40.327Z",
+  "generated_at": "2026-10-01T08:40:29.164Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1185,
+      "count": 1186,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4213,
+      "count": 4214,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3141,
+      "count": 3142,
       "error": null
     },
     "KuCoin": {
@@ -18792,6 +18792,11 @@
             "symbol": "CTUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "CTUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "Gate": [
@@ -18799,6 +18804,11 @@
             "symbol": "CT_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "CT_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ],
         "KuCoin": [
@@ -53836,13 +53846,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -55105,6 +55115,13 @@
     },
     "QUANT": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "QUANT-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Hyperliquid": [
           {
             "symbol": "@155",

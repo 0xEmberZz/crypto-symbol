@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:40:29.164Z",
+  "generated_at": "2026-10-01T16:14:50.603Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3142,
+      "count": 3143,
       "error": null
     },
     "KuCoin": {
@@ -90798,6 +90798,11 @@
     "SI": {
       "listings": {
         "Gate": [
+          {
+            "symbol": "SI_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "SI_USDT",
             "quote": "USDT",

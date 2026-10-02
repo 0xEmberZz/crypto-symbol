@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:17:53.840Z",
+  "generated_at": "2026-10-02T15:38:52.686Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1186,
+      "count": 1191,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3143,
+      "count": 3144,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 573,
+      "count": 570,
       "error": null
     },
     "Lighter": {
@@ -1767,6 +1767,13 @@
     },
     "ACN": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ACN-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "ACNUSDT",
@@ -13946,6 +13953,13 @@
     },
     "BWET": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "BWET-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "BWETUSDT",
@@ -30149,6 +30163,13 @@
     },
     "H100": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "H100-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "H100USDT",
@@ -41782,17 +41803,6 @@
         ]
       }
     },
-    "MEMESTOCK": {
-      "listings": {
-        "Aster": [
-          {
-            "symbol": "MEMESTOCKUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "MENGO": {
       "listings": {
         "OKX": [
@@ -46748,6 +46758,13 @@
     },
     "NKE": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "NKE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "NKEUSDT",
@@ -52366,6 +52383,17 @@
         ]
       }
     },
+    "POD": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "POD_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "POET": {
       "listings": {
         "OKX": [
@@ -53465,13 +53493,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "PROMPTUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -53841,13 +53862,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -53973,13 +53994,6 @@
             "symbol": "PUMPBTC_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "PUMPBTCUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -89891,6 +89905,13 @@
     },
     "SECZ": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "SECZ-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "SECZUSDT",

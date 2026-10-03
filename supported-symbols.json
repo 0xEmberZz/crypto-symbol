@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:24:07.367Z",
+  "generated_at": "2026-10-03T17:09:01.582Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3144,
+      "count": 3146,
       "error": null
     },
     "KuCoin": {
@@ -31620,6 +31620,28 @@
             "symbol": "HOOK_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HOOKED": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HOOKED_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "HOOKR": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "HOOKR_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

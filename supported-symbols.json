@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:18:31.733Z",
+  "generated_at": "2026-10-03T12:24:07.367Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1191,
+      "count": 1186,
       "error": null
     },
     "Bitget": {
@@ -21402,13 +21402,6 @@
     },
     "DORA": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "DORA-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DORA_USDT",
@@ -22789,13 +22782,6 @@
     },
     "ELF": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "ELF-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ELF_USDT",
@@ -32879,13 +32865,6 @@
     },
     "ICX": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "ICX-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "ICXUSDT",
@@ -53869,13 +53848,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "PUMPUSDT",
-            "quote": "USDT",
+            "symbol": "PUMPUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "PUMPUSDC",
-            "quote": "USDC",
+            "symbol": "PUMPUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],
@@ -94998,13 +94977,6 @@
     },
     "STORJ": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "STORJ-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "STORJ_USDT",
@@ -111358,13 +111330,6 @@
     },
     "ZEUS": {
       "listings": {
-        "OKX": [
-          {
-            "symbol": "ZEUS-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "ZEUS_USDT",

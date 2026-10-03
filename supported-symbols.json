@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:09:01.582Z",
+  "generated_at": "2026-10-03T20:55:12.451Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 571,
+      "count": 572,
       "error": null
     },
     "Lighter": {
@@ -47364,6 +47364,17 @@
         "Bitget": [
           {
             "symbol": "NTAPUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "NULLMASK": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "NULLMASKUSDT",
             "quote": "USDT",
             "type": "swap"
           }

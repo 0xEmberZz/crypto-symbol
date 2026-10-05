@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:39:59.113Z",
+  "generated_at": "2026-10-05T06:46:45.850Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3146,
+      "count": 3147,
       "error": null
     },
     "KuCoin": {
@@ -2650,6 +2650,17 @@
             "symbol": "AFC_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "AGENCY": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AGENCY_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

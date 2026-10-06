@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:28:14.373Z",
+  "generated_at": "2026-10-06T02:50:38.742Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4213,
+      "count": 4212,
       "error": null
     },
     "Gate": {
@@ -65697,17 +65697,6 @@
           {
             "symbol": "@111",
             "quote": "USDC",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RETHA": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RETHAUSDT",
-            "quote": "USDT",
             "type": "spot"
           }
         ]

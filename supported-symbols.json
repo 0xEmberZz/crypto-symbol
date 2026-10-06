@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T02:50:38.742Z",
+  "generated_at": "2026-10-06T10:01:20.395Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 759,
+      "count": 758,
       "error": null
     },
     "Bybit": {
@@ -19,12 +19,12 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4212,
+      "count": 4213,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3147,
+      "count": 3146,
       "error": null
     },
     "KuCoin": {
@@ -43959,13 +43959,6 @@
             "type": "swap"
           }
         ],
-        "Gate": [
-          {
-            "symbol": "MP_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "KuCoin": [
           {
             "symbol": "MPUSDTM",
@@ -60702,6 +60695,17 @@
         "Bitget": [
           {
             "symbol": "RCBREUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RCBRG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RCBRGUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -94797,13 +94801,6 @@
     },
     "STG": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "STGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Bitget": [
           {
             "symbol": "STGUSDT",

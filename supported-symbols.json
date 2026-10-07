@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-07T08:28:41.082Z",
+  "generated_at": "2026-10-07T16:17:32.775Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 758,
+      "count": 762,
       "error": null
     },
     "Bybit": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4218,
+      "count": 4217,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 221,
+      "count": 222,
       "error": null
     }
   },
@@ -35070,6 +35070,17 @@
         ]
       }
     },
+    "JPMB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "JPMBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "JPMG": {
       "listings": {
         "Gate": [
@@ -38907,6 +38918,17 @@
             "symbol": "LLYUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "LLYB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "LLYBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -90023,6 +90045,17 @@
         ]
       }
     },
+    "SECZB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "SECZBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "SEDA": {
       "listings": {
         "Hyperliquid": [
@@ -101780,6 +101813,17 @@
         ]
       }
     },
+    "USDEB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "USDEBUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "USDESTOCK": {
       "listings": {
         "Bitget": [
@@ -102501,6 +102545,17 @@
             "symbol": "VARA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "VARIATIONAL": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "VARIATIONAL",
+            "quote": "USDC",
+            "type": "swap"
           }
         ]
       }
@@ -104028,13 +104083,6 @@
     },
     "WBD": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "WBDUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Gate": [
           {
             "symbol": "WBD_USDT",

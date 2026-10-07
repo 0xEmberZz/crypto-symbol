@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:22:04.455Z",
+  "generated_at": "2026-10-07T08:28:41.082Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3146,
+      "count": 3147,
       "error": null
     },
     "KuCoin": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 617,
+      "count": 618,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 572,
+      "count": 573,
       "error": null
     },
     "Lighter": {
@@ -44325,6 +44325,17 @@
         ]
       }
     },
+    "MSP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MSP_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "MSQ": {
       "listings": {
         "Gate": [
@@ -50294,6 +50305,17 @@
         "Hyperliquid": [
           {
             "symbol": "180024",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-SMH": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180037",
             "quote": "USDC",
             "type": "swap"
           }
@@ -72779,6 +72801,13 @@
             "symbol": "RLC-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "RLCUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

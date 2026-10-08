@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:44:39.274Z",
+  "generated_at": "2026-10-08T16:19:17.146Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4215,
+      "count": 4214,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 222,
+      "count": 223,
       "error": null
     }
   },
@@ -21825,6 +21825,13 @@
           {
             "symbol": "DRVUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "DRV",
+            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -87308,17 +87315,6 @@
         "Bitget": [
           {
             "symbol": "RWBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RWBD": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RWBDUSDT",
             "quote": "USDT",
             "type": "spot"
           }

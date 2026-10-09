@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:48:36.021Z",
+  "generated_at": "2026-10-09T16:03:12.037Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1188,
+      "count": 1194,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4214,
+      "count": 4218,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3146,
+      "count": 3145,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 573,
+      "count": 574,
       "error": null
     },
     "Lighter": {
@@ -15217,6 +15217,13 @@
     },
     "CEG": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CEGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CEG_USDT",
@@ -30538,6 +30545,13 @@
     },
     "HD": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "HDUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "HD_USDT",
@@ -37904,6 +37918,17 @@
             "symbol": "LEGION_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "LEN": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "LENUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -50685,6 +50710,17 @@
             "symbol": "@114",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "PEARL": {
+      "listings": {
+        "Aster": [
+          {
+            "symbol": "PEARLUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -89569,6 +89605,17 @@
         ]
       }
     },
+    "SBUX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SBUXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SBUXON": {
       "listings": {
         "Gate": [
@@ -103820,17 +103867,6 @@
         ]
       }
     },
-    "WBD": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "WBD_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "WBETH": {
       "listings": {
         "Binance": [
@@ -105253,6 +105289,17 @@
         ]
       }
     },
+    "XAEHR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAEHR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAG": {
       "listings": {
         "OKX": [
@@ -106084,6 +106131,17 @@
         ]
       }
     },
+    "XCRDO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCRDO-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XCRM": {
       "listings": {
         "OKX": [
@@ -106450,6 +106508,17 @@
         ]
       }
     },
+    "XFLNC": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XFLNC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XGEV": {
       "listings": {
         "OKX": [
@@ -106505,6 +106574,17 @@
           {
             "symbol": "XGOOGL-USDC",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XGPRO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XGPRO-USDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -107520,6 +107600,17 @@
         ]
       }
     },
+    "XOUST": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XOUST-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XP": {
       "listings": {
         "Bitget": [
@@ -107851,6 +107942,17 @@
         "OKX": [
           {
             "symbol": "XPLTR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XPOET": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XPOET-USDT",
             "quote": "USDT",
             "type": "spot"
           }

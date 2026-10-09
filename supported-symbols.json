@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:55:31.254Z",
+  "generated_at": "2026-10-09T08:48:36.021Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,12 +9,12 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 451,
+      "count": 449,
       "error": null
     },
     "OKX": {
       "ok": true,
-      "count": 1186,
+      "count": 1188,
       "error": null
     },
     "Bitget": {
@@ -2694,13 +2694,6 @@
     },
     "AGI": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "AGIUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "AGI_USDT",
@@ -89658,13 +89651,6 @@
     },
     "SCOR": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "SCORUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "SCOR_USDT",
@@ -105935,6 +105921,17 @@
         ]
       }
     },
+    "XBRKB": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XBRKB-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XBSP": {
       "listings": {
         "OKX": [
@@ -108875,6 +108872,17 @@
         "OKX": [
           {
             "symbol": "XWDC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XWEN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XWEN-USDT",
             "quote": "USDT",
             "type": "spot"
           }

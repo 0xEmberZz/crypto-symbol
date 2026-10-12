@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:23:42.101Z",
+  "generated_at": "2026-10-12T07:11:11.950Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1194,
+      "count": 1197,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4216,
+      "count": 4221,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3145,
+      "count": 3138,
       "error": null
     },
     "KuCoin": {
@@ -8500,17 +8500,6 @@
         "KuCoin": [
           {
             "symbol": "AZERO-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "AZNX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "AZNX_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -18451,17 +18440,6 @@
         "Binance": [
           {
             "symbol": "CRWDBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "CRWDX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "CRWDX_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -35685,6 +35663,17 @@
         ]
       }
     },
+    "KAKAO": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KAKAOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KALSHI": {
       "listings": {
         "Gate": [
@@ -35967,6 +35956,17 @@
         ]
       }
     },
+    "KBFG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KBFGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KBHLD": {
       "listings": {
         "Gate": [
@@ -36233,6 +36233,17 @@
             "symbol": "@336",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "KIA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KIAUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -38026,6 +38037,17 @@
         "Gate": [
           {
             "symbol": "LGELECTRONICS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "LGENERGY": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "LGENERGYUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -44519,28 +44541,6 @@
         ]
       }
     },
-    "MTR": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "MTR_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "MTRG": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "MTRG_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "MTV": {
       "listings": {
         "Gate": [
@@ -46357,28 +46357,6 @@
         "Gate": [
           {
             "symbol": "NFLXG_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "NFLXON": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "NFLXON_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "NFLXX": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "NFLXX_USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -94255,6 +94233,17 @@
         ]
       }
     },
+    "SSBIOLOGICS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "SSBIOLOGICSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "SSG": {
       "listings": {
         "Gate": [
@@ -98323,11 +98312,6 @@
     "TQQQX": {
       "listings": {
         "Gate": [
-          {
-            "symbol": "TQQQX_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "TQQQX_USDT",
             "quote": "USDT",
@@ -105487,6 +105471,17 @@
         ]
       }
     },
+    "XAMC": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAMC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XAMD": {
       "listings": {
         "OKX": [
@@ -105868,6 +105863,17 @@
         "OKX": [
           {
             "symbol": "XAVGO-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XBB": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XBB-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -108048,6 +108054,17 @@
         "OKX": [
           {
             "symbol": "XQCOM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XQNT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XQNT-USDT",
             "quote": "USDT",
             "type": "spot"
           }

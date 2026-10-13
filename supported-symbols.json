@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:28:42.890Z",
+  "generated_at": "2026-10-13T07:34:56.176Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1202,
+      "count": 1206,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4223,
+      "count": 4228,
       "error": null
     },
     "Gate": {
@@ -35101,6 +35101,17 @@
         ]
       }
     },
+    "JPMUFG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "JPMUFGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "JPN225": {
       "listings": {
         "Gate": [
@@ -35130,6 +35141,17 @@
             "symbol": "JPN2253S_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "JPSONY": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "JPSONYUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -44886,6 +44908,17 @@
             "symbol": "@116",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MURATA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MURATAUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -96866,6 +96899,17 @@
         ]
       }
     },
+    "TAIYOYUDEN": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TAIYOYUDENUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "TAKE": {
       "listings": {
         "Gate": [
@@ -98441,6 +98485,17 @@
         "Aster": [
           {
             "symbol": "TOWNSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "TOYOTA": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TOYOTAUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -107388,6 +107443,17 @@
         ]
       }
     },
+    "XLUNR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XLUNR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XLV": {
       "listings": {
         "Bitget": [
@@ -107863,6 +107929,17 @@
         ]
       }
     },
+    "XOSCR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XOSCR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XOUST": {
       "listings": {
         "OKX": [
@@ -107985,6 +108062,17 @@
         "Gate": [
           {
             "symbol": "XPD3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XPENG": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XPENG-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -108336,6 +108424,17 @@
         "Gate": [
           {
             "symbol": "XPT3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XPURR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XPURR-USDT",
             "quote": "USDT",
             "type": "spot"
           }

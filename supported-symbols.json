@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:02:58.116Z",
+  "generated_at": "2026-10-14T05:59:56.803Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4324,
+      "count": 4325,
       "error": null
     },
     "Gate": {
@@ -73018,6 +73018,17 @@
         "Bitget": [
           {
             "symbol": "RKOPNUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RKORU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RKORUUSDT",
             "quote": "USDT",
             "type": "spot"
           }

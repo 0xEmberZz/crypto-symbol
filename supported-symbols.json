@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T11:36:07.384Z",
+  "generated_at": "2026-10-14T16:58:30.590Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 763,
+      "count": 767,
       "error": null
     },
     "Bybit": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3155,
+      "count": 3156,
       "error": null
     },
     "KuCoin": {
@@ -9918,6 +9918,17 @@
             "symbol": "BB",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "BBB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "BBBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -34842,6 +34853,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "JIO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -41457,6 +41475,17 @@
             "symbol": "MDB_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "MDBB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "MDBBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -51053,6 +51082,17 @@
             "symbol": "PENGUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "PENGB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "PENGBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -103541,6 +103581,17 @@
             "symbol": "UVXYUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "UVXYB": {
+      "listings": {
+        "Binance": [
+          {
+            "symbol": "UVXYBUSDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

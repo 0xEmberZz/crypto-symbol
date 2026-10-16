@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:09:33.679Z",
+  "generated_at": "2026-10-16T16:28:06.248Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1234,
+      "count": 1235,
       "error": null
     },
     "Bitget": {
@@ -20905,6 +20905,13 @@
     },
     "DNA": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "DNA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "DNAUSDT",

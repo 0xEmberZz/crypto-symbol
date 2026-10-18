@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:47:57.711Z",
+  "generated_at": "2026-10-18T13:08:15.678Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3158,
+      "count": 3159,
       "error": null
     },
     "KuCoin": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 620,
+      "count": 621,
       "error": null
     },
     "Aster": {
@@ -16623,6 +16623,17 @@
         "Aster": [
           {
             "symbol": "CLANKERUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "CLAUDIA": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CLAUDIA_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -50469,6 +50480,17 @@
         "Hyperliquid": [
           {
             "symbol": "180001",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-PAPER": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180038",
             "quote": "USDC",
             "type": "swap"
           }

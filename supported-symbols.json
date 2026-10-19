@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:11:49.185Z",
+  "generated_at": "2026-10-19T23:30:35.180Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,12 +34,12 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 622,
+      "count": 621,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 579,
+      "count": 578,
       "error": null
     },
     "Lighter": {
@@ -20273,13 +20273,6 @@
           },
           {
             "symbol": "DELLUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "DELLUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -50563,17 +50556,6 @@
         "Hyperliquid": [
           {
             "symbol": "180001",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "PARA-PAPER": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "180038",
             "quote": "USDC",
             "type": "swap"
           }

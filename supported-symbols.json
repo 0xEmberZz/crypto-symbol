@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:53:11.469Z",
+  "generated_at": "2026-10-20T19:06:26.683Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4448,
+      "count": 4447,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 223,
+      "count": 224,
       "error": null
     }
   },
@@ -86165,17 +86165,6 @@
         ]
       }
     },
-    "RTCEHY": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RTCEHYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "RTCOM": {
       "listings": {
         "Bitget": [
@@ -107128,6 +107117,17 @@
           {
             "symbol": "WEETH_USDT",
             "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "WEETH/USDC": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "weETH/USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

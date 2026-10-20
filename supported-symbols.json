@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:27:59.822Z",
+  "generated_at": "2026-10-20T09:55:26.764Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1235,
+      "count": 1239,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4450,
+      "count": 4448,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3168,
+      "count": 3169,
       "error": null
     },
     "KuCoin": {
@@ -18131,6 +18131,13 @@
     },
     "CRML": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CRML-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CRMLUSDT",
@@ -19208,6 +19215,13 @@
     },
     "CVNA": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CVNA-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CVNAUSDT",
@@ -28020,13 +28034,6 @@
     },
     "GHO": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "GHOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "GHO_USDT",
@@ -44166,6 +44173,13 @@
     },
     "MP": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MPUSDT",
@@ -44219,6 +44233,11 @@
             "symbol": "MPLX_USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "MPLX_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -58409,17 +58428,6 @@
         "Gate": [
           {
             "symbol": "RATING_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RATKR": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RATKRUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -88043,6 +88051,13 @@
     },
     "RUM": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "RUM-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "RUMUSDT",

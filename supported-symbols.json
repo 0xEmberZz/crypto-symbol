@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:30:35.180Z",
+  "generated_at": "2026-10-20T04:27:59.822Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4451,
+      "count": 4450,
       "error": null
     },
     "Gate": {
@@ -20277,6 +20277,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "DELLUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "DELL",
@@ -23485,13 +23492,6 @@
             "symbol": "EPICUSDC",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "EPICUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [
@@ -50329,13 +50329,6 @@
         "Gate": [
           {
             "symbol": "PAPER_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "PAPERUSDT",
             "quote": "USDT",
             "type": "swap"
           }

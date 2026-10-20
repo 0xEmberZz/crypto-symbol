@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:55:26.764Z",
+  "generated_at": "2026-10-20T14:53:11.469Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1239,
+      "count": 1241,
       "error": null
     },
     "Bitget": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 621,
+      "count": 622,
       "error": null
     },
     "Aster": {
@@ -50480,6 +50480,17 @@
         "Hyperliquid": [
           {
             "symbol": "180020",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-DRV": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180035",
             "quote": "USDC",
             "type": "swap"
           }
@@ -102931,6 +102942,13 @@
     },
     "TWST": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "TWST-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "TWSTUSDT",
@@ -110507,6 +110525,11 @@
           {
             "symbol": "XNFLX-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "XNFLX-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:38:49.853Z",
+  "generated_at": "2026-10-21T18:31:23.169Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1239,
+      "count": 1240,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4450,
+      "count": 4456,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3152,
+      "count": 3153,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 573,
+      "count": 574,
       "error": null
     },
     "Lighter": {
@@ -1450,6 +1450,13 @@
     },
     "ABBV": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "ABBVUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "ABBV_USDT",
@@ -8210,11 +8217,30 @@
     },
     "AXIS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "AXIS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AXISUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "AXISUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "AXISUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -22341,6 +22367,13 @@
     },
     "EBAY": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "EBAYUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "EBAY_USDT",
@@ -31189,6 +31222,17 @@
         ]
       }
     },
+    "HLT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "HLTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "HMND": {
       "listings": {
         "KuCoin": [
@@ -32694,6 +32738,13 @@
     },
     "IBKR": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "IBKRUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "IBKR_USDT",
@@ -44368,6 +44419,17 @@
         ]
       }
     },
+    "MSCI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MSCIUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "MSFT": {
       "listings": {
         "OKX": [
@@ -53597,6 +53659,13 @@
     },
     "PREDICT": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "PREDICT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Aster": [
           {
             "symbol": "PREDICTUSDT",

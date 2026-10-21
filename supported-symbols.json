@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:31:23.169Z",
+  "generated_at": "2026-10-21T22:13:32.476Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9934,13 +9934,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

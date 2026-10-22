@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:40:34.202Z",
+  "generated_at": "2026-10-22T18:26:45.624Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4457,
+      "count": 4459,
       "error": null
     },
     "Gate": {
@@ -20646,6 +20646,17 @@
             "symbol": "DGMA_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "DHR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DHRUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -102506,6 +102517,17 @@
           },
           {
             "symbol": "TSTBSCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "TSTOCK": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "TSTOCKUSDT",
             "quote": "USDT",
             "type": "swap"
           }

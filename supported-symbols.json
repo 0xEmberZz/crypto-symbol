@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:24:19.769Z",
+  "generated_at": "2026-10-22T13:40:34.202Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1240,
+      "count": 1248,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4456,
+      "count": 4457,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3154,
+      "count": 3153,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2277,
+      "count": 2278,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 574,
+      "count": 568,
       "error": null
     },
     "Lighter": {
@@ -1450,6 +1450,13 @@
     },
     "ABBV": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ABBV-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "ABBVUSDT",
@@ -4390,6 +4397,13 @@
     },
     "AMGN": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "AMGN-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "AMGNUSDT",
@@ -8011,13 +8025,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "AVLUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -8237,6 +8244,11 @@
           }
         ],
         "KuCoin": [
+          {
+            "symbol": "AXIS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
           {
             "symbol": "AXISUSDTM",
             "quote": "USDT",
@@ -9819,13 +9831,6 @@
             "symbol": "BAYUSDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "BAYUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -13803,6 +13808,13 @@
     },
     "BTW": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "BTW-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "BTWUSDT",
@@ -27799,6 +27811,13 @@
     },
     "GE": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "GE-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "GEUSDT",
@@ -41651,13 +41670,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Gate": [
-          {
-            "symbol": "MDT_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -43123,13 +43135,6 @@
           },
           {
             "symbol": "MITOUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "MITOUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -46356,13 +46361,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "NESUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -47922,6 +47920,13 @@
     },
     "NVO": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "NVO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "NVO_USDT",
@@ -50346,6 +50351,13 @@
     },
     "PANW": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "PANW-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "PANWUSDT",
@@ -54223,13 +54235,6 @@
           },
           {
             "symbol": "PTBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "PTBUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -86048,6 +86053,17 @@
         ]
       }
     },
+    "RT1": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RT1USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RTAC": {
       "listings": {
         "Bitget": [
@@ -105449,13 +105465,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "VELOUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -106217,6 +106226,13 @@
     },
     "VST": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "VST-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "VSTUSDT",
@@ -112363,6 +112379,11 @@
           {
             "symbol": "XWDC-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "XWDC-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

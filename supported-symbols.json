@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:23:47.046Z",
+  "generated_at": "2026-10-22T07:24:19.769Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3153,
+      "count": 3154,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2275,
+      "count": 2277,
       "error": null
     },
     "Hyperliquid": {
@@ -8232,6 +8232,18 @@
           },
           {
             "symbol": "AXISUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AXISUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "AXISUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -36513,6 +36525,17 @@
             "symbol": "KILO_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "KIMCHI": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "KIMCHI_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:16:41.094Z",
+  "generated_at": "2026-10-23T18:12:56.655Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1258,
+      "count": 1259,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4453,
+      "count": 4457,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 571,
+      "count": 572,
       "error": null
     },
     "Lighter": {
@@ -18892,6 +18892,17 @@
         ]
       }
     },
+    "CSX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "CSXUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "CT": {
       "listings": {
         "OKX": [
@@ -34231,6 +34242,13 @@
             "symbol": "IOST-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "IOSTUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -51893,6 +51911,13 @@
     },
     "PG": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PG_USDT",
@@ -75196,6 +75221,17 @@
         ]
       }
     },
+    "RLU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RLUUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RLULU": {
       "listings": {
         "Bitget": [
@@ -96661,6 +96697,13 @@
     },
     "SPOT": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "SPOTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "SPOT_USDT",
@@ -100093,11 +100136,6 @@
             "symbol": "TEST002-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "TEST002-USDT-SWAP",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -112086,6 +112124,22 @@
           {
             "symbol": "XTER-USDT",
             "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XTESTA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTESTA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "XTESTA-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

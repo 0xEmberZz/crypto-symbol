@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:22:13.865Z",
+  "generated_at": "2026-10-23T07:18:06.271Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1248,
+      "count": 1251,
       "error": null
     },
     "Bitget": {
@@ -24,17 +24,17 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3153,
+      "count": 3157,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2278,
+      "count": 2274,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 622,
+      "count": 623,
       "error": null
     },
     "Aster": {
@@ -20658,6 +20658,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "DHR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -31269,6 +31276,13 @@
         "Bitget": [
           {
             "symbol": "HLTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "HLT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -43137,18 +43151,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "MITOUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "MITOUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -44466,6 +44468,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "MSCI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -45322,6 +45331,17 @@
             "symbol": "MXUSDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MXL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "MXL_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -54238,16 +54258,6 @@
             "symbol": "PTB-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "PTBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          },
-          {
-            "symbol": "PTBUSDTM",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -108381,6 +108391,17 @@
         ]
       }
     },
+    "XACN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XACN-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XADBE": {
       "listings": {
         "OKX": [
@@ -109024,6 +109045,17 @@
         ]
       }
     },
+    "XAXTI": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XAXTI-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XBB": {
       "listings": {
         "OKX": [
@@ -109239,6 +109271,17 @@
           {
             "symbol": "XCOIN-USDC",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XCOST": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XCOST-USDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -113017,6 +113060,17 @@
         "Hyperliquid": [
           {
             "symbol": "110109",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-JIO": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110134",
             "quote": "USDC",
             "type": "swap"
           }

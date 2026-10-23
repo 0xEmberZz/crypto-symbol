@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:18:06.271Z",
+  "generated_at": "2026-10-23T13:16:41.094Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1251,
+      "count": 1258,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4458,
+      "count": 4453,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3157,
+      "count": 3159,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 568,
+      "count": 571,
       "error": null
     },
     "Lighter": {
@@ -13602,6 +13602,11 @@
             "symbol": "BTCUSDT",
             "quote": "USDT",
             "type": "swap"
+          },
+          {
+            "symbol": "BTCUSDC",
+            "quote": "USDC",
+            "type": "swap"
           }
         ],
         "Lighter": [
@@ -19159,6 +19164,13 @@
     },
     "CUDIS": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CUDISUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CUDIS_USDT",
@@ -21099,13 +21111,6 @@
     },
     "DOG": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "DOGUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "DOG_USDT",
@@ -21934,11 +21939,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "DRIFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "DRIFTUSDT",
             "quote": "USDT",
@@ -24142,6 +24142,11 @@
           {
             "symbol": "ETHUSDT",
             "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "ETHUSDC",
+            "quote": "USDC",
             "type": "swap"
           }
         ],
@@ -27436,13 +27441,6 @@
     "GAIB": {
       "listings": {
         "Bybit": [
-          {
-            "symbol": "GAIBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Bitget": [
           {
             "symbol": "GAIBUSDT",
             "quote": "USDT",
@@ -33090,17 +33088,6 @@
         "Gate": [
           {
             "symbol": "ICP3S_USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "ICX": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "ICXUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -41692,6 +41679,13 @@
         "Bitget": [
           {
             "symbol": "MDTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "MDT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -51145,6 +51139,13 @@
     },
     "PEARL": {
       "listings": {
+        "Gate": [
+          {
+            "symbol": "PEARL_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
         "Aster": [
           {
             "symbol": "PEARLUSDT",
@@ -54452,13 +54453,6 @@
     },
     "PUMPBTC": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "PUMPBTCUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "PUMPBTC_USDT",
@@ -75263,6 +75257,11 @@
             "symbol": "RLUSDUSDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "RLUSDUSDC",
+            "quote": "USDC",
+            "type": "spot"
           }
         ],
         "Gate": [
@@ -87693,13 +87692,6 @@
     },
     "RTX": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "RTXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "RTX_USDT",
@@ -89744,13 +89736,6 @@
     },
     "RVV": {
       "listings": {
-        "Bitget": [
-          {
-            "symbol": "RVVUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "RVV_USDT",
@@ -95504,6 +95489,11 @@
             "symbol": "SOLUSDT",
             "quote": "USDT",
             "type": "swap"
+          },
+          {
+            "symbol": "SOLUSDC",
+            "quote": "USDC",
+            "type": "swap"
           }
         ],
         "Lighter": [
@@ -100092,6 +100082,22 @@
             "symbol": "@48",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "TEST002": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "TEST002-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "TEST002-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -109511,6 +109517,17 @@
         ]
       }
     },
+    "XDDOG": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XDDOG-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XDELL": {
       "listings": {
         "OKX": [
@@ -109806,6 +109823,28 @@
         ]
       }
     },
+    "XGS": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XGS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XGTLB": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XGTLB-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XHIMS": {
       "listings": {
         "OKX": [
@@ -109838,6 +109877,17 @@
         "OKX": [
           {
             "symbol": "XHPE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XHUT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XHUT-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -110033,6 +110083,17 @@
         "OKX": [
           {
             "symbol": "XJNJ-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XJPM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XJPM-USDT",
             "quote": "USDT",
             "type": "spot"
           }

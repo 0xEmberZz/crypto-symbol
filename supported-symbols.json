@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:20:21.370Z",
+  "generated_at": "2026-10-26T10:55:21.861Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1259,
+      "count": 1267,
       "error": null
     },
     "Bitget": {
@@ -110503,6 +110503,28 @@
         ]
       }
     },
+    "XMARA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMARA-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XMCD": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMCD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XMETA": {
       "listings": {
         "OKX": [
@@ -110597,6 +110619,28 @@
           {
             "symbol": "@260",
             "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XMRK": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMRK-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XMRNA": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XMRNA-USDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ]
@@ -110721,6 +110765,17 @@
         ]
       }
     },
+    "XNET": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XNET-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XNFLX": {
       "listings": {
         "OKX": [
@@ -110764,6 +110819,17 @@
         "Gate": [
           {
             "symbol": "XNI3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XNKE": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XNKE-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -110869,6 +110935,17 @@
             "symbol": "XNYUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XOKLO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XOKLO-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -111471,6 +111548,17 @@
         "OKX": [
           {
             "symbol": "XPURR-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XPYPL": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XPYPL-USDT",
             "quote": "USDT",
             "type": "spot"
           }

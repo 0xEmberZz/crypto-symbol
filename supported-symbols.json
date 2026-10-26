@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:01:56.141Z",
+  "generated_at": "2026-10-26T04:20:21.370Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2274,
+      "count": 2276,
       "error": null
     },
     "Hyperliquid": {
@@ -53754,6 +53754,18 @@
         "Gate": [
           {
             "symbol": "PREDICT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "PREDICTUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "PREDICTUSDTM",
             "quote": "USDT",
             "type": "swap"
           }

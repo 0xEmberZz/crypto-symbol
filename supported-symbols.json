@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:57:06.741Z",
+  "generated_at": "2026-10-27T07:37:27.115Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1267,
+      "count": 1271,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4458,
+      "count": 4459,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3159,
+      "count": 3164,
       "error": null
     },
     "KuCoin": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 624,
+      "count": 627,
       "error": null
     },
     "Aster": {
@@ -3500,17 +3500,6 @@
         "KuCoin": [
           {
             "symbol": "AKT-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "AL": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "ALUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -8339,6 +8328,17 @@
         "Bitget": [
           {
             "symbol": "AXONUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "AXP": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "AXP_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -18900,6 +18900,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "CSX_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -22804,6 +22811,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "EIDO_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -23632,6 +23646,13 @@
         "Bitget": [
           {
             "symbol": "EQTUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "EQT_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -31706,6 +31727,17 @@
             "symbol": "HONEY_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "HONHAI": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "HONHAIUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -41816,6 +41848,17 @@
         "Aster": [
           {
             "symbol": "MEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "MEDIATEK": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MEDIATEKUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -102622,6 +102665,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "TTMI_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -111701,6 +111751,17 @@
         ]
       }
     },
+    "XRIOT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XRIOT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XRIVN": {
       "listings": {
         "OKX": [
@@ -112068,6 +112129,17 @@
         ]
       }
     },
+    "XSOFI": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XSOFI-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XSONY": {
       "listings": {
         "OKX": [
@@ -112204,8 +112276,37 @@
         ]
       }
     },
+    "XTEAM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTEAM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XTEM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTEM-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XTEN": {
       "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "234",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "XTEN",
@@ -113574,6 +113675,17 @@
         ]
       }
     },
+    "XYZ-NIFTY": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110072",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-NOK": {
       "listings": {
         "Hyperliquid": [
@@ -113700,6 +113812,17 @@
         "Hyperliquid": [
           {
             "symbol": "110112",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-RELIANCE": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110133",
             "quote": "USDC",
             "type": "swap"
           }

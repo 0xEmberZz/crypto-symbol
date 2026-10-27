@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T07:37:27.115Z",
+  "generated_at": "2026-10-27T14:17:51.823Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,32 +14,32 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1271,
+      "count": 1279,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4459,
+      "count": 4460,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3164,
+      "count": 3165,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2276,
+      "count": 2287,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 627,
+      "count": 628,
       "error": null
     },
     "Aster": {
       "ok": true,
-      "count": 572,
+      "count": 573,
       "error": null
     },
     "Lighter": {
@@ -9106,6 +9106,13 @@
     },
     "BAC": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "BAC-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "BACUSDT",
@@ -15299,6 +15306,13 @@
     },
     "CEG": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "CEG-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "CEGUSDT",
@@ -28079,6 +28093,18 @@
             "type": "swap"
           }
         ],
+        "KuCoin": [
+          {
+            "symbol": "GEVUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "GEVUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "GEV",
@@ -32857,6 +32883,13 @@
     },
     "IBKR": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "IBKR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "IBKRUSDT",
@@ -44346,6 +44379,13 @@
     },
     "MPWR": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MPWR-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MPWR_USDT",
@@ -45589,6 +45629,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "NAORIS-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "NAORISUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -46509,6 +46554,18 @@
         "Gate": [
           {
             "symbol": "NET_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "NETUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "NETUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -50479,6 +50536,18 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "PANWUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "PANWUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -50553,6 +50622,17 @@
         "Hyperliquid": [
           {
             "symbol": "180025",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "PARA-ANTH": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "180031",
             "quote": "USDC",
             "type": "swap"
           }
@@ -54780,6 +54860,18 @@
         "Gate": [
           {
             "symbol": "PYPL_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "PYPLUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "PYPLUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -61011,6 +61103,17 @@
         "Bitget": [
           {
             "symbol": "RBUSEUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RBUUU": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RBUUUUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -72519,6 +72622,17 @@
         ]
       }
     },
+    "RITUAL": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "RITUAL_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "RITW": {
       "listings": {
         "Bitget": [
@@ -76882,11 +76996,11 @@
         ]
       }
     },
-    "RMSGS": {
+    "RMSGK": {
       "listings": {
         "Bitget": [
           {
-            "symbol": "RMSGSUSDT",
+            "symbol": "RMSGKUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -100191,17 +100305,6 @@
         ]
       }
     },
-    "TEST002": {
-      "listings": {
-        "OKX": [
-          {
-            "symbol": "TEST002-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
     "TET": {
       "listings": {
         "Gate": [
@@ -103223,6 +103326,18 @@
         "Gate": [
           {
             "symbol": "TXN_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "TXNUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "TXNUSDTM",
             "quote": "USDT",
             "type": "swap"
           }
@@ -112307,6 +112422,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "XTENUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "XTEN",
@@ -112473,6 +112595,17 @@
         "OKX": [
           {
             "symbol": "XTWLO-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XTXN": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XTXN-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -112673,6 +112806,17 @@
         ]
       }
     },
+    "XV": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XV-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XVG": {
       "listings": {
         "Binance": [
@@ -112704,6 +112848,17 @@
             "symbol": "XVGUSDTM",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "XVICR": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XVICR-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -112788,6 +112943,17 @@
         ]
       }
     },
+    "XWMT": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XWMT-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "XXBI": {
       "listings": {
         "OKX": [
@@ -112815,6 +112981,17 @@
         "OKX": [
           {
             "symbol": "XXLE-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XXOM": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XXOM-USDT",
             "quote": "USDT",
             "type": "spot"
           }

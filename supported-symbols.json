@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:34:23.048Z",
+  "generated_at": "2026-10-28T18:44:44.693Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4460,
+      "count": 4465,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 226,
+      "count": 224,
       "error": null
     }
   },
@@ -16819,6 +16819,13 @@
     },
     "CLS": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "CLSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "CLS_USDT",
@@ -19974,6 +19981,17 @@
         ]
       }
     },
+    "DASHSTOCK": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "DASHSTOCKUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "DATA": {
       "listings": {
         "OKX": [
@@ -22634,13 +22652,6 @@
           {
             "symbol": "EDGEUSDT",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "EDGE",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -34752,6 +34763,17 @@
             "symbol": "ITHACA-USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "ITUB": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "ITUBUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -47870,6 +47892,13 @@
     },
     "NU": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "NUUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "NU_USDT",
@@ -51195,6 +51224,13 @@
     },
     "PBR": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PBRUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PBR_USDT",
@@ -54381,13 +54417,6 @@
           {
             "symbol": "PROVEUSDT",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "PROVE",
-            "quote": "USDC",
             "type": "swap"
           }
         ]

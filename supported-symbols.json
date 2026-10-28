@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T23:40:04.451Z",
+  "generated_at": "2026-10-28T05:12:57.703Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 772,
+      "count": 769,
       "error": null
     },
     "Bybit": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2287,
+      "count": 2286,
       "error": null
     },
     "Hyperliquid": {
@@ -20797,13 +20797,6 @@
             "quote": "USDT",
             "type": "spot"
           }
-        ],
-        "KuCoin": [
-          {
-            "symbol": "DIAM-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
         ]
       }
     },
@@ -23611,18 +23604,6 @@
     },
     "EPIC": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "EPICUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "EPICUSDC",
-            "quote": "USDC",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "EPIC_USDT",
@@ -55832,13 +55813,6 @@
     },
     "QUICK": {
       "listings": {
-        "Binance": [
-          {
-            "symbol": "QUICKUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "QUICK_USDT",
@@ -58848,6 +58822,17 @@
         "Bitget": [
           {
             "symbol": "RAURUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RAURE": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RAUREUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -105736,13 +105721,6 @@
             "symbol": "VELODROME-USDC",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Bitget": [
-          {
-            "symbol": "VELODROMEUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ],
         "Gate": [

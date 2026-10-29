@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:44:03.145Z",
+  "generated_at": "2026-10-29T16:49:04.338Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4465,
+      "count": 4468,
       "error": null
     },
     "Gate": {
@@ -29,12 +29,12 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2290,
+      "count": 2291,
       "error": null
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 628,
+      "count": 625,
       "error": null
     },
     "Aster": {
@@ -24996,6 +24996,17 @@
         ]
       }
     },
+    "EWZS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "EWZSUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "EX": {
       "listings": {
         "Hyperliquid": [
@@ -27157,6 +27168,17 @@
         "Gate": [
           {
             "symbol": "FSLR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "FTNT": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "FTNTUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -43326,50 +43348,6 @@
         ]
       }
     },
-    "MKTS-SMALL2000": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "190004",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "MKTS-US500": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "190000",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "MKTS-USBOND": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "190003",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "MKTS-USTECH": {
-      "listings": {
-        "Hyperliquid": [
-          {
-            "symbol": "190005",
-            "quote": "USDC",
-            "type": "swap"
-          }
-        ]
-      }
-    },
     "ML": {
       "listings": {
         "Bitget": [
@@ -52110,6 +52088,13 @@
     },
     "PFE": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "PFEUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "PFE_USDT",
@@ -94709,6 +94694,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "SKYAI-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "SKYAIUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -113662,6 +113652,17 @@
         "Hyperliquid": [
           {
             "symbol": "110083",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-ICE": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110140",
             "quote": "USDC",
             "type": "swap"
           }

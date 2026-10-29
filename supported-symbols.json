@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:18:34.631Z",
+  "generated_at": "2026-10-29T09:44:03.145Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -9,7 +9,7 @@
     },
     "Bybit": {
       "ok": true,
-      "count": 448,
+      "count": 447,
       "error": null
     },
     "OKX": {
@@ -24,12 +24,12 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3164,
+      "count": 3168,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2287,
+      "count": 2290,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 573,
+      "count": 571,
       "error": null
     },
     "Lighter": {
@@ -15125,6 +15125,28 @@
             "symbol": "CBRS",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "CBRS3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CBRS3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "CBRS3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "CBRS3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -31088,13 +31110,6 @@
     },
     "HFT": {
       "listings": {
-        "Bybit": [
-          {
-            "symbol": "HFTUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "HFT_USDT",
@@ -87957,13 +87972,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "RTXUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -96030,6 +96038,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "SONIC-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "SONICUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -96408,6 +96421,28 @@
             "symbol": "SOXS",
             "quote": "USDC",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "SOXS3L": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXS3L_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "SOXS3S": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "SOXS3S_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -98033,13 +98068,6 @@
         "Gate": [
           {
             "symbol": "STONKS_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "STONKSUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -106453,6 +106481,16 @@
             "symbol": "VR-USDC",
             "quote": "USDC",
             "type": "spot"
+          },
+          {
+            "symbol": "VRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          },
+          {
+            "symbol": "VRUSDTM",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:47:29.207Z",
+  "generated_at": "2026-10-30T08:25:57.568Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,17 +14,17 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1279,
+      "count": 1280,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4468,
+      "count": 4467,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3168,
+      "count": 3173,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 571,
+      "count": 570,
       "error": null
     },
     "Lighter": {
@@ -204,17 +204,6 @@
           },
           {
             "symbol": "10000CATUSDTM",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ]
-      }
-    },
-    "10000NEX": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "10000NEXUSDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -3289,13 +3278,6 @@
             "symbol": "@590",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "AIW3USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -10990,6 +10972,17 @@
             "symbol": "@33",
             "quote": "USDC",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "BIDU": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "BIDU_USDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }
@@ -25004,6 +24997,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "EWZS_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -27182,6 +27182,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "FTNT_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -28308,6 +28315,13 @@
     },
     "GIGADEV": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "GIGADEV-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "GIGADEV_USDT",
@@ -34809,6 +34823,13 @@
         "Bitget": [
           {
             "symbol": "ITUBUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "ITUB_USDT",
             "quote": "USDT",
             "type": "swap"
           }
@@ -95115,6 +95136,13 @@
             "quote": "USDT",
             "type": "swap"
           }
+        ],
+        "Gate": [
+          {
+            "symbol": "SMR_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
         ]
       }
     },
@@ -105825,11 +105853,6 @@
             "symbol": "VELODROME-USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "VELODROME-USDC",
-            "quote": "USDC",
-            "type": "spot"
           }
         ],
         "Gate": [
@@ -108634,6 +108657,17 @@
         "Gate": [
           {
             "symbol": "WUXIAPPTEC_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "WUXIBIO": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "WUXIBIO-USDT-SWAP",
             "quote": "USDT",
             "type": "swap"
           }

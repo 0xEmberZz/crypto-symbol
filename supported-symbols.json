@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:02:00.084Z",
+  "generated_at": "2026-11-01T08:59:53.985Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3174,
+      "count": 3173,
       "error": null
     },
     "KuCoin": {
@@ -50425,13 +50425,6 @@
             "symbol": "OXYUSDT",
             "quote": "USDT",
             "type": "swap"
-          }
-        ],
-        "Gate": [
-          {
-            "symbol": "OXY_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }

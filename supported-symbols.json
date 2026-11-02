@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:31:42.830Z",
+  "generated_at": "2026-11-02T18:06:54.087Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1284,
+      "count": 1289,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4464,
+      "count": 4466,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2299,
+      "count": 2304,
       "error": null
     },
     "Hyperliquid": {
@@ -2286,6 +2286,13 @@
     },
     "ADI": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "ADI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "ADIUSDT",
@@ -4552,6 +4559,13 @@
         "Gate": [
           {
             "symbol": "AMZNX_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AMZNX-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -17208,6 +17222,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "COINX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -26098,6 +26119,13 @@
     },
     "FLEX": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "FLEX-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "FLEXUSDT",
@@ -34137,6 +34165,17 @@
         ]
       }
     },
+    "INTCX": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "INTCX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "INTER": {
       "listings": {
         "Gate": [
@@ -39577,6 +39616,17 @@
         ]
       }
     },
+    "LNG": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "LNGUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "LNQ": {
       "listings": {
         "Bitget": [
@@ -42255,6 +42305,13 @@
     },
     "MELI": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "MELI-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "MELIUSDT",
@@ -42754,6 +42811,13 @@
         "Gate": [
           {
             "symbol": "METAX_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "METAX-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -43640,6 +43704,13 @@
     },
     "MO": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MOUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MO_USDT",
@@ -48148,6 +48219,13 @@
             "quote": "USDT",
             "type": "spot"
           }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "NVDAX-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
         ]
       }
     },
@@ -51897,6 +51975,13 @@
     },
     "PEP": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "PEP-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "PEPUSDT",
@@ -103952,6 +104037,13 @@
     },
     "UMC": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "UMC-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "UMC_USDT",

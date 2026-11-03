@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T00:54:01.278Z",
+  "generated_at": "2026-11-03T07:45:53.915Z",
   "version": 1,
   "exchanges": {
     "Binance": {
       "ok": true,
-      "count": 774,
+      "count": 773,
       "error": null
     },
     "Bybit": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1289,
+      "count": 1288,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3173,
+      "count": 3172,
       "error": null
     },
     "KuCoin": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 569,
+      "count": 570,
       "error": null
     },
     "Lighter": {
@@ -98321,6 +98321,13 @@
             "type": "swap"
           }
         ],
+        "Aster": [
+          {
+            "symbol": "STRCUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Lighter": [
           {
             "symbol": "STRC",
@@ -105987,31 +105994,6 @@
             "symbol": "VELOUSDTM",
             "quote": "USDT",
             "type": "swap"
-          }
-        ]
-      }
-    },
-    "VELODROME": {
-      "listings": {
-        "Binance": [
-          {
-            "symbol": "VELODROMEUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "OKX": [
-          {
-            "symbol": "VELODROME-USDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
-        "Gate": [
-          {
-            "symbol": "VELODROME_USDT",
-            "quote": "USDT",
-            "type": "spot"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:45:53.915Z",
+  "generated_at": "2026-11-03T16:02:00.510Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4466,
+      "count": 4467,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2304,
+      "count": 2305,
       "error": null
     },
     "Hyperliquid": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 570,
+      "count": 567,
       "error": null
     },
     "Lighter": {
@@ -33449,6 +33449,11 @@
         ],
         "KuCoin": [
           {
+            "symbol": "IDOL-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
             "symbol": "IDOLUSDTM",
             "quote": "USDT",
             "type": "swap"
@@ -40807,6 +40812,13 @@
     },
     "MA": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "MAUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "MA_USDT",
@@ -41680,13 +41692,6 @@
             "symbol": "MAX_USDT",
             "quote": "USDT",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "MAXUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -50634,13 +50639,6 @@
             "symbol": "@1118",
             "quote": "USDC",
             "type": "spot"
-          }
-        ],
-        "Aster": [
-          {
-            "symbol": "PAIRUSDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -93920,13 +93918,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Aster": [
-          {
-            "symbol": "SHROOMUSDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -95809,13 +95800,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "SOLUSDT",
-            "quote": "USDT",
+            "symbol": "SOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           },
           {
-            "symbol": "SOLUSDC",
-            "quote": "USDC",
+            "symbol": "SOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           }
         ],

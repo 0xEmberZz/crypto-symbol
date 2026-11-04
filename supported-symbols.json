@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:59:49.040Z",
+  "generated_at": "2026-11-04T22:30:23.253Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 224,
+      "count": 225,
       "error": null
     }
   },
@@ -34724,6 +34724,13 @@
           {
             "symbol": "IRENUSDT",
             "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Lighter": [
+          {
+            "symbol": "IREN",
+            "quote": "USDC",
             "type": "swap"
           }
         ]

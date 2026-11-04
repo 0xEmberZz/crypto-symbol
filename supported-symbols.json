@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:58:10.611Z",
+  "generated_at": "2026-11-04T16:59:49.040Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1290,
+      "count": 1291,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4552,
+      "count": 4554,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3172,
+      "count": 3173,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2305,
+      "count": 2306,
       "error": null
     },
     "Hyperliquid": {
@@ -26084,6 +26084,17 @@
         ]
       }
     },
+    "FISV": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "FISVUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "FIWA": {
       "listings": {
         "Gate": [
@@ -37425,6 +37436,31 @@
             "symbol": "KOPNUSDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "KOR": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KORUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "Gate": [
+          {
+            "symbol": "KOR_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "KOR-USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }
@@ -96756,13 +96792,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "SOLUSDC",
-            "quote": "USDC",
+            "symbol": "SOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SOLUSDT",
-            "quote": "USDT",
+            "symbol": "SOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -110230,6 +110266,11 @@
           {
             "symbol": "XASML-USDT",
             "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "XASML-USDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]

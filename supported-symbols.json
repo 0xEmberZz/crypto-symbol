@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:04:26.128Z",
+  "generated_at": "2026-11-05T19:50:52.384Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4559,
+      "count": 4561,
       "error": null
     },
     "Gate": {
@@ -37071,6 +37071,17 @@
         ]
       }
     },
+    "KMB": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "KMBUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "KMNO": {
       "listings": {
         "Binance": [
@@ -44738,6 +44749,17 @@
             "symbol": "MRVLG_USDT",
             "quote": "USDT",
             "type": "spot"
+          }
+        ]
+      }
+    },
+    "MS": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MSUSDT",
+            "quote": "USDT",
+            "type": "swap"
           }
         ]
       }

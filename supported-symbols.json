@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:55:17.004Z",
+  "generated_at": "2026-11-06T07:50:36.028Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4561,
+      "count": 4562,
       "error": null
     },
     "Gate": {
@@ -39,7 +39,7 @@
     },
     "Aster": {
       "ok": true,
-      "count": 566,
+      "count": 567,
       "error": null
     },
     "Lighter": {
@@ -66300,6 +66300,17 @@
         ]
       }
     },
+    "REFV": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "REFVUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "REFX": {
       "listings": {
         "Bitget": [
@@ -99245,6 +99256,13 @@
           },
           {
             "symbol": "STRCUSDTM",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
+        "Aster": [
+          {
+            "symbol": "STRCUSDT",
             "quote": "USDT",
             "type": "swap"
           }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:50:36.028Z",
+  "generated_at": "2026-11-06T15:50:05.888Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1291,
+      "count": 1294,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4562,
+      "count": 4558,
       "error": null
     },
     "Gate": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 225,
+      "count": 226,
       "error": null
     }
   },
@@ -6546,6 +6546,17 @@
         ]
       }
     },
+    "ASELS": {
+      "listings": {
+        "Lighter": [
+          {
+            "symbol": "ASELS",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "ASI": {
       "listings": {
         "Hyperliquid": [
@@ -12891,11 +12902,6 @@
           {
             "symbol": "BRETTUSDT",
             "quote": "USDT",
-            "type": "spot"
-          },
-          {
-            "symbol": "BRETTUSDT",
-            "quote": "USDT",
             "type": "swap"
           }
         ],
@@ -16058,11 +16064,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "CHILLGUYUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "CHILLGUYUSDT",
             "quote": "USDT",
@@ -22825,6 +22826,13 @@
     },
     "EIDO": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "EIDO-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "EIDOUSDT",
@@ -24949,6 +24957,13 @@
     },
     "EWZS": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "EWZS-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "EWZSUSDT",
@@ -26705,11 +26720,6 @@
           }
         ],
         "Bitget": [
-          {
-            "symbol": "FOGOUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          },
           {
             "symbol": "FOGOUSDT",
             "quote": "USDT",
@@ -108670,13 +108680,6 @@
             "type": "spot"
           }
         ],
-        "Bitget": [
-          {
-            "symbol": "WEMIXUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ],
         "Gate": [
           {
             "symbol": "WEMIX_USDT",
@@ -111890,6 +111893,13 @@
     },
     "XLV": {
       "listings": {
+        "OKX": [
+          {
+            "symbol": "XLV-USDT-SWAP",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Bitget": [
           {
             "symbol": "XLVUSDT",

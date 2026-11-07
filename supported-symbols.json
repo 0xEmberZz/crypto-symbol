@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:44:56.292Z",
+  "generated_at": "2026-11-07T08:37:01.676Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3183,
+      "count": 3184,
       "error": null
     },
     "KuCoin": {
@@ -107408,6 +107408,17 @@
             "symbol": "VLO_USDT",
             "quote": "USDT",
             "type": "swap"
+          }
+        ]
+      }
+    },
+    "VLX": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "VLX_USDT",
+            "quote": "USDT",
+            "type": "spot"
           }
         ]
       }

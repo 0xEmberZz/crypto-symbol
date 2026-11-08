@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:44:24.680Z",
+  "generated_at": "2026-11-08T22:44:34.737Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 626,
+      "count": 627,
       "error": null
     },
     "Aster": {
@@ -9958,13 +9958,13 @@
       "listings": {
         "Bybit": [
           {
-            "symbol": "BBSOLUSDC",
-            "quote": "USDC",
+            "symbol": "BBSOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "BBSOLUSDT",
-            "quote": "USDT",
+            "symbol": "BBSOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ]
@@ -22438,6 +22438,17 @@
         ]
       }
     },
+    "EACCAT": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "@719",
+            "quote": "USDC",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "EARTH": {
       "listings": {
         "Hyperliquid": [
@@ -24091,13 +24102,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "ETHUSDC",
-            "quote": "USDC",
+            "symbol": "ETHUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "ETHUSDT",
-            "quote": "USDT",
+            "symbol": "ETHUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -96758,13 +96769,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "SOLUSDC",
-            "quote": "USDC",
+            "symbol": "SOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SOLUSDT",
-            "quote": "USDT",
+            "symbol": "SOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],

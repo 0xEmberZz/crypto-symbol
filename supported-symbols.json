@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:31:13.657Z",
+  "generated_at": "2026-11-09T11:14:10.294Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,22 +14,22 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1294,
+      "count": 1295,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4558,
+      "count": 4559,
       "error": null
     },
     "Gate": {
       "ok": true,
-      "count": 3184,
+      "count": 3185,
       "error": null
     },
     "KuCoin": {
       "ok": true,
-      "count": 2282,
+      "count": 2284,
       "error": null
     },
     "Hyperliquid": {
@@ -12200,6 +12200,17 @@
         ]
       }
     },
+    "BNCOLD": {
+      "listings": {
+        "KuCoin": [
+          {
+            "symbol": "BNCOLD-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
     "BNKR": {
       "listings": {
         "Gate": [
@@ -20827,6 +20838,13 @@
         "Gate": [
           {
             "symbol": "DIAM_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "DIAM-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -61166,6 +61184,17 @@
         "Bitget": [
           {
             "symbol": "RBRDCYUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "RBRKB": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "RBRKBUSDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -110622,6 +110651,11 @@
             "symbol": "XBSP-USDT",
             "quote": "USDT",
             "type": "spot"
+          },
+          {
+            "symbol": "XBSP-USDC",
+            "quote": "USDC",
+            "type": "spot"
           }
         ]
       }
@@ -117918,6 +117952,17 @@
         "Aster": [
           {
             "symbol": "牛来USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "牛逼": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "牛逼_USDT",
             "quote": "USDT",
             "type": "swap"
           }

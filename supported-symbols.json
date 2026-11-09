@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:14:10.294Z",
+  "generated_at": "2026-11-09T22:12:01.233Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -34,7 +34,7 @@
     },
     "Hyperliquid": {
       "ok": true,
-      "count": 627,
+      "count": 629,
       "error": null
     },
     "Aster": {
@@ -115089,6 +115089,17 @@
         ]
       }
     },
+    "XYZ-MUU": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110137",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "XYZ-NATGAS": {
       "listings": {
         "Hyperliquid": [
@@ -115501,6 +115512,17 @@
         "Hyperliquid": [
           {
             "symbol": "110023",
+            "quote": "USDC",
+            "type": "swap"
+          }
+        ]
+      }
+    },
+    "XYZ-TTWO": {
+      "listings": {
+        "Hyperliquid": [
+          {
+            "symbol": "110136",
             "quote": "USDC",
             "type": "swap"
           }

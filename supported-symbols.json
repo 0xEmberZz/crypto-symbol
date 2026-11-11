@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:45:10.820Z",
+  "generated_at": "2026-11-11T01:09:46.029Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -44,7 +44,7 @@
     },
     "Lighter": {
       "ok": true,
-      "count": 226,
+      "count": 220,
       "error": null
     }
   },
@@ -8499,13 +8499,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Lighter": [
-          {
-            "symbol": "AXTI",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -14169,13 +14162,6 @@
           {
             "symbol": "BYDUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "BYD",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -47678,13 +47664,6 @@
             "quote": "USDT",
             "type": "swap"
           }
-        ],
-        "Lighter": [
-          {
-            "symbol": "NOK",
-            "quote": "USDC",
-            "type": "swap"
-          }
         ]
       }
     },
@@ -53908,13 +53887,6 @@
           {
             "symbol": "POPMARTUSDT",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "POPMART",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -96817,13 +96789,13 @@
         ],
         "Bybit": [
           {
-            "symbol": "SOLUSDC",
-            "quote": "USDC",
+            "symbol": "SOLUSDT",
+            "quote": "USDT",
             "type": "spot"
           },
           {
-            "symbol": "SOLUSDT",
-            "quote": "USDT",
+            "symbol": "SOLUSDC",
+            "quote": "USDC",
             "type": "spot"
           }
         ],
@@ -97567,13 +97539,6 @@
           {
             "symbol": "SOXSUSDTM",
             "quote": "USDT",
-            "type": "swap"
-          }
-        ],
-        "Lighter": [
-          {
-            "symbol": "SOXS",
-            "quote": "USDC",
             "type": "swap"
           }
         ]
@@ -106214,17 +106179,6 @@
             "symbol": "@230",
             "quote": "USDC",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "USDHKD": {
-      "listings": {
-        "Lighter": [
-          {
-            "symbol": "USDHKD",
-            "quote": "USDC",
-            "type": "swap"
           }
         ]
       }

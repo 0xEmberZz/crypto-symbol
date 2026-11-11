@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:09:33.714Z",
+  "generated_at": "2026-11-11T17:49:15.284Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,12 +14,12 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1304,
+      "count": 1306,
       "error": null
     },
     "Bitget": {
       "ok": true,
-      "count": 4559,
+      "count": 4560,
       "error": null
     },
     "Gate": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2294,
+      "count": 2295,
       "error": null
     },
     "Hyperliquid": {
@@ -2494,6 +2494,16 @@
           }
         ],
         "OKX": [
+          {
+            "symbol": "AERO-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          },
+          {
+            "symbol": "AERO-USDC",
+            "quote": "USDC",
+            "type": "spot"
+          },
           {
             "symbol": "AERO-USDT-SWAP",
             "quote": "USDT",
@@ -19698,6 +19708,17 @@
         ]
       }
     },
+    "DANGOTE": {
+      "listings": {
+        "Gate": [
+          {
+            "symbol": "DANGOTE_USDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ]
+      }
+    },
     "DAO": {
       "listings": {
         "Gate": [
@@ -26498,17 +26519,6 @@
             "symbol": "@137",
             "quote": "USDC",
             "type": "spot"
-          }
-        ]
-      }
-    },
-    "FLYBRAIN": {
-      "listings": {
-        "Gate": [
-          {
-            "symbol": "FLYBRAIN_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }
@@ -44997,6 +45007,24 @@
         "KuCoin": [
           {
             "symbol": "MTV-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "MTX": {
+      "listings": {
+        "Bitget": [
+          {
+            "symbol": "MTXUSDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "MTX-USDT",
             "quote": "USDT",
             "type": "spot"
           }

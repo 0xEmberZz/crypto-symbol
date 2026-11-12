@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:08:11.578Z",
+  "generated_at": "2026-11-12T17:29:44.044Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -29,7 +29,7 @@
     },
     "KuCoin": {
       "ok": true,
-      "count": 2294,
+      "count": 2295,
       "error": null
     },
     "Hyperliquid": {
@@ -1205,6 +1205,13 @@
         "Gate": [
           {
             "symbol": "AAPLX_USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ],
+        "KuCoin": [
+          {
+            "symbol": "AAPLX-USDT",
             "quote": "USDT",
             "type": "spot"
           }
@@ -26960,6 +26967,13 @@
     },
     "FRHC": {
       "listings": {
+        "Bitget": [
+          {
+            "symbol": "FRHCUSDT",
+            "quote": "USDT",
+            "type": "swap"
+          }
+        ],
         "Gate": [
           {
             "symbol": "FRHC_USDT",
@@ -84922,17 +84936,6 @@
         "Bitget": [
           {
             "symbol": "RSITMUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "RSIVEF": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "RSIVEFUSDT",
             "quote": "USDT",
             "type": "spot"
           }

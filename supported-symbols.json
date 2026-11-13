@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:26:56.689Z",
+  "generated_at": "2026-11-13T06:11:01.221Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -14,7 +14,7 @@
     },
     "OKX": {
       "ok": true,
-      "count": 1310,
+      "count": 1311,
       "error": null
     },
     "Bitget": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3158,
+      "count": 3157,
       "error": null
     },
     "KuCoin": {
@@ -53135,13 +53135,6 @@
     },
     "POD": {
       "listings": {
-        "Gate": [
-          {
-            "symbol": "POD_USDT",
-            "quote": "USDT",
-            "type": "swap"
-          }
-        ],
         "Aster": [
           {
             "symbol": "PODUSDT",
@@ -111078,6 +111071,17 @@
         "OKX": [
           {
             "symbol": "XGEV-USDT",
+            "quote": "USDT",
+            "type": "spot"
+          }
+        ]
+      }
+    },
+    "XGILD": {
+      "listings": {
+        "OKX": [
+          {
+            "symbol": "XGILD-USDT",
             "quote": "USDT",
             "type": "spot"
           }

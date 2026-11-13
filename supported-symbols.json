@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:15:19.280Z",
+  "generated_at": "2026-11-13T21:52:53.568Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -24,7 +24,7 @@
     },
     "Gate": {
       "ok": true,
-      "count": 3124,
+      "count": 3123,
       "error": null
     },
     "KuCoin": {
@@ -45138,11 +45138,6 @@
             "symbol": "MUSEBOOK_USDT",
             "quote": "USDT",
             "type": "spot"
-          },
-          {
-            "symbol": "MUSEBOOK_USDT",
-            "quote": "USDT",
-            "type": "swap"
           }
         ]
       }

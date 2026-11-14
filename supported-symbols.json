@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:52:53.568Z",
+  "generated_at": "2026-11-14T02:10:21.573Z",
   "version": 1,
   "exchanges": {
     "Binance": {
@@ -19,7 +19,7 @@
     },
     "Bitget": {
       "ok": true,
-      "count": 4557,
+      "count": 4556,
       "error": null
     },
     "Gate": {
@@ -66209,17 +66209,6 @@
         "Bitget": [
           {
             "symbol": "REMBUSDT",
-            "quote": "USDT",
-            "type": "spot"
-          }
-        ]
-      }
-    },
-    "REMBJ": {
-      "listings": {
-        "Bitget": [
-          {
-            "symbol": "REMBJUSDT",
             "quote": "USDT",
             "type": "spot"
           }
